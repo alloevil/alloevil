@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 </picture>
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [成功人士共有的秘诀，亿万富翁 CEO 揭秘：“这是我决策的法宝” [译]](https://baoyu.io/translations/leadership/billionaire-ceo-successful-people-share-pattern-recognition-skill)
+- [职场忠诚之终结 [译]](https://baoyu.io/translations/career/loyalty-employee-employer-job-security-broken-work-companies-bosses)
+- [两个一文不名的学生怎样将一个想法变成珠宝行业每月 3 万美元的成功故事 [译]](https://baoyu.io/translations/startup/how-2-broke-students-went-from-an-idea-to-30k-month-in-the-jewelry-industry)
+- [我每天是如何使用 ChatGPT 的（从科学家和开发者的视角） [译]](https://baoyu.io/translations/ai/how-i-use-chatgpt-daily-scientist-coder-perspective)
+- [利用 AI 教学哈佛 CS50 课程 —— 在计算机科学教育中的生成式人工智能应用 [译]](https://baoyu.io/translations/ai/teaching-cs50-with-ai)
 <!-- BLOG-POST-LIST:END -->
