@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://realyujie.xlog.app/feed"
+          feed_list: "https://baoyu.io/feed.xml"
