@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alloevil&show_icons=true&bg_color=00000000)
 
 <picture>
