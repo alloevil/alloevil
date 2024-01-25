@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
