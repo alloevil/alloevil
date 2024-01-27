@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 不仅仅是一个功能 [译]](https://baoyu.io/translations/ai/ai-is-not-a-feature)
 - [自动驾驶：通用人工智能（AGI）的案例研究 [译]](https://baoyu.io/translations/ai/self-driving-as-a-case-study-for-agi)
 - [借助 NEAT（非运动性活动热量消耗）的方法，不去健身房也能变得更健康 [译]](https://baoyu.io/translations/fitness/neat-fitness-non-exercise-activity-thermogenesis)
 - [Loro 富文本 CRDT 的介绍 [译]](https://baoyu.io/translations/frontend/introduction-to-loros-rich-text-crdt)
 - [MemGPT：将大语言模型转变为操作系统 [译]](https://baoyu.io/translations/ai-paper/2310.08560-memgpt-towards-llms-as-operating-systems)
-- [彼得·林奇：懂得放手的智慧 [译]](https://baoyu.io/translations/investment/peter-lynch-the-wisdom-of-walking)
 <!-- BLOG-POST-LIST:END -->
