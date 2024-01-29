@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [新论文：《WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models》](https://baoyu.io/blog/ai/webvoyager)
