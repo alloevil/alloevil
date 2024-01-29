@@ -114,9 +114,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [使用 AI 学习编程时，切记还需独立思考 [译]](https://baoyu.io/translations/ai/if-you-use-ai-to-teach-you-how-to-code-remember-you-still-need-to-think-for-yourself)
 - [新论文：《WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models》](https://baoyu.io/blog/ai/webvoyager)
 - [构建企业级 RAG 系统的高级指南 [译]](https://baoyu.io/translations/rag/mastering-rag-how-to-architect-an-enterprise-rag-system)
 - [WebVoyager：借助强大多模态模型，开创全新的网络智能体 [译]](https://baoyu.io/translations/ai-paper/2401.13919-webvoyager-building-an-end-to-end-web-agent-with-large-multimodal-models)
 - [AI 时代下，用户体验面临的复杂性挑战 [译]](https://baoyu.io/translations/ai/perplexitys-high-bar-for-ux-in-the-age-of-ai)
-- [AI 不仅仅是一个功能 [译]](https://baoyu.io/translations/ai/ai-is-not-a-feature)
 <!-- BLOG-POST-LIST:END -->
