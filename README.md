@@ -116,9 +116,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [在 Copilot 的协助下编程 [译]](https://baoyu.io/translations/llm/coding-on-copilot-2024-developer-research)
+- [从历史伟大研发实验室获得的经验教训 [译]](https://baoyu.io/translations/tech/lessons-from-historys-greatest-rd-labs)
+- [如果你觉得自己不够聪明，也缺乏才华，该如何行动 [译]](https://baoyu.io/translations/mindset/how-to-do-things-if-youre-not-that)
+- [在 Copilot 的协助下编程白皮书——2023 年的数据显示了代码质量面临的挑战 [译]](https://baoyu.io/translations/llm/coding-on-copilot-2024-developer-research)
 - [makeMoE：从零开始打造一个稀疏混合专家语言模型 [译]](https://baoyu.io/translations/llm/makemoe-implement-a-sparse-mixture-of-experts-language-model-from-scratch)
 - [让 AI 来评估你的简历 [译]](https://baoyu.io/translations/ai/judge-your-resume-with-ai)
-- [他人即地狱：大型科技公司的绩效管理 [译]](https://baoyu.io/translations/engineering-management/hell-is-other-people-performance)
-- [使用 AI 学习编程时，切记还需独立思考 [译]](https://baoyu.io/translations/ai/if-you-use-ai-to-teach-you-how-to-code-remember-you-still-need-to-think-for-yourself)
 <!-- BLOG-POST-LIST:END -->
