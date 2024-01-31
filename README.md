@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro 评测：这款顶尖头显仅是对未来的初步探索 [译]](https://baoyu.io/translations/apple/apple-vision-pro-review-the-best-headset-yet-is-just-a-glimpse-of-the-future)
 - [Apple Vision Pro 评测：初见惊艳，后觉平常 [译]](https://baoyu.io/translations/apple/apple-vision-pro-review-vr-ar-headset-features-price)
 - [从历史伟大研发实验室获得的经验教训 [译]](https://baoyu.io/translations/tech/lessons-from-historys-greatest-rd-labs)
 - [如果你觉得自己不够聪明，也缺乏才华，该如何行动 [译]](https://baoyu.io/translations/mindset/how-to-do-things-if-youre-not-that)
 - [在 Copilot 的协助下编程白皮书——2023 年的数据显示了代码质量面临的挑战 [译]](https://baoyu.io/translations/llm/coding-on-copilot-2024-developer-research)
-- [makeMoE：从零开始打造一个稀疏混合专家语言模型 [译]](https://baoyu.io/translations/llm/makemoe-implement-a-sparse-mixture-of-experts-language-model-from-scratch)
 <!-- BLOG-POST-LIST:END -->
