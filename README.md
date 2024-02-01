@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [现代 AI 技术架构：企业 AI 未来设计的关键原则 [译]](https://baoyu.io/translations/ai/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures)
 - [利用 ChatGPT 在技术面试中作弊到底有多容易？我们做了个实验来探究 [译]](https://baoyu.io/translations/interview/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 - [大语言模型是否“贪婪”？激励提示效果的实验分析（$0 至 $100 万）[译]](https://baoyu.io/translations/prompt-engineering/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis)
 - [零利率时代的终结：对软件工程师而言新常态意味着什么 [译]](https://baoyu.io/translations/job/the-end-of-0-interest-rates-what-the-new-normal-means-for-software-engineers)
 - [Apple Vision Pro 评测：这款顶尖头显仅是对未来的初步探索 [译]](https://baoyu.io/translations/apple/apple-vision-pro-review-the-best-headset-yet-is-just-a-glimpse-of-the-future)
-- [Apple Vision Pro 评测：初见惊艳，后觉平常 [译]](https://baoyu.io/translations/apple/apple-vision-pro-review-vr-ar-headset-features-price)
 <!-- BLOG-POST-LIST:END -->
