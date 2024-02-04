@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [RAG 系统开发中的 12 大挑战及解决策略 [译]](https://baoyu.io/translations/rag/12-rag-pain-points-and-proposed-solutions)
 - [马克 - 扎克伯格解释 Meta 为什么要开源其人工智能 [译]](https://baoyu.io/translations/meta/mark-zuckerberg-explains-why-meta-open-sources-its-ai)
 - [现代 AI 技术架构：企业 AI 未来设计的关键原则 [译]](https://baoyu.io/translations/ai/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures)
 - [利用 ChatGPT 在技术面试中作弊到底有多容易？我们做了个实验来探究 [译]](https://baoyu.io/translations/interview/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 - [大语言模型是否“贪婪”？激励提示效果的实验分析（$0 至 $100 万）[译]](https://baoyu.io/translations/prompt-engineering/impact-of-monetary-incentives-on-the-performance-of-gpt-4-turbo-an-experimental-analysis)
-- [零利率时代的终结：对软件工程师而言新常态意味着什么 [译]](https://baoyu.io/translations/job/the-end-of-0-interest-rates-what-the-new-normal-means-for-software-engineers)
 <!-- BLOG-POST-LIST:END -->
