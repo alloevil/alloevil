@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何避免在求职薪资谈判中失误 [译]](https://baoyu.io/translations/interview/how-not-to-bomb-your-offer-negotiation)
+- [构建产品副驾驶（Copilot）的痛点 [译]](https://baoyu.io/translations/ai/the-pain-points-of-building-a-copilot)
 - [我听过的最棒的调试故事 [译]](https://baoyu.io/translations/software-engineering/the-best-debugging-story-ive-ever-heard)
 - [RAPTOR：树状组织的递归抽象检索技术 [译]](https://baoyu.io/translations/ai-paper/2401.18059-raptor-recursive-abstractive-processing-for-tree-organized-retrieval)
 - [RAG 系统开发中的 12 大痛点及解决方案 [译]](https://baoyu.io/translations/rag/12-rag-pain-points-and-proposed-solutions)
-- [马克 - 扎克伯格解释 Meta 为什么要开源其人工智能 [译]](https://baoyu.io/translations/meta/mark-zuckerberg-explains-why-meta-open-sources-its-ai)
-- [现代 AI 技术架构：企业 AI 未来设计的关键原则 [译]](https://baoyu.io/translations/ai/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures)
 <!-- BLOG-POST-LIST:END -->
