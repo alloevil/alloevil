@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Scholar GPT Prompt](https://baoyu.io/blog/prompt-engineering/scholar-gpt-prompt)
 - [Tutor Me Prompt](https://baoyu.io/blog/prompt-engineering/tutor-me-prompt)
 - [如何避免在求职薪资谈判中失误 [译]](https://baoyu.io/translations/interview/how-not-to-bomb-your-offer-negotiation)
 - [构建产品副驾驶（Copilot）的痛点 [译]](https://baoyu.io/translations/ai/the-pain-points-of-building-a-copilot)
 - [我听过的最棒的调试故事 [译]](https://baoyu.io/translations/software-engineering/the-best-debugging-story-ive-ever-heard)
-- [RAPTOR：树状组织的递归抽象检索技术 [译]](https://baoyu.io/translations/ai-paper/2401.18059-raptor-recursive-abstractive-processing-for-tree-organized-retrieval)
 <!-- BLOG-POST-LIST:END -->
