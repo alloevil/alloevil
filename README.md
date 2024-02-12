@@ -116,9 +116,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [关键人才是发展的瓶颈 [译]](https://baoyu.io/translations/engineering-management/lieutenants-are-the-limiting-reagent)
+- [在使用 Vision Pro 40 小时后的感悟 [译]](https://baoyu.io/translations/apple/all-my-thoughts-after-40-hours-in-the-vision-pro)
 - [如何作为软件工程师涉足机器人技术 [译]](https://baoyu.io/blog/software-engineering/getting-into-robotics-as-a-software-engineer)
 - [为什么软件工程师喜欢木工 [译]](https://baoyu.io/translations/software-engineering/why-software-engineers-like-woodworking)
 - [谷歌工程师：AI 对我们的业务构成严重风险 [译]](https://baoyu.io/translations/google/google-engineer-ai-is-a-serious-risk-to-our-business)
-- [成为众人喜爱的聊天达人 [译]](https://baoyu.io/translations/mindset/how-to-be-someone-people-love-to-talk-to)
-- [Scholar GPT Prompt](https://baoyu.io/blog/prompt-engineering/scholar-gpt-prompt)
 <!-- BLOG-POST-LIST:END -->
