@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何作为软件工程师涉足机器人技术 [译]](https://baoyu.io/blog/software-engineering/getting-into-robotics-as-a-software-engineer)
+- [为什么软件工程师喜欢木工 [译]](https://baoyu.io/translations/software-engineering/why-software-engineers-like-woodworking)
+- [谷歌工程师：AI 对我们的业务构成严重风险 [译]](https://baoyu.io/translations/google/google-engineer-ai-is-a-serious-risk-to-our-business)
 - [成为众人喜爱的聊天达人 [译]](https://baoyu.io/translations/mindset/how-to-be-someone-people-love-to-talk-to)
 - [Scholar GPT Prompt](https://baoyu.io/blog/prompt-engineering/scholar-gpt-prompt)
-- [Tutor Me Prompt](https://baoyu.io/blog/prompt-engineering/tutor-me-prompt)
-- [如何避免在求职薪资谈判中失误 [译]](https://baoyu.io/translations/interview/how-not-to-bomb-your-offer-negotiation)
-- [构建产品副驾驶（Copilot）的痛点 [译]](https://baoyu.io/translations/ai/the-pain-points-of-building-a-copilot)
 <!-- BLOG-POST-LIST:END -->
