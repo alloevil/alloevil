@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 > 📦 1.1 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 110 Public Repositories 
@@ -79,20 +77,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 12 mins       ████████████████████████░   95.82 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 hrs 16 mins       █████████████████████████   98.71 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mvp                      2 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        █████████████████████░░░░   84.12 % 
-Linux                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -111,7 +105,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2024 18:38:07 UTC
+ Last Updated on 14/02/2024 18:38:22 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
