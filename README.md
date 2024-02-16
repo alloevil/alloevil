@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [视频生成模型：构建虚拟世界的模拟器 [译]](https://baoyu.io/translations/openai/video-generation-models-as-world-simulators)
 - [AI 或许真的能助力中产阶级重塑辉煌 [译]](https://baoyu.io/translations/ai/how-ai-could-help-rebuild-the-middle-class)
 - [直截了当：展示给我提示符。 [译]](https://baoyu.io/translations/prompt-engineering/fuck-you-show-me-the-prompt)
 - [大语言模型提示工程综述：技巧与应用领域 [译]](https://baoyu.io/translations/ai-paper/2402.07927-a-systematic-survey-of-prompt-engineering-in-large-language-models-techniques-and-applications)
 - [如何使用 ChatGPT Api 和 Node.js 对 Youtube 视频内容进行摘要 [译]](https://baoyu.io/translations/prompt-engineering/how-to-summarize-youtube-video-using)
-- [“提示工程师”：一个即将过时的职业 [译]](https://baoyu.io/translations/prompt-engineering/prompt-engineering-is-a-job-of-the-past)
 <!-- BLOG-POST-LIST:END -->
