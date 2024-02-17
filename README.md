@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Sora 和之前 Runway 那些在架构上有啥区别呢？](https://baoyu.io/blog/ai/sora-vs-runway)
 - [Sora 的工作原理（及其意义） [译]](https://baoyu.io/translations/sora/sora-and-the-future-of-filmmaking)
 - [视频生成模型：构建虚拟世界的模拟器 [译]](https://baoyu.io/translations/openai/video-generation-models-as-world-simulators)
 - [AI 或许真的能助力中产阶级重塑辉煌 [译]](https://baoyu.io/translations/ai/how-ai-could-help-rebuild-the-middle-class)
 - [直截了当：展示给我提示符。 [译]](https://baoyu.io/translations/prompt-engineering/fuck-you-show-me-the-prompt)
-- [大语言模型提示工程综述：技巧与应用领域 [译]](https://baoyu.io/translations/ai-paper/2402.07927-a-systematic-survey-of-prompt-engineering-in-large-language-models-techniques-and-applications)
 <!-- BLOG-POST-LIST:END -->
