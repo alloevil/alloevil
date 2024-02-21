@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Gemma：推出全新的顶尖开放模型 [译]](https://baoyu.io/translations/google/gemma-open-models)
 - [探索 Sora：视频制作的魔法 [译]](https://baoyu.io/translations/sora/how-sora-works-under-the-hood)
 - [新手如何为演讲制作精美的幻灯片 [译]](https://baoyu.io/translations/design/beginners-guide-beautiful-slides-talks)
 - [AI 像水一般普遍 [译]](https://baoyu.io/translations/ai/ai-like-water)
 - [Sora 和之前 Runway 那些在架构上有啥区别呢？](https://baoyu.io/blog/ai/sora-vs-runway)
-- [Sora 的工作原理（及其意义） [译]](https://baoyu.io/translations/sora/sora-and-the-future-of-filmmaking)
 <!-- BLOG-POST-LIST:END -->
