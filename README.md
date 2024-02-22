@@ -36,13 +36,15 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C080%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C083%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,16 +79,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 41 mins       ███████████████████████░░   92.25 % 
+Docker                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs 53 mins       █████████████████████████   99.36 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+drp                      1 hr 35 mins        ██████████████░░░░░░░░░░░   54.35 % 
+mvp                      1 hr 17 mins        ███████████░░░░░░░░░░░░░░   44.19 % 
+rtf                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 41 mins        ██████████████░░░░░░░░░░░   57.80 % 
+Mac                      1 hr 13 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
 ```
 
 **I Mostly Code in Java** 
@@ -105,7 +115,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:37:25 UTC
+ Last Updated on 22/02/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
