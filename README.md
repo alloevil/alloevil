@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 与 Google 的文化观 [译]](https://baoyu.io/translations/google/gemini-and-googles-culture)
 - [现阶段 AI 的价值和盈利方向？](https://baoyu.io/blog/ai/ai-values-and-how-to-make-money-with-ai)
 - [给年轻人的副业建议](https://baoyu.io/blog/career/suggestions-for-side-projects)
 - [V-JEPA：迈向 Yann LeCun 先进机器智能（AMI）愿景的新里程碑 [译]](https://baoyu.io/translations/meta/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture)
 - [Sora 将如何改变我们的生活？](https://baoyu.io/blog/ai/will-sora-change-our-life)
-- [Gemma：推出全新的顶尖开放模型 [译]](https://baoyu.io/translations/google/gemma-open-models)
 <!-- BLOG-POST-LIST:END -->
