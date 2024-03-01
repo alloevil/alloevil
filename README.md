@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [学习成为善用 AI 的人](https://baoyu.io/blog/ai/xu)
 - [Sora：探索大型视觉模型的前世今生、技术内核及未来趋势 [译]](https://baoyu.io/translations/ai-paper/2402.17177-sora-a-review-on-background-technology-limitations-and-opportunities-of-large-vision-models)
 - [为什么随着年龄增长，我们感觉时间似乎流逝得更快 [译]](https://baoyu.io/translations/life/why-time-seems-to-pass-faster-as-we-age)
 - [谷歌 Deepmind 发布首个生成式交互环境模型 Genie [译]](https://baoyu.io/translations/google/introduce-genie)
 - [Gemini 与 Google 的文化观 [译]](https://baoyu.io/translations/google/gemini-and-googles-culture)
-- [现阶段 AI 的价值和盈利方向？](https://baoyu.io/blog/ai/ai-values-and-how-to-make-money-with-ai)
 <!-- BLOG-POST-LIST:END -->
