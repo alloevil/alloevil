@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [谷歌的恐惧文化 [译]](https://baoyu.io/translations/google/google-culture-of-fear)
+- [人工智能应该开放吗？ [译]](https://baoyu.io/translations/ai/should-ai-be-open)
 - [OpenAI 和 Elon Musk [译]](https://baoyu.io/translations/openai/openai-elon-musk)
 - [“提示注入”与“破解”并不是一回事 [译]](https://baoyu.io/translations/prompt-engineering/prompt-injection-jailbreaking)
 - [探索 Claude 的新纪元 [译]](https://baoyu.io/translations/anthropic/claude-3-family)
-- [商业报道记者指南 [译]](https://baoyu.io/translations/business/a-business-reporter-s-guide-to-documents)
-- [揭秘 OpenAI 至 2027 年打造通用人工智能的蓝图 [译]](https://baoyu.io/translations/openai/q-start-info)
 <!-- BLOG-POST-LIST:END -->
