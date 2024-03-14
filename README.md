@@ -118,9 +118,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [创业指南 [译]](https://baoyu.io/translations/startup/startup-playbook)
+- [开发者们正面临前所未有的压力 [译]](https://baoyu.io/translations/software-engineering/developers-are-on-edge)
 - [程序员是不是要被 AI 替代？](https://baoyu.io/blog/software-engineering/will-ai-replace-sde)
 - [WhisperKit [译]](https://baoyu.io/translations/open-source/whisperkit)
 - [实验性的辅助“元”提示 [译]](https://baoyu.io/translations/anthropic/metaprompt)
-- [技术细节：简单说“不是高深莫测”（单调与 bors 的历程）[译]](https://baoyu.io/translations/software-engineering/technicalities-not-rocket-science)
-- [聊天 GPT 与语气：如何避免发出机器人的声音 [译]](https://baoyu.io/translations/prompt-engineering/chatgpt-and-tone)
 <!-- BLOG-POST-LIST:END -->
