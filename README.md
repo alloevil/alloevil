@@ -121,9 +121,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [小孩搭乐高和 AI 写程序](https://baoyu.io/blog/ai/kid-plays-lego-vs-ai-writes-code)
 - [Nicolai 对微软 CEO Satya Nadella 的访谈 [译]](https://baoyu.io/translations/microsoft/nicolai-interview-satya-nadella)
 - [创业指南 [译]](https://baoyu.io/translations/startup/startup-playbook)
 - [开发者们正面临前所未有的压力 [译]](https://baoyu.io/translations/software-engineering/developers-are-on-edge)
 - [程序员是不是要被 AI 替代？](https://baoyu.io/blog/software-engineering/will-ai-replace-sde)
-- [WhisperKit [译]](https://baoyu.io/translations/open-source/whisperkit)
 <!-- BLOG-POST-LIST:END -->
