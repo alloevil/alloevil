@@ -121,9 +121,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman- OpenAI、GPT-5、Sora、Board Saga、Elon Musk、Ilya、Power &amp; AGI | Lex Fridman 播客 [译]](https://baoyu.io/translations/openai/lex-interview-sam-2)
 - [软件开发的未来展望 [译]](https://baoyu.io/translations/software-engineering/thoughts-on-the-future-of-software-development)
 - [小孩搭乐高和 AI 写程序](https://baoyu.io/blog/ai/kid-plays-lego-vs-ai-writes-code)
 - [Nicolai 对微软 CEO Satya Nadella 的访谈 [译]](https://baoyu.io/translations/microsoft/nicolai-interview-satya-nadella)
 - [创业指南 [译]](https://baoyu.io/translations/startup/startup-playbook)
-- [开发者们正面临前所未有的压力 [译]](https://baoyu.io/translations/software-engineering/developers-are-on-edge)
 <!-- BLOG-POST-LIST:END -->
