@@ -119,9 +119,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [生成式 AI 的未来 [译]](https://baoyu.io/translations/transcript/whats-next-in-generative-ai)
 - [一个相对通用的翻译 Prompt，可以适用于多种不同的语言翻译](https://baoyu.io/blog/prompt-engineering/a-common-translation-prompt-for-different-languages)
 - [未曾踏足的路径 [译]](https://baoyu.io/translations/nvidia/on-paths-not-taken)
 - [Prompt Engineering 的核心是逻辑](https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering)
 - [如何让 GPT-4 生成更好的摘要](https://baoyu.io/blog/prompt-engineering/how-to-get-a-better-summary-result)
-- [Sam Altman- OpenAI、GPT-5、Sora、Board Saga、Elon Musk、Ilya、Power &amp; AGI | Lex Fridman 播客 [译]](https://baoyu.io/translations/openai/lex-interview-sam-2)
 <!-- BLOG-POST-LIST:END -->
