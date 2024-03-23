@@ -119,9 +119,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity 的创始人 Aravind Srinivas 与 Stripe 的 David Singleton 炉边谈话 [译]](https://baoyu.io/translations/transcript/aravind-srinivas-perplexity-and-david-singleton-stripe-fireside-chat)
 - [李飞飞对话英伟达首席科学家：人工智能的高速革命及其对人类的影响 [译]](https://baoyu.io/translations/transcript/fireside-chat-with-fei-fei-li-and-bill-dally-the-high-speed-revolution-in-ai-and-managing-the-impact-on-humanity)
 - [生成式 AI 的未来 [译]](https://baoyu.io/translations/transcript/whats-next-in-generative-ai)
 - [一个相对通用的翻译 Prompt，可以适用于多种不同的语言翻译](https://baoyu.io/blog/prompt-engineering/a-common-translation-prompt-for-different-languages)
 - [未曾踏足的路径 [译]](https://baoyu.io/translations/nvidia/on-paths-not-taken)
-- [Prompt Engineering 的核心是逻辑](https://baoyu.io/blog/prompt-engineering/the-core-of-prompt-engineering)
 <!-- BLOG-POST-LIST:END -->
