@@ -121,9 +121,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 与训练 AI 替代自己的工人的矛盾 [译]](https://baoyu.io/translations/transcript/ai-and-the-paradox-of-self-replacing-workers)
+- [揭秘内部：OpenAI 的 Sora 模型如何运作 [译]](https://baoyu.io/translations/sora/under-the-hood-how-openai-s-sora-model-works)
 - [Sora：初体验 [译]](https://baoyu.io/translations/openai/sora-first-impressions)
 - [在开放世界中的通用智能体 [译]](https://baoyu.io/translations/transcript/generally-capable-agents-in-open-ended-worlds)
 - [Perplexity 的创始人 Aravind Srinivas 与 Stripe 的 David Singleton 炉边谈话 [译]](https://baoyu.io/translations/transcript/aravind-srinivas-perplexity-and-david-singleton-stripe-fireside-chat)
-- [李飞飞对话英伟达首席科学家：人工智能的高速革命及其对人类的影响 [译]](https://baoyu.io/translations/transcript/fireside-chat-with-fei-fei-li-and-bill-dally-the-high-speed-revolution-in-ai-and-managing-the-impact-on-humanity)
-- [生成式 AI 的未来 [译]](https://baoyu.io/translations/transcript/whats-next-in-generative-ai)
 <!-- BLOG-POST-LIST:END -->
