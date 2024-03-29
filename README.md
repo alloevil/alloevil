@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [吴恩达：AI 智能体工作流引领人工智能新趋势 [译]](https://baoyu.io/translations/transcript/whats-next-for-ai-agentic-workflows)
+- [一段能帮你给代码生成单元测试的提示词分析](https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code)
 - [AI 与训练 AI 替代自己的工人的矛盾 [译]](https://baoyu.io/translations/transcript/ai-and-the-paradox-of-self-replacing-workers)
 - [揭秘内部：OpenAI 的 Sora 模型如何运作 [译]](https://baoyu.io/translations/sora/under-the-hood-how-openai-s-sora-model-works)
 - [Sora：初体验 [译]](https://baoyu.io/translations/openai/sora-first-impressions)
-- [在开放世界中的通用智能体 [译]](https://baoyu.io/translations/transcript/generally-capable-agents-in-open-ended-worlds)
-- [Perplexity 的创始人 Aravind Srinivas 与 Stripe 的 David Singleton 炉边谈话 [译]](https://baoyu.io/translations/transcript/aravind-srinivas-perplexity-and-david-singleton-stripe-fireside-chat)
 <!-- BLOG-POST-LIST:END -->
