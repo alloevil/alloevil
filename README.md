@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [从 20 年前的愚人节开始的电子邮件革命：Gmail 时代回眸 [译]](https://baoyu.io/translations/google/google-gmail-20-year-anniversary-april-fools-marissa-mayer-brin-page)
 - [在 AI 淘金潮中，企业究竟富得有多少？ [译]](https://baoyu.io/translations/ai/just-how-rich-are-businesses-getting-in-the-ai-gold-rush)
 - [GitHub 如何成为代码托管的领头羊，超越 SourceForge [译]](https://baoyu.io/translations/github/how-github-replaced-sourceforge-as-the-dominant-code-hosting-platform)
 - [八位 Google 员工开创了现代 AI 的新纪元，揭秘他们的故事 [译]](https://baoyu.io/translations/story/eight-google-employees-invented-modern-ai-transformers-paper)
 - [探索合成语音的挑战与机遇 [译]](https://baoyu.io/translations/openai/navigating-the-challenges-and-opportunities-of-synthetic-voices)
-- [吴恩达：AI 智能体工作流引领人工智能新趋势 [译]](https://baoyu.io/translations/transcript/whats-next-for-ai-agentic-workflows)
 <!-- BLOG-POST-LIST:END -->
