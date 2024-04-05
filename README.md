@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [全速前行：2024 年的机器学习、人工智能与数据（MAD）领域展望 [译]](https://baoyu.io/translations/ai/full-steam-ahead-the-2024-mad-machine-learning-ai-data-landscape)
 - [15 个 ChatGPT 学术写作神器提示 [译]](https://baoyu.io/translations/prompt-engineering/chatgpt-prompts-for-academic-writing)
 - [在浏览器中直接使用 OCR 技术处理 PDF 和图片 [译]](https://baoyu.io/translations/ai/ocr-pdfs-images)
 - [多样本越狱 [译]](https://baoyu.io/translations/anthropic/many-shot-jailbreaking)
 - [OpenAI 向 NTIA 提交的开放模型权重意见 [译]](https://baoyu.io/translations/openai/openai-s-comment-to-the-ntia-on-open-model-weights)
-- [丹尼尔的故事 [译]](https://baoyu.io/translations/story/tale-of-danie)
 <!-- BLOG-POST-LIST:END -->
