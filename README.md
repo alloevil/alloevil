@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [通过模拟一切视频生成将带我们走向通用人工智能 [译]](https://baoyu.io/translations/transcript/video-generation-will-lead-to-agi-by-simulating-everything)
 - [SGI（美国硅图公司）的兴衰史 —— 一位叛逆的年轻人如何短暂地征服世界的故事 [译]](https://baoyu.io/translations/story/the-rise-and-fall-of-silicon-graphics)
 - [MidJourney、DeepL、ElevenLabs 与 HeyGen 的共同之处（除了拥有其独特的团队结构和爆炸性增长！） [译]](https://baoyu.io/translations/ai/what-midjourney-deepl-elevenlabs)
 - [蔡崇信访谈 —— 从阿里巴巴到 NBA 的跨界人生[译]](https://baoyu.io/translations/transcript/joe-tsai-interview-by-norges-bank)
 - [Torvalds 畅谈人工智能对编程的影响 [译]](https://baoyu.io/translations/transcript/torvalds-speaks-impact-of-artificial-intelligence-on-programming)
-- [全速前行：2024 年的机器学习、人工智能与数据（MAD）领域展望 [译]](https://baoyu.io/translations/ai/full-steam-ahead-the-2024-mad-machine-learning-ai-data-landscape)
 <!-- BLOG-POST-LIST:END -->
