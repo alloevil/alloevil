@@ -69,9 +69,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [浅显易懂地介绍 llm.c [译]](https://baoyu.io/translations/llm/explaining-llm-c-in-layman-terms)
 - [马斯克访谈 —— 尼古拉·坦根采访，谈 AI、特斯拉、中国电动汽车、Twitter（X）、SpaceX、中国电动汽车、企业文化与管理、火星殖民[译]](https://baoyu.io/translations/transcript/elon-musk-interview-with-nicolai-tangen)
 - [AI 生成代码的生命周期 [译]](https://baoyu.io/translations/ai-coding/the-lifecycle-of-a-code-ai-completion)
 - [马斯克的最新演讲，揭示 SpaceX 登陆火星宏伟蓝图，开创人类多行星文明新纪元 [译]](https://baoyu.io/translations/transcript/at-starbase-elonmusk-provided-an-update-on-the-companys-plans-to-send-humanity-to-mars)
 - [通过模拟一切视频生成将带我们走向通用人工智能，终有一天你可以在视频模型上运行 ChatGPT [译]](https://baoyu.io/translations/transcript/video-generation-will-lead-to-agi-by-simulating-everything)
-- [SGI（美国硅图公司）的兴衰史 —— 一位叛逆的年轻人如何短暂地征服世界的故事 [译]](https://baoyu.io/translations/story/the-rise-and-fall-of-silicon-graphics)
 <!-- BLOG-POST-LIST:END -->
