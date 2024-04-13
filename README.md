@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [揭穿号称首位人工智能软件工程师 Devin 能在 Upwork 接活的谎言！[译]](https://baoyu.io/translations/transcript/debunking-devin-first-ai-software-engineer-upwork-lie-exposed)
 - [Ray Kurzweil 与 Geoff Hinton 关于未来 AI 发展的辩论 [译]](https://baoyu.io/translations/transcript/ray-kurzweil-geoff-hinton-debate-the-future-of-ai)
 - [如何设置 Mixtral-8x22B | 基础模型提示入门 [译]](https://baoyu.io/translations/prompt-engineering/how-to-prompt-mixtral-8x22b-base-model-prompting-explained)
 - [软件工程中的心理健康问题 [译]](https://baoyu.io/translations/software-engineering/mental-health-in-software-engineering)
 - [浅显易懂地介绍 llm.c [译]](https://baoyu.io/translations/llm/explaining-llm-c-in-layman-terms)
-- [马斯克访谈 —— 尼古拉·坦根采访，谈 AI、特斯拉、中国电动汽车、Twitter（X）、SpaceX、中国电动汽车、企业文化与管理、火星殖民[译]](https://baoyu.io/translations/transcript/elon-musk-interview-with-nicolai-tangen)
 <!-- BLOG-POST-LIST:END -->
