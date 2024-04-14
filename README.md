@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [价值 100 亿美元的 Notion 欲构建您的全能 AI 应用 [译]](https://baoyu.io/translations/story/10-billion-productivity-startup-notion-wants-to-build-your-ai-everything-app)
+- [访谈记录：Ezra Klein 采访 Dario Amodei [译]](https://baoyu.io/translations/transcript/transcript-ezra-klein-interviews-dario-amodei)
 - [揭穿号称首位人工智能软件工程师 Devin 能在 Upwork 接活的谎言！[译]](https://baoyu.io/translations/transcript/debunking-devin-first-ai-software-engineer-upwork-lie-exposed)
 - [Ray Kurzweil 与 Geoff Hinton 关于未来 AI 发展的辩论 [译]](https://baoyu.io/translations/transcript/ray-kurzweil-geoff-hinton-debate-the-future-of-ai)
 - [如何设置 Mixtral-8x22B | 基础模型提示入门 [译]](https://baoyu.io/translations/prompt-engineering/how-to-prompt-mixtral-8x22b-base-model-prompting-explained)
-- [软件工程中的心理健康问题 [译]](https://baoyu.io/translations/software-engineering/mental-health-in-software-engineering)
-- [浅显易懂地介绍 llm.c [译]](https://baoyu.io/translations/llm/explaining-llm-c-in-layman-terms)
 <!-- BLOG-POST-LIST:END -->
