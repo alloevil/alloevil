@@ -118,9 +118,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [美国芯片制造的重大失误 [译]](https://baoyu.io/translations/transcript/americas-big-chipmaking-blunder)
 - [福布斯采访 Perplexity 创始人：Perplexity 让你在互联网上找到更好的答案 [译]](https://baoyu.io/translations/transcript/perplexity-wants-to-help-you-find-better-answers-on-the-internet-forbes)
 - [福布斯采访 Notion 创始人：用“乐高”式创新挑战 Google Docs 和 Microsoft Office [译]](https://baoyu.io/translations/transcript/notion-takes-on-google-docs-and-microsoft-office-by-being-like-lego-forbes)
 - [价值 100 亿美元的 Notion 欲构建您的全能 AI 应用 [译]](https://baoyu.io/translations/story/10-billion-productivity-startup-notion-wants-to-build-your-ai-everything-app)
 - [访谈记录：Ezra Klein 采访 Dario Amodei [译]](https://baoyu.io/translations/transcript/transcript-ezra-klein-interviews-dario-amodei)
-- [揭穿号称首位人工智能软件工程师 Devin 能在 Upwork 接活的谎言！[译]](https://baoyu.io/translations/transcript/debunking-devin-first-ai-software-engineer-upwork-lie-exposed)
 <!-- BLOG-POST-LIST:END -->
