@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [问答：在 RAG 应用中，GPT-3.5 足够就足够了吗？](https://baoyu.io/blog/rag/qa-is-gpt35-good-enough-for-rag)
 - [规划是 AI 智能体的一种核心设计模式[译]](https://baoyu.io/translations/ai-agent/planning-is-a-key-agentic-ai-design-pattern)
 - [美国芯片制造的重大失误 [译]](https://baoyu.io/translations/transcript/americas-big-chipmaking-blunder)
 - [福布斯采访 Perplexity 创始人：Perplexity 让你在互联网上找到更好的答案 [译]](https://baoyu.io/translations/transcript/perplexity-wants-to-help-you-find-better-answers-on-the-internet-forbes)
 - [福布斯采访 Notion 创始人：用“乐高”式创新挑战 Google Docs 和 Microsoft Office [译]](https://baoyu.io/translations/transcript/notion-takes-on-google-docs-and-microsoft-office-by-being-like-lego-forbes)
-- [价值 100 亿美元的 Notion 欲构建您的全能 AI 应用 [译]](https://baoyu.io/translations/story/10-billion-productivity-startup-notion-wants-to-build-your-ai-everything-app)
 <!-- BLOG-POST-LIST:END -->
