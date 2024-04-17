@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [第 2 章：技术性能 —— 2024 年人工智能指数报告 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter2)
 - [Chapter 2: Technical Performance | 2024 AI Index Report](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter2-en)
 - [Chapter 1: Research and Development | 2024 AI Index Report](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1-en)
-- [2024 年人工智能指数报告 —— 第 1 章：AI 研发 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1)
+- [第 1 章：AI 研发 —— 2024 年人工智能指数报告 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1)
 - [2024 年人工智能指数报告 —— 由斯坦福大学人工智能研究院发布 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024)
-- [问答：在 RAG 应用中，GPT-3.5 足够就足够了吗？](https://baoyu.io/blog/rag/qa-is-gpt35-good-enough-for-rag)
 <!-- BLOG-POST-LIST:END -->
