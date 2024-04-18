@@ -119,9 +119,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [介绍 Meta Llama 3：迄今为止最强大的开源大语言模型 [译]](https://baoyu.io/translations/meta/meta-llama-3)
 - [第 2 章：技术性能 —— 2024 年人工智能指数报告 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter2)
 - [Chapter 2: Technical Performance | 2024 AI Index Report](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter2-en)
 - [Chapter 1: Research and Development | 2024 AI Index Report](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1-en)
 - [第 1 章：AI 研发 —— 2024 年人工智能指数报告 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1)
-- [2024 年人工智能指数报告 —— 由斯坦福大学人工智能研究院发布 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024)
 <!-- BLOG-POST-LIST:END -->
