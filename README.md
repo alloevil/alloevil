@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [硅谷女孩采访 Perplexity 创始人 Aravind [译]](https://baoyu.io/translations/transcript/meet-aravind-from-india-who-quit-openai-to-disrupt-google-conversation-with-marina-mogilko)
+- [DREAM: 分布式 RAG 实验框架 [译]](https://baoyu.io/translations/rag/dream-distributed-rag-experimentation-framework)
+- [RAG 在长上下文大语言模型 &lpar;LLM&rpar; 中的应用探讨 [译]](https://baoyu.io/translations/transcript/rag-for-long-context-llms)
 - [介绍 Meta Llama 3：迄今为止最强大的开源大语言模型 [译]](https://baoyu.io/translations/meta/meta-llama-3)
 - [第 2 章：技术性能 —— 2024 年人工智能指数报告 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter2)
-- [Chapter 2: Technical Performance | 2024 AI Index Report](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter2-en)
-- [Chapter 1: Research and Development | 2024 AI Index Report](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1-en)
-- [第 1 章：AI 研发 —— 2024 年人工智能指数报告 [译]](https://baoyu.io/translations/ai-reports/stanford-hai-ai-index-report-2024-chapter1)
 <!-- BLOG-POST-LIST:END -->
