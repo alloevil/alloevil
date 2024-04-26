@@ -120,9 +120,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [实际使用 SORA [译]](https://baoyu.io/translations/sora/actually-using-sora)
+- [No Priors 第 61 集 | 采访 OpenAI 的 Sora 团队负责人 Aditya Ramesh、Tim Brooks 和 Bill Peebles [译]](https://baoyu.io/translations/transcript/no-priors-ep61-openais-sora-leaders-aditya-ramesh-tim-brooks-and-bill-peebles)
 - [台积电在美国郊区建造芯片工厂的艰辛历程 [译]](https://baoyu.io/translations/tech/tsmc-arizona-expansion)
 - [Meta 宣布推出 Llama 3 [译]](https://baoyu.io/translations/transcript/meta-announces-llama-3-at-weights-biases-conference)
 - [从一个卡车司机到 38 岁成为 Ruby on Rails 开发者 [译]](https://baoyu.io/translations/stroies/from-lorry-driver-to-rails-developer)
-- [硅谷女孩采访 Perplexity 创始人 Aravind [译]](https://baoyu.io/translations/transcript/meet-aravind-from-india-who-quit-openai-to-disrupt-google-conversation-with-marina-mogilko)
-- [DREAM: 分布式 RAG 实验框架 [译]](https://baoyu.io/translations/rag/dream-distributed-rag-experimentation-framework)
 <!-- BLOG-POST-LIST:END -->
