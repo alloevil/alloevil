@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Rabbit R1: 几乎无法评测 [译]](https://baoyu.io/translations/transcript/rabbit-r1-barely-reviewable)
 - [我们得聊聊 Rabbit R1 这款设备... [译]](https://baoyu.io/translations/transcript/rabbit-r1-we-gotta-talk)
 - [7 个帮助最小化 RAG 模型风险的指标 [译]](https://baoyu.io/translations/transcript/7-measurements-that-help-minimize-model-risk-for-rag)
 - [Ilya——塑造世界的人工智能科学家 [译]](https://baoyu.io/translations/transcript/Ilya-the-ai-scientist-shaping-the-world)
 - [实际使用 SORA [译]](https://baoyu.io/translations/sora/actually-using-sora)
-- [No Priors 第 61 集 | 采访 OpenAI 的 Sora 团队负责人 Aditya Ramesh、Tim Brooks 和 Bill Peebles [译]](https://baoyu.io/translations/transcript/no-priors-ep61-openais-sora-leaders-aditya-ramesh-tim-brooks-and-bill-peebles)
 <!-- BLOG-POST-LIST:END -->
