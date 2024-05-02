@@ -122,9 +122,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [每家大语言模型公司都在挑战搜索技术：未来的大语言模型检索系统展望 [译]](https://baoyu.io/translations/llm/every-llm-company-search-hard-future-retrieval-systems)
 - [Perplexity 产品开发的新模式 [译]](https://baoyu.io/translations/software-engineering/how-perplexity-builds-product)
 - [提高提示一致性的结构化生成方法 [译]](https://baoyu.io/translations/prompt-engineering/improving-prompt-consistency-with-structured-generations)
 - [Rabbit R1: 几乎无法评测 [译]](https://baoyu.io/translations/transcript/rabbit-r1-barely-reviewable)
 - [我们得聊聊 Rabbit R1 这款设备... [译]](https://baoyu.io/translations/transcript/rabbit-r1-we-gotta-talk)
-- [7 个帮助最小化 RAG 模型风险的指标 [译]](https://baoyu.io/translations/transcript/7-measurements-that-help-minimize-model-risk-for-rag)
 <!-- BLOG-POST-LIST:END -->
