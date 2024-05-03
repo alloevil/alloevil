@@ -121,8 +121,8 @@ Python                   1 repo              █████░░░░░░�
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Sam Altman 在斯坦福创业者思维领导研讨会上的对话 [译]](https://baoyu.io/translations/transcript/the-possibilities-of-ai-entire-talk-sam-altman-openai)
+- [提示工程的基本理念以及如何将这些理念应用于提升大语言模型的性能 [译]](https://baoyu.io/translations/prompt-engineering/basic-ideas-behind-prompt-engineering)
 - [每家大语言模型公司都在挑战搜索技术：未来的大语言模型检索系统展望 [译]](https://baoyu.io/translations/llm/every-llm-company-search-hard-future-retrieval-systems)
 - [Perplexity 产品开发的新模式 [译]](https://baoyu.io/translations/software-engineering/how-perplexity-builds-product)
 - [提高提示一致性的结构化生成方法 [译]](https://baoyu.io/translations/prompt-engineering/improving-prompt-consistency-with-structured-generations)
-- [Rabbit R1: 几乎无法评测 [译]](https://baoyu.io/translations/transcript/rabbit-r1-barely-reviewable)
 <!-- BLOG-POST-LIST:END -->
