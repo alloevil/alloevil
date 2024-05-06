@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT 提示词十级技巧：从新手到专家 [译]](https://baoyu.io/translations/transcript/10-levels-of-chatgpt-prompting-beginner-to-award-winning)
+- [我如何夺冠新加坡首届 GPT-4 提示工程大赛 [译]](https://baoyu.io/translations/prompt-engineering/how-i-won-singapores-gpt-4-prompt-engineering-competition)
 - [Sam Altman 在斯坦福创业者思维领导研讨会上的对话 [译]](https://baoyu.io/translations/transcript/the-possibilities-of-ai-entire-talk-sam-altman-openai)
 - [提示工程的基本理念以及如何将这些理念应用于提升大语言模型的性能 [译]](https://baoyu.io/translations/prompt-engineering/basic-ideas-behind-prompt-engineering)
 - [每家大语言模型公司都在挑战搜索技术：未来的大语言模型检索系统展望 [译]](https://baoyu.io/translations/llm/every-llm-company-search-hard-future-retrieval-systems)
-- [Perplexity 产品开发的新模式 [译]](https://baoyu.io/translations/software-engineering/how-perplexity-builds-product)
-- [提高提示一致性的结构化生成方法 [译]](https://baoyu.io/translations/prompt-engineering/improving-prompt-consistency-with-structured-generations)
 <!-- BLOG-POST-LIST:END -->
