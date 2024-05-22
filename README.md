@@ -119,9 +119,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [映射大语言模型的思维 [译]](https://baoyu.io/translations/anthropic/mapping-mind-language-model)
 - [使用 NSFW 聊天机器人模拟人类 - 与 Jesse Silver 对话 [译]](https://baoyu.io/translations/llm/nsfw-chatbots)
 - [你好 GPT-4o [译]](https://baoyu.io/translations/openai/hello-gpt-4o)
 - [AlphaFold 3 揭示生命分子的秘密结构及其相互作用 - Isomorphic 实验室 [译]](https://baoyu.io/translations/google/alphafold-3-predicts-the-structure-and-interactions-of-all-of-lifes-molecules)
 - [ChatGPT 提示词十级技巧：从新手到专家 [译]](https://baoyu.io/translations/transcript/10-levels-of-chatgpt-prompting-beginner-to-award-winning)
-- [我如何夺冠新加坡首届 GPT-4 提示工程大赛 [译]](https://baoyu.io/translations/prompt-engineering/how-i-won-singapores-gpt-4-prompt-engineering-competition)
 <!-- BLOG-POST-LIST:END -->
