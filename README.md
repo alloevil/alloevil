@@ -120,7 +120,7 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [我们在使用大语言模型 &lpar;LLMs&rpar; 构建产品一年中的经验总结 &lpar;第一部分&rpar; [译]](https://baoyu.io/translations/llm/what-we-learned-from-a-year-of-building-with-llms-part-1)
+- [使用大语言模型 &lpar;LLMs&rpar; 构建产品一年后的经验总结 &lpar;第一部分&rpar; [译]](https://baoyu.io/translations/llm/what-we-learned-from-a-year-of-building-with-llms-part-1)
 - [谷歌搜索秘籍泄漏：揭秘内部工程文档 [译]](https://baoyu.io/translations/seo/secrets-from-the-algorithm-google-searchs-internal-engineering-documentation-has-leaked)
 - [数千份谷歌搜索 API 的泄露文件曝光，SEO 从业者必看 [译]](https://baoyu.io/translations/seo/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them)
 - [映射大语言模型的思维 [译]](https://baoyu.io/translations/anthropic/mapping-mind-language-model)
