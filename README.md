@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [测试 Chrome 内置  Gemini Nano 大语言模型 &lpar;4bit 3.25B&rpar; 的方法](https://baoyu.io/blog/ai/how-to-enable-gemini-nano-for-chrome)
+- [问答：如何使用 GPT 知道我写 R 代码？](https://baoyu.io/blog/ai/qa-how-to-use-gpt-to-write-code)
 - [什么是提示词注入攻击？ [译]](https://baoyu.io/translations/transcript/what-is-a-prompt-injection-attack)
 - [NVIDIA 公布了到 2027 年的 GPU 和互连路线图 [译]](https://baoyu.io/translations/nvidia/nvidia-unfolds-gpu-interconnect-roadmaps-out-to-2027)
 - [使用大语言模型 &lpar;LLMs&rpar; 构建产品一年后的经验总结 &lpar;第二部分&rpar;[译]](https://baoyu.io/translations/llm/what-we-learned-from-a-year-of-building-with-llms-part-ii)
-- [为什么对于有的人来说 ChatGPT 并没有什么卵用？](https://baoyu.io/blog/ai/why-do-someone-think-chatgpt-doesnot-really-work-for-them)
-- [使用大语言模型 &lpar;LLMs&rpar; 构建产品一年后的经验总结 &lpar;第一部分&rpar; [译]](https://baoyu.io/translations/llm/what-we-learned-from-a-year-of-building-with-llms-part-1)
 <!-- BLOG-POST-LIST:END -->
