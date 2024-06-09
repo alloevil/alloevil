@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 > 📦 1.2 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 110 Public Repositories 
@@ -112,7 +110,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2024 18:38:19 UTC
+ Last Updated on 09/06/2024 18:38:25 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
