@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [探索检索和评估相关上下文的挑战 [译]](https://baoyu.io/translations/rag/the-challenges-of-retrieving-and-evaluating-relevant-context-for-rag)
 - [最佳论文 [译]](https://baoyu.io/translations/writing/the-best-essay)
 - [苹果新推出的设备内及云端服务器基础模型介绍 [译]](https://baoyu.io/translations/apple/introducing-apple-foundation-models)
 - [使用大语言模型 &lpar;LLMs&rpar; 构建产品一年后的经验总结 [译]](https://baoyu.io/translations/llm/what-we-learned-from-a-year-of-building-with-llms)
 - [测试 Chrome 内置  Gemini Nano 大语言模型 &lpar;4bit 3.25B&rpar; 的方法](https://baoyu.io/blog/ai/how-to-enable-gemini-nano-for-chrome)
-- [问答：如何使用 GPT 知道我写 R 代码？](https://baoyu.io/blog/ai/qa-how-to-use-gpt-to-write-code)
 <!-- BLOG-POST-LIST:END -->
