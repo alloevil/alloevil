@@ -114,9 +114,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [发现提示工程——提示工程就是为了从生成式 AI 中获取有用输出而设计有效提示词的过程 [译]](https://baoyu.io/translations/transcript/discover-prompt-engineering-google-ai-essentials)
 - [Prompt 高级技巧：借助伪代码精准的控制 LLM 的输出结果和定义其执行逻辑](https://baoyu.io/blog/prompt-engineering/advanced-prompting-using-pseudocode-to-control-llm-output)
 - [小技巧：GPT 多了怎么管理？](https://baoyu.io/blog/gpt/tips-for-managing-multiple-gpts)
 - [AI 民科和 AI 科学家之间的差距](https://baoyu.io/blog/ai/gap-between-ai-amateurs-and-ai-scientists)
 - [计算机专业还值得报考吗？](https://baoyu.io/blog/career/is-computer-science-still-worth-studying)
-- [探索检索和评估相关上下文的挑战 [译]](https://baoyu.io/translations/rag/the-challenges-of-retrieving-and-evaluating-relevant-context-for-rag)
 <!-- BLOG-POST-LIST:END -->
