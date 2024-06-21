@@ -114,9 +114,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [优化 Character.AI 的 AI 推理 [译]](https://baoyu.io/translations/character-ai/optimizing-inference)
+- [在对 500 万个自由职业工作的分析后发现这些工作岗位最可能被 AI 替代 [译]](https://baoyu.io/translations/ai/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai)
 - [发现提示工程——提示工程就是为了从生成式 AI 中获取有用输出而设计有效提示词的过程 [译]](https://baoyu.io/translations/transcript/discover-prompt-engineering-google-ai-essentials)
 - [黃仁勳旋風席捲台灣 方念華獨家專訪！](https://baoyu.io/translations/transcript/exclusive-interview-nvidia-ceo-jensen-huang)
 - [Prompt 高级技巧：借助伪代码精准的控制 LLM 的输出结果和定义其执行逻辑](https://baoyu.io/blog/prompt-engineering/advanced-prompting-using-pseudocode-to-control-llm-output)
-- [小技巧：GPT 多了怎么管理？](https://baoyu.io/blog/gpt/tips-for-managing-multiple-gpts)
-- [AI 民科和 AI 科学家之间的差距](https://baoyu.io/blog/ai/gap-between-ai-amateurs-and-ai-scientists)
 <!-- BLOG-POST-LIST:END -->
