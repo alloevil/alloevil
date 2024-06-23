@@ -114,9 +114,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [蔡崇信谈为什么阿里巴巴全力投入 AI [译]](https://baoyu.io/translations/transcript/joe-tsai-on-why-alibaba-is-all-in-on-ai)
 - [HeyGen CEO 徐卓（Joshua Xu）访谈 [译]](https://baoyu.io/translations/transcript/no-priors-ep-69-heygen-ceo-co-founder-joshua-xu)
 - [AI 是功能还是产品？ [译]](https://baoyu.io/translations/transcript/ai-product-vs-ai-feature)
 - [人工智能无处不在：改变世界，赋予人类力量 [译]](https://baoyu.io/translations/transcript/ai-everywhere-transforming-world-empowering-humanity)
 - [优化 Character.AI 的 AI 推理 [译]](https://baoyu.io/translations/character-ai/optimizing-inference)
-- [在对 500 万个自由职业工作的分析后发现这些工作岗位最可能被 AI 替代 [译]](https://baoyu.io/translations/ai/i-analyzed-5m-freelancing-jobs-to-see-what-jobs-are-being-replaced-by-ai)
 <!-- BLOG-POST-LIST:END -->
