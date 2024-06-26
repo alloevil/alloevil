@@ -113,9 +113,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [什么时候该用多智能体是不是一定要用多智能体？](https://baoyu.io/blog/ai/when-to-use-multi-agent-systems-or-cot)
+- [当 AI 能考上一本，十年寒窗苦读还有意义吗？](https://baoyu.io/blog/ai/ai-get-into-top-colleges-meaning-of-hard-study)
 - [升级到 GPT-4o 后使用提示词的五项调整 [译]&quot;](https://baoyu.io/translations/transcript/gpt-4o-5-ways-to-change-your-prompts)
 - [蔡崇信谈为什么阿里巴巴全力投入 AI [译]](https://baoyu.io/translations/transcript/joe-tsai-on-why-alibaba-is-all-in-on-ai)
 - [HeyGen CEO 徐卓（Joshua Xu）访谈 [译]](https://baoyu.io/translations/transcript/no-priors-ep-69-heygen-ceo-co-founder-joshua-xu)
-- [AI 是功能还是产品？ [译]](https://baoyu.io/translations/transcript/ai-product-vs-ai-feature)
-- [人工智能无处不在：改变世界，赋予人类力量 [译]](https://baoyu.io/translations/transcript/ai-everywhere-transforming-world-empowering-humanity)
 <!-- BLOG-POST-LIST:END -->
