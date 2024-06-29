@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代计算机专业会涨薪还是降薪？](https://baoyu.io/blog/ai/ai-computer-science-salary-rise-or-fall)
+- [高考志愿一点建议：在纠结的时候尽量让自己的决定是“双向门”决策](https://baoyu.io/blog/life/college-application-tip-make-decisions-two-way-doors)
 - [什么时候该用多智能体是不是一定要用多智能体？](https://baoyu.io/blog/ai/when-to-use-multi-agent-systems-or-cot)
 - [当 AI 能考上一本，十年寒窗苦读还有意义吗？](https://baoyu.io/blog/ai/ai-get-into-top-colleges-meaning-of-hard-study)
 - [升级到 GPT-4o 后使用提示词的五项调整 [译]&quot;](https://baoyu.io/translations/transcript/gpt-4o-5-ways-to-change-your-prompts)
-- [蔡崇信谈为什么阿里巴巴全力投入 AI [译]](https://baoyu.io/translations/transcript/joe-tsai-on-why-alibaba-is-all-in-on-ai)
-- [HeyGen CEO 徐卓（Joshua Xu）访谈 [译]](https://baoyu.io/translations/transcript/no-priors-ep-69-heygen-ceo-co-founder-joshua-xu)
 <!-- BLOG-POST-LIST:END -->
