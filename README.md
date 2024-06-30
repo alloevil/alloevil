@@ -116,9 +116,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [马克·扎克伯格前几天接受了 Robin Kallaway 的采访，讨论了未来的技术发展，尤其是智能眼镜、神经腕带和 AI 技术在创作者和小企业中的应用 [译]](https://baoyu.io/translations/transcript/mark-zuckerberg-creators-ai-studio-neural-wristbands-glasses)
 - [AI 时代计算机专业会涨薪还是降薪？](https://baoyu.io/blog/ai/ai-computer-science-salary-rise-or-fall)
 - [高考志愿一点建议：在纠结的时候尽量让自己的决定是“双向门”决策](https://baoyu.io/blog/life/college-application-tip-make-decisions-two-way-doors)
 - [什么时候该用多智能体是不是一定要用多智能体？](https://baoyu.io/blog/ai/when-to-use-multi-agent-systems-or-cot)
 - [当 AI 能考上一本，十年寒窗苦读还有意义吗？](https://baoyu.io/blog/ai/ai-get-into-top-colleges-meaning-of-hard-study)
-- [升级到 GPT-4o 后使用提示词的五项调整 [译]&quot;](https://baoyu.io/translations/transcript/gpt-4o-5-ways-to-change-your-prompts)
 <!-- BLOG-POST-LIST:END -->
