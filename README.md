@@ -116,9 +116,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我的隐私信息会被大语言模型拿去训练吗？](https://baoyu.io/blog/ai/will-my-private-information-be-used-for-training)
 - [Crowdstrike 分析 [译]](https://baoyu.io/translations/security/crowdstrike-analysis)
 - [使用视觉语言模型进行 PDF 检索 [译]](https://baoyu.io/translations/rag/retrieval-with-vision-language-models-colpali)
 - [The GraphRAG Manifesto: 为生成式 AI 增加知识 - 图数据库与分析 [译]](https://baoyu.io/translations/rag/the-graphrag-manifesto-adding-knowledge-to-genai)
 - [你需要的不是智能体，而是一个适合 AI 的工作流](https://baoyu.io/blog/ai/you-dont-need-agent-but-ai-suitable-workflow)
-- [梅琳达·盖茨在斯坦福 2024 毕业典礼上的演讲](https://baoyu.io/blog/life/2024-stanford-commencement-speech-melinda-french-gates)
 <!-- BLOG-POST-LIST:END -->
