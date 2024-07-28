@@ -116,9 +116,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn 团队构建生成式 AI 产品的经验教训](https://baoyu.io/blog/ai/linkedin-team-building-generative-ai-lessons)
 - [构建生成式 AI 产品的思考 [译]](https://baoyu.io/translations/generative-ai/musings-on-building-a-generative-ai-product)
 - [我的隐私信息会被大语言模型拿去训练吗？](https://baoyu.io/blog/ai/will-my-private-information-be-used-for-training)
 - [Crowdstrike 分析 [译]](https://baoyu.io/translations/security/crowdstrike-analysis)
 - [使用视觉语言模型进行 PDF 检索 [译]](https://baoyu.io/translations/rag/retrieval-with-vision-language-models-colpali)
-- [The GraphRAG Manifesto: 为生成式 AI 增加知识 - 图数据库与分析 [译]](https://baoyu.io/translations/rag/the-graphrag-manifesto-adding-knowledge-to-genai)
 <!-- BLOG-POST-LIST:END -->
