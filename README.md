@@ -118,9 +118,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [介绍 SAM 2：下一代 Meta 视频和图像分割模型 [译]](https://baoyu.io/translations/meta/introducing-sam2-next-gen-meta-segment-anything-model)
+- [构建生成式 AI 平台 [译]](https://baoyu.io/translations/generative-ai/building-a-generative-ai-platform)
 - [大语言模型的工作原理，无需数学解释 [译]](https://baoyu.io/translations/llm/how-llms-work-explained-without-math)
 - [提示词注入 VS 越狱：有什么区别？ [译]](https://baoyu.io/translations/prompt-engineering/prompt-injection-vs-jailbreaking-difference)
 - [LinkedIn 团队构建生成式 AI 产品的经验教训](https://baoyu.io/blog/ai/linkedin-team-building-generative-ai-lessons)
-- [实战经验：在 GoDaddy 运营 LLM 中学到的 10 个教训 [译]](https://baoyu.io/translations/llm/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy)
-- [构建生成式 AI 产品的思考 [译]](https://baoyu.io/translations/generative-ai/musings-on-building-a-generative-ai-product)
 <!-- BLOG-POST-LIST:END -->
