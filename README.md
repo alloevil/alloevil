@@ -117,9 +117,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [生成式 AI 路由](https://baoyu.io/blog/ai/generative-ai-router)
+- [引入 Cohere 提示词优化器：提示词优化触手可及 [译]](https://baoyu.io/translations/cohere/intro-prompt-tuner)
 - [介绍 SAM 2：下一代 Meta 视频和图像分割模型 [译]](https://baoyu.io/translations/meta/introducing-sam2-next-gen-meta-segment-anything-model)
 - [构建生成式 AI 平台 [译]](https://baoyu.io/translations/generative-ai/building-a-generative-ai-platform)
 - [大语言模型的工作原理，无需数学解释 [译]](https://baoyu.io/translations/llm/how-llms-work-explained-without-math)
-- [提示词注入 VS 越狱：有什么区别？ [译]](https://baoyu.io/translations/prompt-engineering/prompt-injection-vs-jailbreaking-difference)
-- [LinkedIn 团队构建生成式 AI 产品的经验教训](https://baoyu.io/blog/ai/linkedin-team-building-generative-ai-lessons)
 <!-- BLOG-POST-LIST:END -->
