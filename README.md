@@ -117,9 +117,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在 Character.AI 的提示词设计 [译]](https://baoyu.io/translations/character-ai/prompt-design-at-character-ai)
 - [翻译 GPT 的提示词更新和优化](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement)
 - [生成式 AI 路由](https://baoyu.io/blog/ai/generative-ai-router)
 - [引入 Cohere 提示词优化器：提示词优化触手可及 [译]](https://baoyu.io/translations/cohere/intro-prompt-tuner)
 - [介绍 SAM 2：下一代 Meta 视频和图像分割模型 [译]](https://baoyu.io/translations/meta/introducing-sam2-next-gen-meta-segment-anything-model)
-- [构建生成式 AI 平台 [译]](https://baoyu.io/translations/generative-ai/building-a-generative-ai-platform)
 <!-- BLOG-POST-LIST:END -->
