@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 > 📦 1.2 kB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 111 Public Repositories 
@@ -86,8 +84,8 @@ CSV file                 0 secs              ░░░░░░░░░░░�
 PyCharm                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mvp                      1 hr 45 mins        ████████████████████████░   95.95 % 
-mks                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+mvp                      1 hr 45 mins        ████████████████████████░   95.96 % 
+mks                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 💻 Operating System: 
 Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
@@ -108,7 +106,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 18:41:26 UTC
+ Last Updated on 10/08/2024 18:39:21 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
