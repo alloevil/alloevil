@@ -36,13 +36,15 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C295%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C295%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 34 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,18 +79,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 49 mins        █████████████████████████   99.69 % 
-CSV file                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python                   1 hr 58 mins        █████████████████████████   99.71 % 
+CSV file                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 49 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mvp                      1 hr 45 mins        ████████████████████████░   95.96 % 
-mks                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+mvp                      1 hr 54 mins        ████████████████████████░   96.27 % 
+mks                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,7 +108,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 18:39:21 UTC
+ Last Updated on 11/08/2024 18:41:20 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
