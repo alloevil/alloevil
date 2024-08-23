@@ -36,15 +36,13 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C312%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,19 +77,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 31 mins      █████████████████████████   98.22 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Log                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   8 hrs 20 mins       █████████████████████████   99.56 % 
+Log                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 34 mins      █████████████████████████   98.64 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+PyCharm                  8 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mvp                      11 hrs 44 mins      █████████████████████████   100.00 % 
+mvp                      8 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +105,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:41:23 UTC
+ Last Updated on 23/08/2024 18:41:04 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
