@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C312%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C314%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,17 +77,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 20 mins       █████████████████████████   99.56 % 
-Log                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Python                   10 hrs 5 mins       █████████████████████████   99.64 % 
+Log                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 22 mins       █████████████████████████   100.00 % 
+PyCharm                  10 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mvp                      8 hrs 22 mins       █████████████████████████   100.00 % 
+mvp                      9 hrs 40 mins       ████████████████████████░   95.46 % 
+sgp                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+micar                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 💻 Operating System: 
-Linux                    8 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -105,7 +108,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:41:04 UTC
+ Last Updated on 24/08/2024 18:39:44 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
