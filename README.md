@@ -110,9 +110,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我们如何构建 Townie——一个能够生成全栈应用的应用程序 [译]](https://baoyu.io/translations/ai/how-we-built-townie-fullstack-app-generator)
 - [我的代码编辑器使用史，从语法高亮到 AI 生成](https://baoyu.io/blog/coding/my-experience-with-code-editor-evolution)
 - [The full prompt of v0.dev](https://baoyu.io/blog/prompt-engineering/v0-dev-prompt)
 - [《你是一个有用的邮件助理》和其他 Apple Intelligence 指示 [译]](https://baoyu.io/translations/apple/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 - [在 Character.AI 的提示词设计 [译]](https://baoyu.io/translations/character-ai/prompt-design-at-character-ai)
-- [翻译 GPT 的提示词更新和优化](https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2-1-improvement)
 <!-- BLOG-POST-LIST:END -->
