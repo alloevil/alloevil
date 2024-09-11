@@ -36,15 +36,13 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,19 +77,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 57 mins       ███████████████████████░░   90.67 % 
-Log                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 32 mins        █████████████████████████   99.43 % 
+Log                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 22 mins       █████████████████████████   100.00 % 
+PyCharm                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mvp                      4 hrs 22 mins       █████████████████████████   100.00 % 
+mvp                      1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +108,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 18:43:01 UTC
+ Last Updated on 11/09/2024 18:42:57 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
