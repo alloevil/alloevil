@@ -118,9 +118,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在 o1 发布后，回顾当年 Jim Fan 对 Q*的预测，他对了吗？](https://baoyu.io/blog/ai/o1-and-alphago)
+- [推理规模扩展定律（inference scaling law）会成为大力出奇迹的新方向吗？它能带我们走进 AGI 吗？](https://baoyu.io/blog/ai/o1-and-inference-scaling-law)
+- [Anthropic 如何构建 Artifacts [译]](https://baoyu.io/translations/anthropic/how-anthropic-built-artifacts)
 - [大厂与其山寨 Cursor，不如做个好用的 AI 邮件客户端](https://baoyu.io/blog/ai/big-companies-instead-of-copying-cursor-should-make-ai-email-client)
 - [我们如何构建 Townie——一个能够生成全栈应用的应用程序 [译]](https://baoyu.io/translations/ai/how-we-built-townie-fullstack-app-generator)
-- [我的代码编辑器使用史，从语法高亮到 AI 生成](https://baoyu.io/blog/coding/my-experience-with-code-editor-evolution)
-- [The full prompt of v0.dev](https://baoyu.io/blog/prompt-engineering/v0-dev-prompt)
-- [《你是一个有用的邮件助理》和其他 Apple Intelligence 指示 [译]](https://baoyu.io/translations/apple/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 <!-- BLOG-POST-LIST:END -->
