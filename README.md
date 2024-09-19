@@ -36,15 +36,13 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,20 +77,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 28 mins       █████████████████████████   99.35 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Python                   4 hrs 19 mins       ███████████████████████░░   93.97 % 
+Shell Script             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 28 mins       █████████████████████████   99.35 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+PyCharm                  4 hrs 33 mins       █████████████████████████   99.08 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-mvp                      6 hrs 28 mins       █████████████████████████   99.24 % 
-mks                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-sgp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+mvp                      4 hrs 33 mins       █████████████████████████   98.92 % 
+mks                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+sgp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Linux                    6 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +109,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2024 18:43:25 UTC
+ Last Updated on 19/09/2024 18:43:33 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
