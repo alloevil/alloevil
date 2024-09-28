@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为什么未来属于通才[译]](https://baoyu.ioai/why-generalists-own-the-future)
 - [提示工程师是最短命的职业吗？提示工程已经死了吗？](https://baoyu.ioprompt-engineering/is-prompt-engineering-dead)
 - [Sam Altman：新发布的推理模型 o1 preview 相当于 GPT-2 时刻，但是升级曲线会很陡峭，意味着很快就会达到它的 GPT-4 时刻 [译]](https://baoyu.iotranscript/t-mobile-capital-markets-day-2024-sam-altman)
 - [对 OpenAI o1 的逆向工程[译]](https://baoyu.ioo1/reverse-engineering-openai-o1)
 - [推理规模扩展定律（inference scaling law）会成为大力出奇迹的新方向吗？它能带我们走进 AGI 吗？](https://baoyu.ioai/o1-and-inference-scaling-law)
-- [在 o1 发布后，回顾当年 Jim Fan 对 Q*的预测，他对了吗？](https://baoyu.ioai/o1-and-alphago)
 <!-- BLOG-POST-LIST:END -->
