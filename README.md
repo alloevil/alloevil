@@ -118,9 +118,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [将博客系统迁移至了 CloudFlare](https:/baoyu.io/blog/tech/migrate-blog-to-cloud-flare)
 - [提示词工程：技术分类与提示词微调[译]](https:/baoyu.io/translations/prompt-engineering/prompt-engineering-classification-of-techniques-and-prompt-tuning)
 - [为什么未来属于通才[译]](https:/baoyu.io/translations/ai/why-generalists-own-the-future)
 - [提示工程师是最短命的职业吗？提示工程已经死了吗？](https:/baoyu.io/blog/prompt-engineering/is-prompt-engineering-dead)
 - [Sam Altman：新发布的推理模型 o1 preview 相当于 GPT-2 时刻，但是升级曲线会很陡峭，意味着很快就会达到它的 GPT-4 时刻 [译]](https:/baoyu.io/translations/transcript/t-mobile-capital-markets-day-2024-sam-altman)
-- [对 OpenAI o1 的逆向工程[译]](https:/baoyu.io/translations/o1/reverse-engineering-openai-o1)
 <!-- BLOG-POST-LIST:END -->
