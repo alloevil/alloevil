@@ -112,9 +112,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [分享一点前沿 AI 用法：用 o1 逆向代码](https://baoyu.io/blog/ai/o1-cutting-edge-ai-use-reverse-engineering-code)
 - [对于小型团队而言，当代码量逐渐变大，有什么更好的控制代码质量的方法吗？](https://baoyu.io/blog/software-engineering/better-code-quality-control-for-growing-small-teams)
 - [CloudFlare 使用 Workers 和 Nextjs 的深度集成](https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration)
 - [像用实习生一样用 AI 辅助你编程](https://baoyu.io/blog/ai/use-ai-to-assist-programming-like-an-intern)
 - [在构建 Prompt 时，如何避免把翻译内容当成对话内容？](https://baoyu.io/blog/prompt-engineering/how-to-avoid-translated-content-being-treated-as-dialog)
-- [OpenAI 的 PlayGround 新增加的提示词优化工具，以及它的提示词](https://baoyu.io/blog/prompt/openais-meta-prompt-for-optimizing-gpt-prompts)
 <!-- BLOG-POST-LIST:END -->
