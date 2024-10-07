@@ -112,9 +112,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 的笨是可知的，小弟的笨是不可知的](https://baoyu.io/blog/ai/ai-dumbness-is-knowable-human-dumbness-is-unknowable)
 - [对比一下两种不同生成摘要提示词的效果](https://baoyu.io/blog/software-engineering/compare-two-methods-for-generating-summary-prompts)
 - [如何摆脱烂代码陷阱：从重构到最佳实践的实战经验](https://baoyu.io/blog/software-engineering/escape-bad-code-trap-refactoring-best-practices)
 - [对于小型团队而言，当代码量逐渐变大，有什么更好的控制代码质量的方法吗？](https://baoyu.io/blog/software-engineering/better-code-quality-control-for-growing-small-teams)
 - [CloudFlare 使用 Workers 和 Nextjs 的深度集成](https://baoyu.io/blog/cloudflare/cloudflare-workers-nextjs-deep-integration)
-- [分享一点前沿 AI 用法：用 o1 逆向代码](https://baoyu.io/blog/ai/o1-cutting-edge-ai-use-reverse-engineering-code)
 <!-- BLOG-POST-LIST:END -->
