@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [GPT 无法翻译超长内容的提示词优化尝试](https://baoyu.io/blog/gpt/gpt-translation-long-content-optimization)
 - [AI 的笨是可知的，小弟的笨是不可知的](https://baoyu.io/blog/ai/ai-dumbness-is-knowable-human-dumbness-is-unknowable)
 - [用 AI 反向代码案例：揭秘 OpenAI Canvas 如何根据用户操作拼接生成 Prompt](https://baoyu.io/blog/ai/reverse-engineering-openai-canvas-prompt-generation)
 - [对比一下两种不同生成摘要提示词的效果](https://baoyu.io/blog/software-engineering/compare-two-methods-for-generating-summary-prompts)
 - [如何摆脱烂代码陷阱：从重构到最佳实践的实战经验](https://baoyu.io/blog/software-engineering/escape-bad-code-trap-refactoring-best-practices)
-- [对于小型团队而言，当代码量逐渐变大，有什么更好的控制代码质量的方法吗？](https://baoyu.io/blog/software-engineering/better-code-quality-control-for-growing-small-teams)
 <!-- BLOG-POST-LIST:END -->
