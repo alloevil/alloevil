@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [什么是智能体？](https://baoyu.io/blog/ai/whatisagent)
-- [Hello world!](https://baoyu.io/blog/abc/test)
-- [提示工程师是最短命的职业吗？提示工程已经死了吗？](https://baoyu.io/blog/prompt-engineering/is-prompt-engineering-dead)
-- [Sam Altman：新发布的推理模型 o1 preview 相当于 GPT-2 时刻，但是升级曲线会很陡峭，意味着很快就会达到它的 GPT-4 时刻 [译]](https://baoyu.io/translations/transcript/t-mobile-capital-markets-day-2024-sam-altman)
-- [对 OpenAI o1 的逆向工程[译]](https://baoyu.io/translations/o1/reverse-engineering-openai-o1)
+- [生成式 AI 的序幕 [译]](https://baoyu.io/translations/ai/generative-ais-act-o1)
+- [GPT 无法翻译超长内容的提示词优化尝试](https://baoyu.io/blog/gpt/gpt-translation-long-content-optimization)
+- [What You Need Is Not an AI Agent, But an AI-Friendly Workflow](https://baoyu.io/blog/ai-agent/what-you-need-is-ai-friendly-workflow)
+- [AI 的笨是可知的，小弟的笨是不可知的](https://baoyu.io/blog/ai/ai-dumbness-is-knowable-human-dumbness-is-unknowable)
+- [用 AI 反向代码案例：揭秘 OpenAI Canvas 如何根据用户操作拼接生成 Prompt](https://baoyu.io/blog/ai/reverse-engineering-openai-canvas-prompt-generation)
 <!-- BLOG-POST-LIST:END -->
