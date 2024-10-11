@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为智能体进行规划 [译]](https://baoyu.io/translations/langchain/planning-for-agents)
+- [为什么你应该外包智能体基础设施，但拥有认知架构 [译]](https://baoyu.io/translations/langchain/why-you-should-outsource-your-agentic-infrastructure-but-own-your-cognitive-architecture)
+- [什么是“认知架构”？[译]](https://baoyu.io/translations/langchain/what-is-a-cognitive-architecture)
+- [什么是智能体？[译]](https://baoyu.io/translations/langchain/what-is-an-agent)
 - [生成式 AI 的序幕 [译]](https://baoyu.io/translations/ai/generative-ais-act-o1)
-- [GPT 无法翻译超长内容的提示词优化尝试](https://baoyu.io/blog/gpt/gpt-translation-long-content-optimization)
-- [What You Need Is Not an AI Agent, But an AI-Friendly Workflow](https://baoyu.io/blog/ai-agent/what-you-need-is-ai-friendly-workflow)
-- [AI 的笨是可知的，小弟的笨是不可知的](https://baoyu.io/blog/ai/ai-dumbness-is-knowable-human-dumbness-is-unknowable)
-- [用 AI 反向代码案例：揭秘 OpenAI Canvas 如何根据用户操作拼接生成 Prompt](https://baoyu.io/blog/ai/reverse-engineering-openai-canvas-prompt-generation)
 <!-- BLOG-POST-LIST:END -->
