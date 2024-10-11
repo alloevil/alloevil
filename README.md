@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [针对智能体的用户体验设计，第 1 部分：聊天 [译]](https://baoyu.io/translations/langchain/ux-for-agents-part-1-chat-2)
+- [针对智能体的用户体验设计，第三部分：电子表格、生成式和协作式 UI/UX [译]](https://baoyu.io/translations/langchain/ux-for-agents-part-3)
+- [针对智能体的用户体验设计，第二部分：后台运行[译]](https://baoyu.io/translations/langchain/ux-for-agents-part-2-ambient)
+- [针对智能体的用户体验设计，第一部分：聊天 [译]](https://baoyu.io/translations/langchain/ux-for-agents-part-1-chat-2)
 - [为智能体进行规划 [译]](https://baoyu.io/translations/langchain/planning-for-agents)
 - [为什么你应该外包智能体基础设施，但拥有认知架构 [译]](https://baoyu.io/translations/langchain/why-you-should-outsource-your-agentic-infrastructure-but-own-your-cognitive-architecture)
-- [什么是“认知架构”？[译]](https://baoyu.io/translations/langchain/what-is-a-cognitive-architecture)
-- [什么是智能体？[译]](https://baoyu.io/translations/langchain/what-is-an-agent)
 <!-- BLOG-POST-LIST:END -->
