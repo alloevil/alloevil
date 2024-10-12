@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C337%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C338%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,17 +77,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             █████████████████████████   100.00 % 
+Python                   1 hr 32 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   53 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sgp                      29 mins             ██████████████░░░░░░░░░░░   54.58 % 
-mvp                      24 mins             ███████████░░░░░░░░░░░░░░   45.42 % 
+sgp                      1 hr 7 mins         ██████████████████░░░░░░░   73.48 % 
+mvp                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -105,7 +105,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:44:28 UTC
+ Last Updated on 12/10/2024 18:42:12 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
