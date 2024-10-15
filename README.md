@@ -36,15 +36,13 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C342%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,19 +77,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       █████████████████████████   100.00 % 
+Python                   6 hrs 11 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 18 mins       ███████████████░░░░░░░░░░   60.02 % 
-Cursor                   1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   39.98 % 
+PyCharm                  4 hrs 39 mins       ███████████████████░░░░░░   75.17 % 
+Cursor                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 
 🐱‍💻 Projects: 
-mvp                      2 hrs 42 mins       ██████████████████░░░░░░░   70.63 % 
-sgp                      1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+mvp                      2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
+mks                      2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.86 % 
+sgp                      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 
 💻 Operating System: 
-Linux                    2 hrs 18 mins       ███████████████░░░░░░░░░░   60.02 % 
-Mac                      1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   39.98 % 
+Linux                    4 hrs 39 mins       ███████████████████░░░░░░   75.17 % 
+Mac                      1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +108,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2024 18:44:48 UTC
+ Last Updated on 15/10/2024 18:45:16 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
