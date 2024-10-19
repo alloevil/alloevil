@@ -115,9 +115,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为什么越是老程序员学 React 越是难学](https://baoyu.io/blog/why-senior-developers-find-react-harder-to-learn)
 - [如何用 AI 自动生成一张“智慧卡片”？](https://baoyu.io/blog/prompt/smart-card-prompt)
 - [伪代码提示词“汉语新解”详解](https://baoyu.io/blog/prompt/chinese-new-interpretation-pseudocode-explanation)
 - [如何在输入内容很长的情况下，让 GPT 不“偷懒”？](https://baoyu.io/blog/prompt-engineering/how-to-prevent-gpt-from-being-lazy-with-long-inputs)
 - [针对智能体的用户体验设计，第三部分：电子表格、生成式和协作式 UI/UX [译]](https://baoyu.io/translations/langchain/ux-for-agents-part-3)
-- [针对智能体的用户体验设计，第二部分：后台运行[译]](https://baoyu.io/translations/langchain/ux-for-agents-part-2-ambient)
 <!-- BLOG-POST-LIST:END -->
