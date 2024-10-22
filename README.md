@@ -68,9 +68,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [RAG的5种切分策略 [译]](https://baoyu.io/translations/rag/5-chunking-strategies-for-rag)
 - [每天写代码 [译]](https://baoyu.io/translations/write-code-every-day)
 - [为什么越是老程序员学 React 越是难学](https://baoyu.io/blog/why-senior-developers-find-react-harder-to-learn)
 - [如何用 AI 自动生成一张“智慧卡片”？](https://baoyu.io/blog/prompt/smart-card-prompt)
 - [伪代码提示词“汉语新解”详解](https://baoyu.io/blog/prompt/chinese-new-interpretation-pseudocode-explanation)
-- [如何在输入内容很长的情况下，让 GPT 不“偷懒”？](https://baoyu.io/blog/prompt-engineering/how-to-prevent-gpt-from-being-lazy-with-long-inputs)
 <!-- BLOG-POST-LIST:END -->
