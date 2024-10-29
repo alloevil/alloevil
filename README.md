@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [微服务的本质不是模块的拆分，而是组织架构的拆分](https://baoyu.io/blog/microservices-organizational-structure-split)
 - [我的一点不成熟的程序员学习设计经验](https://baoyu.io/blog/programmer-learning-design-experience)
 - [如何写好提示词？](https://baoyu.io/blog/how-to-write-good-prompt)
 - [RAG的5种切分策略 [译]](https://baoyu.io/translations/rag/5-chunking-strategies-for-rag)
 - [每天写代码 [译]](https://baoyu.io/translations/write-code-every-day)
-- [为什么越是老程序员学 React 越是难学](https://baoyu.io/blog/why-senior-developers-find-react-harder-to-learn)
 <!-- BLOG-POST-LIST:END -->
