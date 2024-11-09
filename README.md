@@ -121,9 +121,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何从0做到年收入500万美元的盈利（分步指南）[译]](https://baoyu.io/translations/how-to-reach-5m-arr-profitably)
 - [从小黄鸭到 AI 助手：程序员的新时代调试秘诀](https://baoyu.io/blog/from-rubber-duck-to-ai-assistant-programmer-debugging-secrets)
 - [程序员的未来：AI 是否会接管编程工作？[译]](https://baoyu.io/translations/could-ai-coding-assistants-take-over-software-development)
 - [OpenAI 在 Reddit 上的 Ask Me Anything 的一些回复](https://baoyu.io/blog/openai-reddit-ama-responses)
 - [v0.dev prompt 结构详细解释（10/24/2024）](https://baoyu.io/blog/v0-dev-prompt-structure-explanation)
-- [微服务的本质不是模块的拆分，而是组织架构的拆分](https://baoyu.io/blog/microservices-organizational-structure-split)
 <!-- BLOG-POST-LIST:END -->
