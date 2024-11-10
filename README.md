@@ -123,9 +123,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何让 AI 生成小说中的人物关系图？](https://baoyu.io/blog/generate-ai-character-relationship-chart)
+- [AI可以帮助人写出好的Prompt，但只有人能写出高水平的Prompt](https://baoyu.io/blog/ai-can-help-write-prompts-humans-write-high-level-prompts)
+- [如何可以向 ChatGPT 输入大量文本内容并提问？](https://baoyu.io/blog/how-to-input-large-text-into-chatgpt)
 - [如何从0做到年收入500万美元的盈利（分步指南）[译]](https://baoyu.io/translations/how-to-reach-5m-arr-profitably)
 - [从小黄鸭到 AI 助手：程序员的新时代调试秘诀](https://baoyu.io/blog/from-rubber-duck-to-ai-assistant-programmer-debugging-secrets)
-- [程序员的未来：AI 是否会接管编程工作？[译]](https://baoyu.io/translations/could-ai-coding-assistants-take-over-software-development)
-- [OpenAI 在 Reddit 上的 Ask Me Anything 的一些回复](https://baoyu.io/blog/openai-reddit-ama-responses)
-- [v0.dev prompt 结构详细解释（10/24/2024）](https://baoyu.io/blog/v0-dev-prompt-structure-explanation)
 <!-- BLOG-POST-LIST:END -->
