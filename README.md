@@ -121,9 +121,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [提示词是越详尽越好吗，还是更加富有创造性，让 AI 自己在一个大框架内展开就行呢？](https://baoyu.io/blog/detailed-prompts-vs-creative-ai-framework)
 - [让 AI 当人生导师帮助寻找人生方向](https://baoyu.io/blog/ai-life-coach-find-direction)
 - [如何让 AI 生成小说中的人物关系图？](https://baoyu.io/blog/generate-ai-character-relationship-chart)
 - [AI可以帮助人写出好的Prompt，但只有人能写出高水平的Prompt](https://baoyu.io/blog/ai-can-help-write-prompts-humans-write-high-level-prompts)
 - [如何可以向 ChatGPT 输入大量文本内容并提问？](https://baoyu.io/blog/how-to-input-large-text-into-chatgpt)
-- [如何从0做到年收入500万美元的盈利（分步指南）[译]](https://baoyu.io/translations/how-to-reach-5m-arr-profitably)
 <!-- BLOG-POST-LIST:END -->
