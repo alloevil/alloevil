@@ -119,9 +119,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT 的 Mac 客户端是是怎么读取应用程序内容并让 GPT 知道的？](https://baoyu.io/blog/chatgpt-mac-client-read-app-content-gpt)
 - [用类比的方式点评下神级 Prompt，以及它和 o1 推理模型的差距](https://baoyu.io/blog/comparing-god-level-prompts-to-o1-reasoning-models)
 - [我常用的画图工具](https://baoyu.io/blog/my-usual-drawing-tools)
 - [和 AI 对话多少轮之后重开新的会比较合适？](https://baoyu.io/blog/how-many-rounds-ai-conversation-before-new-session)
 - [如何使用 DALL-E 给 PPT 画风格稳定的配图？](https://baoyu.io/blog/dall-e-ppt-image-style-guide)
-- [提示词是越详尽越好吗，还是更加富有创造性，让 AI 自己在一个大框架内展开就行呢？](https://baoyu.io/blog/detailed-prompts-vs-creative-ai-framework)
 <!-- BLOG-POST-LIST:END -->
