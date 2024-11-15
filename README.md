@@ -119,9 +119,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 知道自己答案错了吗？](https://baoyu.io/blog/ai-knows-its-answers-wrong)
 - [对于一个IT新人，如果往5年后看，现在值得学的技能有哪些？](https://baoyu.io/blog/it-newbie-skills-for-future-success)
 - [ChatGPT 的 Mac 客户端是是怎么读取应用程序内容并让 GPT 知道的？](https://baoyu.io/blog/chatgpt-mac-client-read-app-content-gpt)
 - [用类比的方式点评下神级 Prompt，以及它和 o1 推理模型的差距](https://baoyu.io/blog/comparing-god-level-prompts-to-o1-reasoning-models)
 - [我常用的画图工具](https://baoyu.io/blog/my-usual-drawing-tools)
-- [和 AI 对话多少轮之后重开新的会比较合适？](https://baoyu.io/blog/how-many-rounds-ai-conversation-before-new-session)
 <!-- BLOG-POST-LIST:END -->
