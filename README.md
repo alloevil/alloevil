@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何写一个批改英语作业的 Prompt？](https://baoyu.io/blog/write-english-homework-prompt)
 - [如何能用 AI 撰写一份专业的“某地区域经济报告”？](https://baoyu.io/blog/ai-write-professional-regional-economic-report)
 - [借助 AI 学习编程，最重要的是打通学习和反馈的循环](https://baoyu.io/blog/ai-programming-learning-feedback-loop)
 - [AI 编程能力受限于上下文的限制，对于大型项目的构建能力偏弱该怎么办？](https://baoyu.io/blog/ai-programming-limitations-large-projects)
 - [如果没有编程基础，但是如何能做一个像grammar那种可以实时进行语法修正的ai软件？](https://baoyu.io/blog/build-grammar-ai-no-coding)
-- [AI 知道自己答案错了吗？](https://baoyu.io/blog/ai-knows-its-answers-wrong)
 <!-- BLOG-POST-LIST:END -->
