@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [v0 提示词解析说明](https://baoyu.io/blog/v0-prompt-explaination)
 - [生成结构化的内容（JSON模式）是否会影响 LLM 性能？[译]](https://baoyu.io/translations/llm-performance-json-structured-content)
 - [v0 system prompt &lpar;2024-11-22&rpar;](https://baoyu.io/blog/v0-system-prompt-2024)
 - [借助 AI 辅助写代码，如果不学CS的基础内容，写代码是否能进行下去？如果要学，学到什么程度？](https://baoyu.io/blog/ai-coding-without-cs-basics)
 - [如何写一个批改英语作业的 Prompt？](https://baoyu.io/blog/write-english-homework-prompt)
-- [如何能用 AI 撰写一份专业的“某地区域经济报告”？](https://baoyu.io/blog/ai-write-professional-regional-economic-report)
 <!-- BLOG-POST-LIST:END -->
