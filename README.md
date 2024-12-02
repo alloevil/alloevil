@@ -68,9 +68,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 辅助编程给软件工程带来的需求开发范式变化](https://baoyu.io/blog/ai-assisted-programming-software-engineering)
 - [一个有意思的 AI 智能体黑客比赛](https://baoyu.io/blog/ai-challenge-hackathon)
 - [What Happens if I Ask v0.dev to Help Me Clone a Page by URL?](https://baoyu.io/blog/clone-page-by-url-v0dev)
 - [现在 AI 编程这么厉害，还适合选计算机专业吗？](https://baoyu.io/blog/ai-programming-computer-science-future)
 - [问：演员想学 AI 可以从哪个角度切入？](https://baoyu.io/blog/actor-ai-learning-path)
-- [有了 v0 的完整提示词，是不是就能做一个 v0出来了？](https://baoyu.io/blog/complete-prompt-can-make-v0)
 <!-- BLOG-POST-LIST:END -->
