@@ -116,9 +116,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [让 Gemini 帮我分析 14 万行混淆后的 js 代码](https://baoyu.io/blog/gemini-analyze-140k-lines-js-code)
 - [AI内容时代的反直觉现象：编辑需求不减反增](https://baoyu.io/blog/ai-content-editor-demand-increase)
 - [OpenAI 连续 12 天 AI 发布会：第二天完整视频（中英文双语字幕）](https://baoyu.io/blog/openai-12-day-ai-event-day-2-video)
 - [OpenAI 连续 12 天 AI 发布会：第一天完整视频（中英文双语字幕）](https://baoyu.io/blog/openai-12-day-launch-event-day1-video)
 - [AI 辅助编程给软件工程带来的需求开发范式变化](https://baoyu.io/blog/ai-assisted-programming-software-engineering)
-- [一个有意思的 AI 智能体黑客比赛](https://baoyu.io/blog/ai-challenge-hackathon)
 <!-- BLOG-POST-LIST:END -->
