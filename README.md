@@ -110,9 +110,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [简单说一下 GitHub Copilot 和 Cursor 的差别，以及为什么我觉得 Cursor 要更好](https://baoyu.io/blog/github-copilot-vs-cursor)
+- [OpenAI 连续 12 天 AI 发布会：第八天 —— Search（中英文双语字幕）](https://baoyu.io/blog/openais-12-day-ai-event-day-8-search)
 - [报高考志愿该选好学校还是好专业？毕业该进大厂还是创业公司？](https://baoyu.io/blog/choosing-school-or-major-and-big-company-or-startup)
 - [OpenAI 连续 12 天 AI 发布会：第七天 —— Projects（中英文双语字幕）](https://baoyu.io/blog/openai-12-day-ai-day-7-projects)
 - [我日常 AI 辅助编程的模型和工具搭配](https://baoyu.io/blog/ai-assisted-coding-tools)
-- [OpenAI 连续 12 天 AI 发布会：第五天完整视频（中英文双语字幕）](https://baoyu.io/blog/openai-12-day-ai-event-day-5-video)
-- [OpenAI 连续 12 天 AI 发布会：第四天完整视频（中英文双语字幕）](https://baoyu.io/blog/openai-12-day-ai-event-day-4-video)
 <!-- BLOG-POST-LIST:END -->
