@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2025 会被 AI“平替”的行业？程序员真的会被取代吗？](https://baoyu.io/blog/ai-replace-jobs-programmers-future-2025)
 - [OpenAI 连续 12 天 AI 发布会：第十二天 —— 最新一代推理模型 o3 和 o3-mini 发布介绍](https://baoyu.io/blog/openai-day12-o3-o3-mini-model-release)
 - [OpenAI 连续 12 天 AI 发布会：第十一天 —— ChatGPT 桌面应用如何与各类应用无缝协作，让工作更高效](https://baoyu.io/blog/openai-day11-chatgpt-desktop-app-seamless-workflow)
 - [OpenAI 连续 12 天 AI 发布会：第十天 —— 通过  1-800-CHAT-GPT 电话和 ChatGPT 聊天](https://baoyu.io/blog/openai-12-day-ai-event-800-chatgpt)
 - [OpenAI 连续 12 天 AI 发布会：第九天 —— Dev Day](https://baoyu.io/blog/openai-dev-day-9)
-- [简单说一下 GitHub Copilot 和 Cursor 的差别，以及为什么我觉得 Cursor 要更好](https://baoyu.io/blog/github-copilot-vs-cursor)
 <!-- BLOG-POST-LIST:END -->
