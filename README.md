@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [用 AI 做绘本](https://baoyu.io/blog/ai-picture-book-creation)
 - [o1 之后，AI 已经从我的实习生变成了结对编程伙伴](https://baoyu.io/blog/ai-pair-programming-partner)
 - [如何使用 GitHub Copilot 生成单元测试：技巧和示例](https://baoyu.io/translations/how-to-generate-unit-tests-with-github-copilot-tips-and-examples)
 - [AI 辅助编码特性与开发者交互模式的演变](https://baoyu.io/translations/evolution-of-ai-assisted-coding-features-and-developer-interaction-patterns)
 - [2025 会被 AI“平替”的行业？程序员真的会被取代吗？](https://baoyu.io/blog/ai-replace-jobs-programmers-future-2025)
-- [OpenAI 连续 12 天 AI 发布会：第十二天 —— 最新一代推理模型 o3 和 o3-mini 发布介绍](https://baoyu.io/blog/openai-day12-o3-o3-mini-model-release)
 <!-- BLOG-POST-LIST:END -->
