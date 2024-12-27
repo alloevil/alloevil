@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [传统编程是手动档，在 Cursor 辅助下编程是自动档，用 Devin 的感觉是自动驾驶](https://baoyu.io/blog/cursor-assisted-programming-autopilot)
+- [怎么能让ai更好的读我的prompt里 结构化数组对象数据呢？](https://baoyu.io/blog/improve-ai-prompt-structured-data)
 - [对比蚂蚁与人类在协作式几何难题求解中的表现](https://baoyu.io/translations/pnas.2414274121)
 - [用 AI 做绘本](https://baoyu.io/blog/ai-picture-book-creation)
 - [o1 之后，AI 已经从我的实习生变成了结对编程伙伴](https://baoyu.io/blog/ai-pair-programming-partner)
-- [如何使用 GitHub Copilot 生成单元测试：技巧和示例](https://baoyu.io/translations/how-to-generate-unit-tests-with-github-copilot-tips-and-examples)
-- [AI 辅助编码特性与开发者交互模式的演变](https://baoyu.io/translations/evolution-of-ai-assisted-coding-features-and-developer-interaction-patterns)
 <!-- BLOG-POST-LIST:END -->
