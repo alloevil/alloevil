@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [问：低耦合设计怎么写prompt，能给我们一个小例子吗？](https://baoyu.io/blog/low-coupling-design-prompt-example)
 - [问：强推某种固定格式的开发设计文档，要求组员按格式补充写完，再借助o1或则别的模型实现代码细节，是否可行？](https://baoyu.io/blog/standardized-dev-docs-feasible)
 - [如果是在国内的程序员普通的后端java开发，能怎么往llm的方向靠呢？](https://baoyu.io/blog/java-backend-developer-llm-transition)
 - [对刚晋升没有管理经验的建议](https://baoyu.io/blog/advice-to-new-managers)
 - [传统编程是手动档，在 Cursor 辅助下编程是自动档，用 Devin 的感觉是自动驾驶](https://baoyu.io/blog/cursor-assisted-programming-autopilot)
-- [怎么能让ai更好的读我的prompt里 结构化数组对象数据呢？](https://baoyu.io/blog/improve-ai-prompt-structured-data)
 <!-- BLOG-POST-LIST:END -->
