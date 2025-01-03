@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我们在 2024 年从大型语言模型中学到的事](https://baoyu.io/translations/llms-in-2024)
 - [2025 年的三点半提示词技巧](https://baoyu.io/blog/2025-prompt-engineering-tips)
 - [我教孩子学习编程的方法](https://baoyu.io/blog/teaching-kids-coding)
 - [对于编程小白来说如何可以高效结合ai来做小项目?](https://baoyu.io/blog/ai-programming-projects-beginners)
 - [Cursor 常用提示词手册](https://baoyu.io/translations/cursor-prompt-manual)
-- [实例演示我是如何和 AI 结对编程的](https://baoyu.io/blog/ai-pair-programming-demo)
 <!-- BLOG-POST-LIST:END -->
