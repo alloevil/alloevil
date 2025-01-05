@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Cursor 弃之可惜，食之无味？](https://baoyu.io/blog/cursor-use-or-discard)
 - [为什么Cursor中有的问题解决不了，反而Claude 能给出更好的代码？](https://baoyu.io/blog/claude-better-code-than-cursor-sometimes)
 - [Cursor Agent 使用体验](https://baoyu.io/blog/cursor-agent-experience)
 - [“你有没有发现很多知乎/微博大v越写越厉害，认知越来越高的样子？”](https://baoyu.io/blog/zhihu-weibo-influencers-growing-expertise)
 - [我们在 2024 年从大型语言模型中学到的事](https://baoyu.io/translations/llms-in-2024)
-- [2025 年的三点半提示词技巧](https://baoyu.io/blog/2025-prompt-engineering-tips)
 <!-- BLOG-POST-LIST:END -->
