@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我如何使用 LLM 进行编程 [译]](https://baoyu.io/translations/programming-with-llms)
+- [构建高效 Agent [译]](https://baoyu.io/translations/building-effective-agents)
 - [OpenAI 官方出的三个结构化提取示例应用](https://baoyu.io/blog/openai-structured-extraction-examples)
 - [新手 Cursor 用户 vs 专业 Cursor 用户](https://baoyu.io/blog/beginner-vs-pro-cursor-users)
 - [Cursor 弃之可惜，食之无味？](https://baoyu.io/blog/cursor-use-or-discard)
-- [为什么Cursor中有的问题解决不了，反而Claude 能给出更好的代码？](https://baoyu.io/blog/claude-better-code-than-cursor-sometimes)
-- [Cursor Agent 使用体验](https://baoyu.io/blog/cursor-agent-experience)
 <!-- BLOG-POST-LIST:END -->
