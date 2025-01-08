@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 辅助编码的残酷真相：它能帮你完成70%的工作，但最后30%令人非常沮丧](https://baoyu.io/translations/the-70-problem-hard-truths-about)
 - [2025 年了，不要再去迷信提示词了](https://baoyu.io/blog/2025-stop-believing-prompts)
 - [AI 将何去何从？[译]](https://baoyu.io/blog/ai-future-translation)
 - [我如何使用 LLM 进行编程 [译]](https://baoyu.io/translations/programming-with-llms)
 - [构建高效 Agent [译]](https://baoyu.io/translations/building-effective-agents)
-- [OpenAI 官方出的三个结构化提取示例应用](https://baoyu.io/blog/openai-structured-extraction-examples)
 <!-- BLOG-POST-LIST:END -->
