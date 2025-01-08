@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2025 年了，不要再去迷信提示词了](https://baoyu.io/blog/2025-stop-believing-prompts)
 - [AI 将何去何从？[译]](https://baoyu.io/blog/ai-future-translation)
 - [我如何使用 LLM 进行编程 [译]](https://baoyu.io/translations/programming-with-llms)
 - [构建高效 Agent [译]](https://baoyu.io/translations/building-effective-agents)
 - [OpenAI 官方出的三个结构化提取示例应用](https://baoyu.io/blog/openai-structured-extraction-examples)
-- [新手 Cursor 用户 vs 专业 Cursor 用户](https://baoyu.io/blog/beginner-vs-pro-cursor-users)
 <!-- BLOG-POST-LIST:END -->
