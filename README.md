@@ -70,9 +70,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为什么人工智能的进展愈发“看不见” [译]](https://baoyu.io/translations/why-ai-progress-is-increasingly-invisible)
 - [吴恩达老师分享的用 AI 辅助编程快速打造软件原型的最佳实践](https://baoyu.io/translations/ai-assisted-software-prototyping)
 - [软件正在吞噬世界，……好吧[译]](https://baoyu.io/translations/software-is-eating-the-world-all-right)
 - [你无法通过“优化”来成为一个好人 [译]](https://baoyu.io/translations/moral-optimization)
 - [使用 Cursor 编程的一些建议](https://baoyu.io/blog/cursor-programming-tips)
-- [我对非专业工程师使用 AI 辅助编程的建议](https://baoyu.io/blog/ai-assisted-programming-for-non-engineers)
 <!-- BLOG-POST-LIST:END -->
