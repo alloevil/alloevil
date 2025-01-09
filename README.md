@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [吴恩达老师分享的用 AI 辅助编程快速打造软件原型的最佳实践](https://baoyu.io/translations/ai-assisted-software-prototyping)
+- [软件正在吞噬世界，……好吧[译]](https://baoyu.io/translations/software-is-eating-the-world-all-right)
 - [你无法通过“优化”来成为一个好人 [译]](https://baoyu.io/translations/moral-optimization)
 - [使用 Cursor 编程的一些建议](https://baoyu.io/blog/cursor-programming-tips)
 - [我对非专业工程师使用 AI 辅助编程的建议](https://baoyu.io/blog/ai-assisted-programming-for-non-engineers)
-- [如何从移动应用中提取 AI 模型文件](https://baoyu.io/translations/you-wouldnt-download-an-ai)
-- [AI 辅助编码的残酷真相：它能帮你完成70%的工作，但最后30%令人非常沮丧](https://baoyu.io/translations/the-70-problem-hard-truths-about)
 <!-- BLOG-POST-LIST:END -->
