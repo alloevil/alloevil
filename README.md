@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [使用 Cursor 编程的一些建议](https://baoyu.io/blog/cursor-programming-tips)
 - [我对非专业工程师使用 AI 辅助编程的建议](https://baoyu.io/blog/ai-assisted-programming-for-non-engineers)
 - [如何从移动应用中提取 AI 模型文件](https://baoyu.io/translations/you-wouldnt-download-an-ai)
 - [AI 辅助编码的残酷真相：它能帮你完成70%的工作，但最后30%令人非常沮丧](https://baoyu.io/translations/the-70-problem-hard-truths-about)
 - [2025 年了，不要再去迷信提示词了](https://baoyu.io/blog/2025-stop-believing-prompts)
-- [AI 将何去何从？[译]](https://baoyu.io/blog/ai-future-translation)
 <!-- BLOG-POST-LIST:END -->
