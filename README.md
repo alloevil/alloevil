@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在DevOps过程中，我们是否可以使用AI去把整个流程串起来？](https://baoyu.io/blog/ai-in-devops-workflow)
+- [现在AI是否能做到记忆能力？](https://baoyu.io/blog/ai-memory-ability)
 - [人工智能并非天才。我们才是天才 [译]](https://baoyu.io/translations/ai-genius-art)
 - [被仁慈所爱的机器——人工智能如何让世界变得更美好[译]](https://baoyu.io/translations/machines-of-loving-grace)
 - [用提示词可以把20 美金的o1 变成200 美金的 “o1 pro”吗？](https://baoyu.io/blog/prompt-engineering-20-to-200-upgrade)
-- [2024 年我最喜欢的新发布自托管应用 [译]](https://baoyu.io/translations/2024-favorite-new-apps)
-- [为什么人工智能的进展愈发“看不见” [译]](https://baoyu.io/translations/why-ai-progress-is-increasingly-invisible)
 <!-- BLOG-POST-LIST:END -->
