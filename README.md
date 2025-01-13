@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Mac Mini G4 —— 最佳「经典」Macintosh 来怀旧游戏 [译]](https://baoyu.io/translations/MacMiniG4-the-best-classic-macintosh-for-retrogaming)
+- [简单有效的将音频转成各式良好对话文本的方案](https://baoyu.io/blog/audio-to-text-transcription-solution)
+- [o1 不是一个聊天模型（这正是它的意义）[译]](https://baoyu.io/translations/o1-skill-issue)
 - [让 AI 给你当学生，你自己当老师教 AI](https://baoyu.io/blog/teach-ai-student)
 - [问：写提示词的时候还需要角色设定吗？](https://baoyu.io/blog/prompt-engineering-character-design)
-- [问：是模型在限制 tokens 长度还是应用在限制？](https://baoyu.io/blog/model-token-limit-program-or-model)
-- [提示词不那么重要了吗？](https://baoyu.io/blog/prompt-importance-diminished)
-- [问：研发团队要怎么衡量ai coding带来的价值呢？](https://baoyu.io/blog/ai-coding-value-measurement)
 <!-- BLOG-POST-LIST:END -->
