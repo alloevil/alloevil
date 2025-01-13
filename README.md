@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如果我们拥有世界上最好的产品工程组织，它会是什么样子？[译]](https://baoyu.io/translations/the-best-product-engineering-org-in-the-world)
 - [Mac Mini G4 —— 最佳「经典」Macintosh 来怀旧游戏 [译]](https://baoyu.io/translations/MacMiniG4-the-best-classic-macintosh-for-retrogaming)
 - [简单有效的将音频转成各式良好对话文本的方案](https://baoyu.io/blog/audio-to-text-transcription-solution)
 - [o1 不是一个聊天模型（这正是它的意义）[译]](https://baoyu.io/translations/o1-skill-issue)
 - [让 AI 给你当学生，你自己当老师教 AI](https://baoyu.io/blog/teach-ai-student)
-- [问：写提示词的时候还需要角色设定吗？](https://baoyu.io/blog/prompt-engineering-character-design)
 <!-- BLOG-POST-LIST:END -->
