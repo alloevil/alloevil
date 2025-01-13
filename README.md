@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [问：是模型在限制 tokens 长度还是应用在限制？](https://baoyu.io/blog/model-token-limit-program-or-model)
+- [提示词不那么重要了吗？](https://baoyu.io/blog/prompt-importance-diminished)
 - [问：研发团队要怎么衡量ai coding带来的价值呢？](https://baoyu.io/blog/ai-coding-value-measurement)
 - [AI 创业者需要学习《苦涩的教训》[译]](https://baoyu.io/translations/bitter-vertical)
 - [AI编程革命：代码的未来，由AI重塑！](https://baoyu.io/blog/ai-programming-revolution)
-- [在DevOps过程中，我们是否可以使用AI去把整个流程串起来？](https://baoyu.io/blog/ai-in-devops-workflow)
-- [现在AI是否能做到记忆能力？](https://baoyu.io/blog/ai-memory-ability)
 <!-- BLOG-POST-LIST:END -->
