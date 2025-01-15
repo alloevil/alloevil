@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [一个“退后一步 Step back”的提示词技巧](https://baoyu.io/blog/step-back-prompt-technique)
+- [关于加强美国在人工智能基础设施领域领导地位的行政命令 [译]](https://baoyu.io/translations/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure)
 - [非专业程序员借助 AI 能干好专业程序员的活吗？](https://baoyu.io/blog/ai-help-for-non-professional-programmers)
 - [使用编程技能赚取被动收入 [译]](https://baoyu.io/translations/passive-income-programming-skills)
 - [o1 pro 值一个月 $200 吗？](https://baoyu.io/blog/o1-pro-worth-200)
-- [如果我们拥有世界上最好的产品工程组织，它会是什么样子？[译]](https://baoyu.io/translations/the-best-product-engineering-org-in-the-world)
-- [Mac Mini G4 —— 最佳「经典」Macintosh 来怀旧游戏 [译]](https://baoyu.io/translations/MacMiniG4-the-best-classic-macintosh-for-retrogaming)
 <!-- BLOG-POST-LIST:END -->
