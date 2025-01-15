@@ -36,15 +36,13 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C372%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C372%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,16 +77,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Python                   24 mins             ██████████████░░░░░░░░░░░   56.59 % 
+Other                    18 mins             ███████████░░░░░░░░░░░░░░   42.57 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+Cursor                   24 mins             ██████████████░░░░░░░░░░░   56.59 % 
+VS Code                  19 mins             ███████████░░░░░░░░░░░░░░   43.41 % 
 
 🐱‍💻 Projects: 
-ai-commits-intellij-plugi12 mins             █████████████████████████   100.00 % 
+micarsalesforecast       24 mins             ██████████████░░░░░░░░░░░   55.10 % 
+ai-commits-intellij-plugi19 mins             ███████████░░░░░░░░░░░░░░   43.41 % 
+simu                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,7 +109,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 18:44:13 UTC
+ Last Updated on 15/01/2025 18:42:27 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
