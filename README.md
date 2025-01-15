@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [“2025年 AI coding 将如何演进”播客文稿](https://baoyu.io/blog/ai-coding-evolution-2025)
 - [一个“退后一步 Step back”的提示词技巧](https://baoyu.io/blog/step-back-prompt-technique)
 - [关于加强美国在人工智能基础设施领域领导地位的行政命令 [译]](https://baoyu.io/translations/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure)
 - [非专业程序员借助 AI 能干好专业程序员的活吗？](https://baoyu.io/blog/ai-help-for-non-professional-programmers)
 - [使用编程技能赚取被动收入 [译]](https://baoyu.io/translations/passive-income-programming-skills)
-- [o1 pro 值一个月 $200 吗？](https://baoyu.io/blog/o1-pro-worth-200)
 <!-- BLOG-POST-LIST:END -->
