@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为什么 Cloudflare Pages 的免费套餐如此慷慨？[译]](https://baoyu.io/translations/why-does-cloudflare-pages-have-such-a-generous-free-tier)
 - [AI 创业者需要学习《苦涩的教训》：第二章 - 无护城河 [译]](https://baoyu.io/translations/ai-founders-bitter-lesson-chapter-2-no-power)
 - [“2025年 AI coding 将如何演进”播客文稿](https://baoyu.io/blog/ai-coding-evolution-2025)
 - [一个“退后一步 Step back”的提示词技巧](https://baoyu.io/blog/step-back-prompt-technique)
 - [关于加强美国在人工智能基础设施领域领导地位的行政命令 [译]](https://baoyu.io/translations/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure)
-- [非专业程序员借助 AI 能干好专业程序员的活吗？](https://baoyu.io/blog/ai-help-for-non-professional-programmers)
 <!-- BLOG-POST-LIST:END -->
