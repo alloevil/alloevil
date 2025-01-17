@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [这则关于 GPT-5 的传言将改变一切 [译]](https://baoyu.io/translations/1737064573987.png)
+- [为什么 AI 还不能完成复杂项目？](https://baoyu.io/blog/why-ai-cant-complete-complex-projects)
+- [21 世纪什么最贵？人才！AI 时代什么人才最贵？](https://baoyu.io/blog/ai-era-most-valuable-talent)
+- [开发软件成本越来越低，但创意更值钱：AI 产品经理将炙手可热！[译]](https://baoyu.io/translations/ai-product-management-golden-age)
+- [这则关于 GPT-5 的传言将改变一切 [译]](https://baoyu.io/translations/this-rumor-about-gpt-5-changes-everything)
 - [为什么 Cloudflare Pages 的免费套餐如此慷慨？[译]](https://baoyu.io/translations/why-does-cloudflare-pages-have-such-a-generous-free-tier)
-- [AI 创业者需要学习《苦涩的教训》：第二章 - 无护城河 [译]](https://baoyu.io/translations/ai-founders-bitter-lesson-chapter-2-no-power)
-- [“2025年 AI coding 将如何演进”播客文稿](https://baoyu.io/blog/ai-coding-evolution-2025)
-- [一个“退后一步 Step back”的提示词技巧](https://baoyu.io/blog/step-back-prompt-technique)
 <!-- BLOG-POST-LIST:END -->
