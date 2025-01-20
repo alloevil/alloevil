@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [打断如何影响不同的软件工程活动？[译]](https://baoyu.io/translations/rdel-75-how-do-interruptions-impact)
 - [ChatGPT 的不平衡采用加剧了工人之间既有的不平等 [译]](https://baoyu.io/translations/chatgpt-exacerbates-worker-inequality)
 - [与 Devin 相处一个月的思考 [译]](https://baoyu.io/translations/thoughts-on-devin)
 - [超越机器人：在 AI 时代重新定义聊天机器人设计 [译]](https://baoyu.io/translations/beyond-the-bot-redefining-chatbot-design-in-the-age-of-ai-a662dfeecf82)
 - [为什么 AI 还不能完成复杂项目？](https://baoyu.io/blog/why-ai-cant-complete-complex-projects)
-- [21 世纪什么最贵？人才！AI 时代什么人才最贵？](https://baoyu.io/blog/ai-era-most-valuable-talent)
 <!-- BLOG-POST-LIST:END -->
