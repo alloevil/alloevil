@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AGI前夜的思考 [译]](https://baoyu.io/translations/agi-pre-dawn-thoughts)
 - [AI 初创公司最危险的做法：就是为其他 AI 初创公司构建产品 [译]](https://baoyu.io/translations/ai-startup-riskiest-practices)
 - [如何让 AI 的用户体验（UX）成为你的护城河 [译]](https://baoyu.io/translations/ai-ux-moat)
 - [打造「Copilot for X」究竟需要什么？[译]](https://baoyu.io/translations/what-building-copilot-for-x-really)
 - [写提示词的功夫，代码都写出来了，还有必要用 AI 编程吗？](https://baoyu.io/blog/ai-coding-necessary)
-- [打断如何影响不同的软件工程活动？[译]](https://baoyu.io/translations/rdel-75-how-do-interruptions-impact)
 <!-- BLOG-POST-LIST:END -->
