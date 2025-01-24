@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Operator 系统提示词（中文翻译）](https://baoyu.io/blog/openai-operator-system-prompts-cn)
+- [OpenAI Operator System Prompt](https://baoyu.io/blog/openai-operator-system-prompt)
+- [一些“小模型”的使用案例](https://baoyu.io/blog/small-model-use-cases)
 - [一句简单的提示词就可以让 LLM 在翻译的时候更好的“意译”](https://baoyu.io/blog/llm-translation-better-idiom)
 - [AGI前夜的思考 [译]](https://baoyu.io/translations/agi-pre-dawn-thoughts)
-- [AI 初创公司最危险的做法：就是为其他 AI 初创公司构建产品 [译]](https://baoyu.io/translations/ai-startup-riskiest-practices)
-- [如何让 AI 的用户体验（UX）成为你的护城河 [译]](https://baoyu.io/translations/ai-ux-moat)
-- [打造「Copilot for X」究竟需要什么？[译]](https://baoyu.io/translations/what-building-copilot-for-x-really)
 <!-- BLOG-POST-LIST:END -->
