@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [让 o1 pro 帮忙分析了一下 Twitter 的评分算法](https://baoyu.io/blog/o1-pro-twitter-rating-algorithm)
 - [OpenAI Operator 系统提示词（中文翻译）](https://baoyu.io/blog/openai-operator-system-prompts-cn)
 - [OpenAI Operator System Prompt](https://baoyu.io/blog/openai-operator-system-prompt)
 - [一些“小模型”的使用案例](https://baoyu.io/blog/small-model-use-cases)
 - [一句简单的提示词就可以让 LLM 在翻译的时候更好的“意译”](https://baoyu.io/blog/llm-translation-better-idiom)
-- [AGI前夜的思考 [译]](https://baoyu.io/translations/agi-pre-dawn-thoughts)
 <!-- BLOG-POST-LIST:END -->
