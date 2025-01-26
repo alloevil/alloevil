@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [小明的烦恼：代码高手，不爱写文档，老板让写调研报告，还好有 AI 帮忙](https://baoyu.io/blog/xiaomings-coding-report-ai-help)
+- [The AI PM&#39;s Playbook：2025 年顶尖产品经理如何将影响力提升 10 倍 [译]](https://baoyu.io/translations/the-ai-pms-playbook)
 - [DeepSeek-V3 与 r1 中的异常 Token [译]](https://baoyu.io/translations/anomalous-tokens-in-deepseek-v3-and)
 - [OpenAI Operator 的工作原理](https://baoyu.io/blog/openai-operator-how-it-works)
 - [让 o1 pro 帮忙分析了一下 Twitter 的评分算法](https://baoyu.io/blog/o1-pro-twitter-rating-algorithm)
-- [OpenAI Operator 系统提示词（中文翻译）](https://baoyu.io/blog/openai-operator-system-prompts-cn)
-- [OpenAI Operator System Prompt](https://baoyu.io/blog/openai-operator-system-prompt)
 <!-- BLOG-POST-LIST:END -->
