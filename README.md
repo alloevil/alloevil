@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 搜索进化：深度体验 OpenAI Deep Research](https://baoyu.io/blog/ai-search-evolution-openai-deep-research)
 - [Google 旧闻重温：《我们没有护城河，OpenAI 也没有》](https://baoyu.io/blog/google-openai-no-moat)
 - [7B 小模型：如何用 8000 个示例，“炼”出会自我反思的 AI？](https://baoyu.io/blog/small-model-self-reflection-ai)
 - [别再羡慕那些写公众号“神文”的人了，一句简单提示词让你写的东西不再干巴巴！](https://baoyu.io/blog/write-better-articles-with-simple-prompts)
 - [对 DeepSeek R1 的科普 [译]](https://baoyu.io/translations/deepseek-r1-overview)
-- [英伟达股票的空头观点简析 [译]](https://baoyu.io/translations/05_the_short_case_for_nvda)
 <!-- BLOG-POST-LIST:END -->
