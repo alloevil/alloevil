@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic CEO Dario 再谈 DeepSeek 和中美 AI 竞争](https://baoyu.io/blog/anthropic-ceo-deepseek-us-china-ai)
 - [阿兰·图灵的神秘“Delilah”项目：被遗失的故事 [译]](https://baoyu.io/translations/lost-story-alan-turing-secret-delilah-project)
 - [比尔·盖茨：特朗普、马斯克，以及我的神经多样性如何塑造了我 [译]](https://baoyu.io/translations/bill-gates-interview-new-book-memoir)
 - [关于人工智能与人类智能关系的说明 [译]](https://baoyu.io/translations/rc_ddf_doc_20250128_antiqua-et-nova_cn)
 - [AI 搜索进化：深度体验 OpenAI Deep Research](https://baoyu.io/blog/ai-search-evolution-openai-deep-research)
-- [Google 旧闻重温：《我们没有护城河，OpenAI 也没有》](https://baoyu.io/blog/google-openai-no-moat)
 <!-- BLOG-POST-LIST:END -->
