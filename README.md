@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [以 DeepSeek R1 为例学习“推理型大语言模型 [译]](https://baoyu.io/translations/understanding-reasoning-llms)
 - [喜欢看 arxiv 上论文的朋友推荐使用 alphaxiv 这个网站看论文，官方出品，集成了 AI 功能还免费](https://baoyu.io/blog/alphaxiv-arxiv-paper-reader)
 - [Anthropic CEO Dario 再谈 DeepSeek 和中美 AI 竞争](https://baoyu.io/blog/anthropic-ceo-deepseek-us-china-ai)
 - [阿兰·图灵的神秘“Delilah”项目：被遗失的故事 [译]](https://baoyu.io/translations/lost-story-alan-turing-secret-delilah-project)
 - [比尔·盖茨：特朗普、马斯克，以及我的神经多样性如何塑造了我 [译]](https://baoyu.io/translations/bill-gates-interview-new-book-memoir)
-- [关于人工智能与人类智能关系的说明 [译]](https://baoyu.io/translations/rc_ddf_doc_20250128_antiqua-et-nova_cn)
 <!-- BLOG-POST-LIST:END -->
