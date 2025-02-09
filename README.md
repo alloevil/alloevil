@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [那些 DeepSeek 的聊天截图是真的还是假的？怎么鉴别？](https://baoyu.io/blog/deepseek-chat-screenshots-real-fake)
 - [处理数百万份 PDF，以及为何 Gemini 2.0 能改变一切 [译]](https://baoyu.io/translations/gemini-flash-2)
 - [为什么 LLM 在 OCR 任务上表现糟糕](https://baoyu.io/translations/why-llms-suck-at-ocr)
 - [GitHub Copilot Agent 模式的系统提示词泄漏](https://baoyu.io/blog/github-copilot-agent-prompt-leak)
 - [System prompt of GitHub Copilot Agent Mode](https://baoyu.io/blog/github-copilot-agent-mode)
-- [如何更好的为 DeepSeek R1 或 OpenAI o1 这样的推理模型写提示词？](https://baoyu.io/translations/prompt-engineering-for-openais-o1-and-o3-mini-reasoning-models)
 <!-- BLOG-POST-LIST:END -->
