@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [人工智能普及后哪些职业的边际价值反而会上升？](https://baoyu.io/blog/jobs-rising-value-post-ai)
 - [那些 DeepSeek 的聊天截图是真的还是假的？怎么鉴别？](https://baoyu.io/blog/deepseek-chat-screenshots-real-fake)
 - [处理数百万份 PDF，以及为何 Gemini 2.0 能改变一切 [译]](https://baoyu.io/translations/gemini-flash-2)
 - [为什么 LLM 在 OCR 任务上表现糟糕](https://baoyu.io/translations/why-llms-suck-at-ocr)
 - [GitHub Copilot Agent 模式的系统提示词泄漏](https://baoyu.io/blog/github-copilot-agent-prompt-leak)
-- [System prompt of GitHub Copilot Agent Mode](https://baoyu.io/blog/github-copilot-agent-mode)
 <!-- BLOG-POST-LIST:END -->
