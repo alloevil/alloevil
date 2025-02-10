@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [都没人看我为什么还要写博客？](https://baoyu.io/translations/why-blog-if-nobody-reads-it)
 - [什么是多模态大语言模型（MLLM）？[译]](https://baoyu.io/translations/multimodal-large-language-models-mllms-transforming-computer-vision)
 - [人工智能普及后哪些职业的边际价值反而会上升？](https://baoyu.io/blog/jobs-rising-value-post-ai)
 - [那些 DeepSeek 的聊天截图是真的还是假的？怎么鉴别？](https://baoyu.io/blog/deepseek-chat-screenshots-real-fake)
 - [处理数百万份 PDF，以及为何 Gemini 2.0 能改变一切 [译]](https://baoyu.io/translations/gemini-flash-2)
-- [为什么 LLM 在 OCR 任务上表现糟糕](https://baoyu.io/translations/why-llms-suck-at-ocr)
 <!-- BLOG-POST-LIST:END -->
