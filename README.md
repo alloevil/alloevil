@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在 AI 时代，新手算法工程师如何既依赖 AI，又能真正掌控代码？](https://baoyu.io/blog/ai-era-newbie-algorithm-engineer-code-mastery)
 - [Anthropic 经济指数](https://baoyu.io/translations/the-anthropic-economic-index)
 - [都没人看我为什么还要写博客？](https://baoyu.io/translations/why-blog-if-nobody-reads-it)
 - [什么是多模态大语言模型（MLLM）？[译]](https://baoyu.io/translations/multimodal-large-language-models-mllms-transforming-computer-vision)
 - [人工智能普及后哪些职业的边际价值反而会上升？](https://baoyu.io/blog/jobs-rising-value-post-ai)
-- [那些 DeepSeek 的聊天截图是真的还是假的？怎么鉴别？](https://baoyu.io/blog/deepseek-chat-screenshots-real-fake)
 <!-- BLOG-POST-LIST:END -->
