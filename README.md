@@ -113,9 +113,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Cursor Chat System Prompt](https://baoyu.io/blog/cursor-chat-system-prompt)
+- [Cursor Composer System Prompt](https://baoyu.io/blog/cursor-composer-system-prompt)
 - [Cursor Agent mode System Prompt](https://baoyu.io/blog/cursor-agent-system-prompt)
 - [Windsurf Chat Mode System Prompt](https://baoyu.io/blog/windsurf-chat-system-prompt)
 - [推理模型使用最佳实践](https://baoyu.io/translations/reasoning-best-practices)
-- [人工智能如何区分“头部人才”和“普通员工” [译]](https://baoyu.io/translations/how-ai-will-divide-the-best-from-the-rest)
-- [Deep Research 与知识价值：从信息搜索到价值重新定义](https://baoyu.io/translations/deep-research-and-knowledge-value)
 <!-- BLOG-POST-LIST:END -->
