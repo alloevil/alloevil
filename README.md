@@ -68,9 +68,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [什么是 AI 架构师？ — Bret Taylor](https://baoyu.io/translations/bret)
 - [Cursor Chat System Prompt](https://baoyu.io/blog/cursor-chat-system-prompt)
 - [Cursor Composer System Prompt](https://baoyu.io/blog/cursor-composer-system-prompt)
 - [Cursor Agent mode System Prompt](https://baoyu.io/blog/cursor-agent-system-prompt)
 - [Windsurf Chat Mode System Prompt](https://baoyu.io/blog/windsurf-chat-system-prompt)
-- [推理模型使用最佳实践](https://baoyu.io/translations/reasoning-best-practices)
 <!-- BLOG-POST-LIST:END -->
