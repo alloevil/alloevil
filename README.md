@@ -68,9 +68,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Cursor: 以每秒 1000 个 Token 的速度编辑文件](https://baoyu.io/translations/cursor-editing-1000-tokens-per-second)
+- [NASA 的软件开发十条规则](https://baoyu.io/translations/nasa-software-development-rules)
 - [什么是 AI 架构师？ — Bret Taylor](https://baoyu.io/translations/bret)
 - [Cursor Chat System Prompt](https://baoyu.io/blog/cursor-chat-system-prompt)
 - [Cursor Composer System Prompt](https://baoyu.io/blog/cursor-composer-system-prompt)
-- [Cursor Agent mode System Prompt](https://baoyu.io/blog/cursor-agent-system-prompt)
-- [Windsurf Chat Mode System Prompt](https://baoyu.io/blog/windsurf-chat-system-prompt)
 <!-- BLOG-POST-LIST:END -->
