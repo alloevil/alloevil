@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI 的 Deep Research 会让我失业吗？](https://baoyu.io/translations/does-openai-s-deep-research-put-me-out-of-a-job)
+- [我们对于 GPU 的看法错了 [译]](https://baoyu.io/translations/wrong-about-gpu)
 - [Cursor: 以每秒 1000 个 Token 的速度编辑文件](https://baoyu.io/translations/cursor-editing-1000-tokens-per-second)
 - [NASA 的软件开发十条规则](https://baoyu.io/translations/nasa-software-development-rules)
 - [什么是 AI 架构师？ — Bret Taylor](https://baoyu.io/translations/bret)
-- [Cursor Chat System Prompt](https://baoyu.io/blog/cursor-chat-system-prompt)
-- [Cursor Composer System Prompt](https://baoyu.io/blog/cursor-composer-system-prompt)
 <!-- BLOG-POST-LIST:END -->
