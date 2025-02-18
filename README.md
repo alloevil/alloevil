@@ -112,9 +112,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [刚入门的初级开发者其实并不真的会写代码 [译]](https://baoyu.io/translations/junior-developers-cant-code)
+- [找到心流：通过深度工作和慢生活逃离数字干扰 [译]](https://baoyu.io/translations/flow-deep-work-slow-living)
 - [OpenAI 的 Deep Research 会让我失业吗？](https://baoyu.io/translations/does-openai-s-deep-research-put-me-out-of-a-job)
 - [我们对于 GPU 的看法错了 [译]](https://baoyu.io/translations/wrong-about-gpu)
 - [Cursor: 以每秒 1000 个 Token 的速度编辑文件](https://baoyu.io/translations/cursor-editing-1000-tokens-per-second)
-- [NASA 的软件开发十条规则](https://baoyu.io/translations/nasa-software-development-rules)
-- [什么是 AI 架构师？ — Bret Taylor](https://baoyu.io/translations/bret)
 <!-- BLOG-POST-LIST:END -->
