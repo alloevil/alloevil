@@ -112,9 +112,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Grok 3 越狱提示词](https://baoyu.io/blog/grok-3-jailbreak-prompts-cn)
+- [Grok 3 Jailbreak Prompt](https://baoyu.io/blog/grok-3-jailbreak-prompt)
 - [LangChain 团队发布 LangMem SDK](https://baoyu.io/translations/langchain-langmem-sdk)
 - [刚入门的初级开发者其实并不真的会写代码 [译]](https://baoyu.io/translations/junior-developers-cant-code)
 - [找到心流：通过深度工作和慢生活逃离数字干扰 [译]](https://baoyu.io/translations/flow-deep-work-slow-living)
-- [OpenAI 的 Deep Research 会让我失业吗？](https://baoyu.io/translations/does-openai-s-deep-research-put-me-out-of-a-job)
-- [我们对于 GPU 的看法错了 [译]](https://baoyu.io/translations/wrong-about-gpu)
 <!-- BLOG-POST-LIST:END -->
