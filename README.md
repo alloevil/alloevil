@@ -112,9 +112,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [软件工程职位数量真的跌到了五年来的最低点吗？[译]](https://baoyu.io/translations/software-engineer-jobs-five-year-low)
+- [马斯克号称 Grok 3 的知识库是实时更新的，别被他忽悠了！](https://baoyu.io/blog/grok-3-knowledge-base-update-myth)
 - [Grok 3 越狱提示词](https://baoyu.io/blog/grok-3-jailbreak-prompts-cn)
 - [Grok 3 Jailbreak Prompt](https://baoyu.io/blog/grok-3-jailbreak-prompt)
 - [LangChain 团队发布 LangMem SDK](https://baoyu.io/translations/langchain-langmem-sdk)
-- [刚入门的初级开发者其实并不真的会写代码 [译]](https://baoyu.io/translations/junior-developers-cant-code)
-- [找到心流：通过深度工作和慢生活逃离数字干扰 [译]](https://baoyu.io/translations/flow-deep-work-slow-living)
 <!-- BLOG-POST-LIST:END -->
