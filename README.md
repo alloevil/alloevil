@@ -110,9 +110,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何使用 Gemini 把播客转成格式良好文本](https://baoyu.io/blog/gemini-podcast-to-text)
 - [Booking.com 在 AI 落地方面的探索](https://baoyu.io/blog/booking-com-ai-exploration)
 - [AI 正在推动程序员的进化，而不是灭亡](https://baoyu.io/blog/ai-is-evolving-programmers)
 - [Coinbase 使用 AI 编程工具提升开发效率，同时正在欺诈预防、客户支持、风险评分、设计等多个业务领域积极应用 AI 技术](https://baoyu.io/blog/coinbase-ai-improves-development-efficiency)
 - [你无法用 AI 建立护城河 [译]](https://baoyu.io/translations/you-cant-build-a-moat-with-ai-redux)
-- [软件工程职位数量真的跌到了五年来的最低点吗？[译]](https://baoyu.io/translations/software-engineer-jobs-five-year-low)
 <!-- BLOG-POST-LIST:END -->
