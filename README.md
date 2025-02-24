@@ -110,9 +110,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [请求“不”，而非请求“是”](https://baoyu.io/translations/request-no-not-yes)
 - [Anthropic 在和客户合作的过程中总结的的企业落地 AI 最佳实践以及常见错误](https://baoyu.io/blog/anthropic-ai-best-practices-common-errors)
 - [如何使用 Gemini 把播客转成格式良好文本](https://baoyu.io/blog/gemini-podcast-to-text)
 - [Booking.com 在 AI 落地方面的探索](https://baoyu.io/blog/booking-com-ai-exploration)
 - [AI 正在推动程序员的进化，而不是灭亡](https://baoyu.io/blog/ai-is-evolving-programmers)
-- [Coinbase 使用 AI 编程工具提升开发效率，同时正在欺诈预防、客户支持、风险评分、设计等多个业务领域积极应用 AI 技术](https://baoyu.io/blog/coinbase-ai-improves-development-efficiency)
 <!-- BLOG-POST-LIST:END -->
