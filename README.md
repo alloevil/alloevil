@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [LLM（机器学习）职位面试（2024年秋季）——流程回顾 [译]](https://baoyu.io/translations/llm-ml-job-interviews-fall-2024-process)
+- [Claude 的推理思考（Extended Thinking）【译】](https://baoyu.io/translations/visible-extended-thinking)
+- [Claude 3.7 Sonnet 和 Claude Code 【译】](https://baoyu.io/translations/claude-3-7-sonnet-and-claude-code)
 - [如何用 AI 来批量切割视频](https://baoyu.io/blog/ai-batch-video-cutting)
 - [请求“不”，而非请求“是”](https://baoyu.io/translations/request-no-not-yes)
-- [Anthropic 在和客户合作的过程中总结的的企业落地 AI 最佳实践以及常见错误](https://baoyu.io/blog/anthropic-ai-best-practices-common-errors)
-- [如何使用 Gemini 把播客转成格式良好文本](https://baoyu.io/blog/gemini-podcast-to-text)
-- [Booking.com 在 AI 落地方面的探索](https://baoyu.io/blog/booking-com-ai-exploration)
 <!-- BLOG-POST-LIST:END -->
