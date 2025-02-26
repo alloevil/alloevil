@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [介绍 GitHub Copilot agent 模式（预览版）](https://baoyu.io/translations/introducing-copilot-agent-mode)
+- [Deep Research 的问题 【译】](https://baoyu.io/translations/the-deep-research-problem)
 - [Deep Research 系统卡（中文）](https://baoyu.io/translations/deep-research-system-card)
 - [LLM（机器学习）职位面试（2024年秋季）——流程回顾 [译]](https://baoyu.io/translations/llm-ml-job-interviews-fall-2024-process)
 - [Claude 的推理思考（Extended Thinking）【译】](https://baoyu.io/translations/visible-extended-thinking)
-- [Claude 3.7 Sonnet 和 Claude Code 【译】](https://baoyu.io/translations/claude-3-7-sonnet-and-claude-code)
-- [如何用 AI 来批量切割视频](https://baoyu.io/blog/ai-batch-video-cutting)
 <!-- BLOG-POST-LIST:END -->
