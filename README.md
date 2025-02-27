@@ -116,9 +116,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [人工智能生成的代码如何加剧技术债务](https://baoyu.io/translations/how-ai-generated-code-accelerates-technical-debt)
+- [作者 Mark Manson 对自己的畅销书《The Subtle Art of Not Giving a F*ck》的总结](https://baoyu.io/translations/manson-subtle-art-not-giving-f-summary)
 - [Deep Research 提示词模板参考](https://baoyu.io/blog/deep-research-prompt-templates)
 - [介绍 GitHub Copilot agent 模式（预览版）](https://baoyu.io/translations/introducing-copilot-agent-mode)
 - [Deep Research 的问题 【译】](https://baoyu.io/translations/the-deep-research-problem)
-- [Deep Research 系统卡（中文）](https://baoyu.io/translations/deep-research-system-card)
-- [LLM（机器学习）职位面试（2024年秋季）——流程回顾 [译]](https://baoyu.io/translations/llm-ml-job-interviews-fall-2024-process)
 <!-- BLOG-POST-LIST:END -->
