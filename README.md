@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI GPT-4.5 系统卡](https://baoyu.io/translations/openai-gpt-45-system-card)
 - [Deep Research 实践经验总结：从“进度条”到“提示词”，一次搞懂！](https://baoyu.io/blog/deep-research-progress-to-prompt)
 - [人工智能生成的代码如何加剧技术债务](https://baoyu.io/translations/how-ai-generated-code-accelerates-technical-debt)
 - [作者 Mark Manson 对自己的畅销书《The Subtle Art of Not Giving a F*ck》的总结](https://baoyu.io/translations/manson-subtle-art-not-giving-f-summary)
 - [Deep Research 提示词模板参考](https://baoyu.io/blog/deep-research-prompt-templates)
-- [介绍 GitHub Copilot agent 模式（预览版）](https://baoyu.io/translations/introducing-copilot-agent-mode)
 <!-- BLOG-POST-LIST:END -->
