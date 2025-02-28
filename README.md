@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何像人类一样进行代码评审（第二部分）](https://baoyu.io/translations/human-code-reviews-2)
+- [如何像一个人一样做代码审查（第一部分）](https://baoyu.io/translations/human-code-reviews-1)
 - [在 AI 时代，博客写作仍然值得 【译】](https://baoyu.io/translations/blogging-in-the-age-of-ai)
 - [OpenAI GPT-4.5 系统卡](https://baoyu.io/translations/openai-gpt-45-system-card)
 - [Deep Research 实践经验总结：从“进度条”到“提示词”，一次搞懂！](https://baoyu.io/blog/deep-research-progress-to-prompt)
-- [人工智能生成的代码如何加剧技术债务](https://baoyu.io/translations/how-ai-generated-code-accelerates-technical-debt)
-- [作者 Mark Manson 对自己的畅销书《The Subtle Art of Not Giving a F*ck》的总结](https://baoyu.io/translations/manson-subtle-art-not-giving-f-summary)
 <!-- BLOG-POST-LIST:END -->
