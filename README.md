@@ -114,9 +114,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek 开源周第 6 天彩蛋 – DeepSeek-V3/R1 推理系统概览](https://baoyu.io/translations/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)
 - [AI 正在“扼杀”某些公司，却也让另一些公司蓬勃发展 ——让我们一起看看数据](https://baoyu.io/translations/ai-is-killing-some-companies-yet)
 - [如何像人类一样进行代码评审（第二部分）](https://baoyu.io/translations/human-code-reviews-2)
 - [如何像一个人一样做代码审查（第一部分）](https://baoyu.io/translations/human-code-reviews-1)
 - [在 AI 时代，博客写作仍然值得 【译】](https://baoyu.io/translations/blogging-in-the-age-of-ai)
-- [OpenAI GPT-4.5 系统卡](https://baoyu.io/translations/openai-gpt-45-system-card)
 <!-- BLOG-POST-LIST:END -->
