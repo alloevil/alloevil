@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [人工智能的最高奖项——图灵奖，近日颁给了强化学习领域的两位先驱：安德鲁·巴托和理查德·萨顿](https://baoyu.io/blog/turing-award-reinforcement-learning-pioneers)
+- [纽约时报观点 | 美国政府认为 A.G.I. 即将到来](https://baoyu.io/translations/ezra-klein-podcast-ben-buchanan.html)
 - [模型即产品（The Model is the Product）](https://baoyu.io/translations/model-is-the-product)
 - [《人工智能君主制》（The A.I. Monarchy）](https://baoyu.io/translations/ai-monarchy)
 - [AI 作为引擎，人类作为方向盘](https://baoyu.io/translations/ai-human-collaboration)
-- [DeepSeek 开源周第 6 天彩蛋 – DeepSeek-V3/R1 推理系统概览](https://baoyu.io/translations/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)
-- [AI 正在“扼杀”某些公司，却也让另一些公司蓬勃发展 ——让我们一起看看数据](https://baoyu.io/translations/ai-is-killing-some-companies-yet)
 <!-- BLOG-POST-LIST:END -->
