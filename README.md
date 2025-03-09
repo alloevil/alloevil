@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [不会考察候选人的「AI能力」？你可能招不到未来的人才！](https://baoyu.io/blog/ai-skills-future-talent)
 - [论文：《自动化的反讽》（Ironies of Automation）[译]](https://baoyu.io/translations/paper-ironies-of-automation.html)
 - [Manus 的护城河在哪里？](https://baoyu.io/blog/where-is-manus-moat)
 - [人工智能的最高奖项——图灵奖，近日颁给了强化学习领域的两位先驱：安德鲁·巴托和理查德·萨顿](https://baoyu.io/blog/turing-award-reinforcement-learning-pioneers)
 - [纽约时报观点 | 美国政府认为 A.G.I. 即将到来](https://baoyu.io/translations/ezra-klein-podcast-ben-buchanan.html)
-- [模型即产品（The Model is the Product）](https://baoyu.io/translations/model-is-the-product)
 <!-- BLOG-POST-LIST:END -->
