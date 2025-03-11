@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [从互联网泡沫破裂，看今天 AI 热潮的未来](https://baoyu.io/translations/what-the-dot-com-bust-can-tell-us-about-todays-ai-boom-c78482e7)
+- [Apple AI 的平台转型潜力](https://baoyu.io/translations/apple-ais-platform-pivot-potential)
 - [50位 a16z 合伙人对 2025 年科技领域发展趋势的预测](https://baoyu.io/translations/big-ideas-in-tech-2025)
 - [什么是模型上下文协议（MCP）？它如何比传统API更简单地集成AI？](https://baoyu.io/translations/mcp-vs-api-model-context-protocol-explained)
 - [不会考察候选人的「AI能力」？你可能招不到未来的人才！](https://baoyu.io/blog/ai-skills-future-talent)
-- [论文：《自动化的反讽》（Ironies of Automation）[译]](https://baoyu.io/translations/paper-ironies-of-automation.html)
-- [Manus 的护城河在哪里？](https://baoyu.io/blog/where-is-manus-moat)
 <!-- BLOG-POST-LIST:END -->
