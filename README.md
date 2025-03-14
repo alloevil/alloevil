@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [赞美“普通”的工程师](https://baoyu.io/translations/praise-ordinary-engineers)
+- [数学与AI之间的文化鸿沟](https://baoyu.io/translations/understanding-the-cultural-divide-between-mathematics-and-ai)
 - [真正的AI智能体即将到来：告别死板提示词，迎接自主规划时代！](https://baoyu.io/translations/designing-llm-agents)
 - [X 平台大规模 DDoS 攻击调查：幕后黑客浮出水面](https://baoyu.io/blog/x-platform-ddos-attack-investigation)
 - [SemiAnalysis: 美国正在错失新型劳动力经济——机器人革命（第一篇）](https://baoyu.io/blog/america-is-missing-the-new-labor-economy-robotics-part-1)
-- [从互联网泡沫破裂，看今天 AI 热潮的未来](https://baoyu.io/translations/what-the-dot-com-bust-can-tell-us-about-todays-ai-boom-c78482e7)
-- [Apple AI 的平台转型潜力](https://baoyu.io/translations/apple-ais-platform-pivot-potential)
 <!-- BLOG-POST-LIST:END -->
