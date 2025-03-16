@@ -113,7 +113,7 @@ HTML                     1 repo              ██████░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - [问答：知识库和微调的差别](https://baoyu.io/blog/knowledge-base-vs-fine-tuning)
 - [问答：智能体跟Ai编程这两者的区别，智能体适合什么场景，Ai编程适合什么场景？](https://baoyu.io/blog/ai-vs-intelligent-agents-applications)
-- [赞美“普通”的工程师](https://baoyu.io/translations/praise-ordinary-engineers)
+- [致敬“普通”的工程师——一位软件工程师对“10倍工程师”神话的质疑与反思](https://baoyu.io/translations/praise-ordinary-engineers)
 - [数学与AI之间的文化鸿沟](https://baoyu.io/translations/understanding-the-cultural-divide-between-mathematics-and-ai)
 - [真正的AI智能体即将到来：告别死板提示词，迎接自主规划时代！](https://baoyu.io/translations/designing-llm-agents)
 <!-- BLOG-POST-LIST:END -->
