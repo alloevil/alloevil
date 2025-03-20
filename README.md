@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代，该怎么选专业？](https://baoyu.io/blog/ai-career-choices)
 - [纽约时报揭秘揭秘AI时代背后的“超级工厂”，一座耗电超 60 万户家庭用电！](https://baoyu.io/blog/ai-data-centers.html)
 - [如果你感觉 2025 年职场不好混了，并不是错觉](https://baoyu.io/translations/career-advice-2025)
 - [为什么大部分公司根本不应该制定所谓的「AI 战略」？](https://baoyu.io/translations/ai-strategy-mistakes-5db90efa)
 - [问答：知识库和微调的差别](https://baoyu.io/blog/knowledge-base-vs-fine-tuning)
-- [问答：智能体跟Ai编程这两者的区别，智能体适合什么场景，Ai编程适合什么场景？](https://baoyu.io/blog/ai-vs-intelligent-agents-applications)
 <!-- BLOG-POST-LIST:END -->
