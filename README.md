@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [苦涩的教训：重新思考如何构建AI系](https://baoyu.io/translations/bitter-lessons-rethinking-ai-development)
 - [如何写好提示词？手把手教你用提示词玩转 AI（1）](https://baoyu.io/blog/how-to-write-effective-ai-prompts)
 - [如何提升情绪智能，实现“情绪清晰度”？](https://baoyu.io/blog/improve-emotional-intelligence)
 - [AI 时代，该怎么选专业？](https://baoyu.io/blog/ai-career-choices)
 - [纽约时报揭秘揭秘AI时代背后的“超级工厂”，一座耗电超 60 万户家庭用电！](https://baoyu.io/blog/ai-data-centers.html)
-- [如果你感觉 2025 年职场不好混了，并不是错觉](https://baoyu.io/translations/career-advice-2025)
 <!-- BLOG-POST-LIST:END -->
