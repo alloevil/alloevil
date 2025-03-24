@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在大语言模型时代如何改进推荐系统与搜索](https://baoyu.io/translations/llm-enhanced-recs-search)
 - [我认识的最差程序员](https://baoyu.io/translations/the-worst-programmer)
 - [苦涩的教训：重新思考如何构建AI系](https://baoyu.io/translations/bitter-lessons-rethinking-ai-development)
 - [如何写好提示词？手把手教你用提示词玩转 AI（1）](https://baoyu.io/blog/how-to-write-effective-ai-prompts)
 - [如何提升情绪智能，实现“情绪清晰度”？](https://baoyu.io/blog/improve-emotional-intelligence)
-- [AI 时代，该怎么选专业？](https://baoyu.io/blog/ai-career-choices)
 <!-- BLOG-POST-LIST:END -->
