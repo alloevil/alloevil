@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks)
 - [模型即产品：未来 AI 产品演化的新范式](https://baoyu.io/blog/model-as-product-ai-evolution)
 - [Sam Altman 被 OpenAI 解雇事件背后的真实故事](https://baoyu.io/translations/the-real-story-behind-sam-altman-firing-from-openai)
 - [超越70%：如何用好AI时代编程中“人类独有的30%”](https://baoyu.io/translations/beyond-the-70-maximizing-the-human)
 - [程序员究竟怎样用 AI？深度解读 WIRED 调查报告《How Software Engineers Actually Use AI》](https://baoyu.io/blog/programmers-use-ai-wired-report)
-- [在大语言模型时代如何改进推荐系统与搜索](https://baoyu.io/translations/llm-enhanced-recs-search)
 <!-- BLOG-POST-LIST:END -->
