@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [那年愚人节，我差点把自己“作”没了](https://baoyu.io/translations/the-april-fools-joke-that-might-have.html)
 - [解密AI的“性格密码”：从“周一（Monday）”音色提示词看提示词工程的魔力](https://baoyu.io/blog/ai-personality-prompt-engineering-openai-monday)
 - [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks)
 - [模型即产品：未来 AI 产品演化的新范式](https://baoyu.io/blog/model-as-product-ai-evolution)
 - [Sam Altman 被 OpenAI 解雇事件背后的真实故事](https://baoyu.io/translations/the-real-story-behind-sam-altman-firing-from-openai)
-- [超越70%：如何用好AI时代编程中“人类独有的30%”](https://baoyu.io/translations/beyond-the-70-maximizing-the-human)
 <!-- BLOG-POST-LIST:END -->
