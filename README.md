@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [GPT-4o 画手绘风格的信息图卡片](https://baoyu.io/blog/gpt-4-hand-drawn-infographic-cards)
+- [GPT-4o 绘制色彩鲜艳、手绘风格的旅游手账插画](https://baoyu.io/blog/gpt-4-vibrant-travel-journal-illustrations)
 - [为什么靠 AI“什么都懂一点”，却并不能真正变专业？](https://baoyu.io/blog/ai-generalist-vs-specialist)
 - [GPT-4o 生成复杂四格漫画提示词](https://baoyu.io/blog/gpt-4-complex-comic-prompts)
 - [那年愚人节，我差点把自己“作”没了](https://baoyu.io/translations/the-april-fools-joke-that-might-have.html)
-- [解密AI的“性格密码”：从“周一（Monday）”音色提示词看提示词工程的魔力](https://baoyu.io/blog/ai-personality-prompt-engineering-openai-monday)
-- [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks)
 <!-- BLOG-POST-LIST:END -->
