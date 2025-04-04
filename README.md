@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [把照片变成 3D Q版风格](https://baoyu.io/blog/photo-to-3d-q-version)
 - [3D风格的Q版人物APP图标](https://baoyu.io/blog/3d-q-version-character-app-icon)
 - [AI 画图技巧：让指定文字变成红色](https://baoyu.io/blog/ai-image-red-text-html)
 - [AI 画图技巧：让指定文字变成红色](https://baoyu.io/blog/ai-image-tip-red-text)
 - [GPT-4o 画手绘风格的信息图卡片](https://baoyu.io/blog/gpt-4-hand-drawn-infographic-cards)
-- [GPT-4o 绘制色彩鲜艳、手绘风格的旅游手账插画](https://baoyu.io/blog/gpt-4-vibrant-travel-journal-illustrations)
 <!-- BLOG-POST-LIST:END -->
