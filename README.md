@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [从“首个 AI 软件工程师” Devin 2.0 的系统提示词看提示词工程的奥秘](https://baoyu.io/blog/ai-software-engineer-prompt-engineering)
 - [把人物变成拍立得照片并且突破二维相片边框](https://baoyu.io/blog/photo-booth-3d-portraits)
 - [将人像变成可爱 3D 微缩立体模型](https://baoyu.io/blog/cute-3d-miniature-portraits)
 - [把照片变成 3D Q版风格](https://baoyu.io/blog/photo-to-3d-q-version)
 - [3D风格的Q版人物APP图标](https://baoyu.io/blog/3d-q-version-character-app-icon)
-- [AI 画图技巧：让指定文字变成红色](https://baoyu.io/blog/ai-image-red-text-html)
 <!-- BLOG-POST-LIST:END -->
