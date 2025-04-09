@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [斯坦福《2025年AI指数报告》](https://baoyu.io/translations/2025-ai-index-report)
 - [Shopify 新标准：将 AI 融入日常工作，已是基本要求](https://baoyu.io/blog/shopify-ai-integration-standard)
 - [AI 基础：究竟什么是“智能体”？](https://baoyu.io/translations/ai-fundamentals-agent-definitions)
 - [从“首个 AI 软件工程师” Devin 2.0 的系统提示词看提示词工程的奥秘](https://baoyu.io/blog/ai-software-engineer-prompt-engineering)
 - [把人物变成拍立得照片并且突破二维相片边框](https://baoyu.io/blog/photo-booth-3d-portraits)
-- [将人像变成可爱 3D 微缩立体模型](https://baoyu.io/blog/cute-3d-miniature-portraits)
 <!-- BLOG-POST-LIST:END -->
