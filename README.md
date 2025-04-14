@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [企业高管强制推行 AI 让开发者们苦不堪言](https://baoyu.io/translations/ai-coding-mandates-are-driving-developers-to-the-brink)
 - [a16z: AI 虚拟人发展趋势](https://baoyu.io/translations/ai-avatars-a16z)
 - [让 GPT 根据你的历史记忆创作一幅个人专属的创意科技工作场景图像 v2](https://baoyu.io/blog/gpt-personalized-tech-artwork-v2)
 - [Google 官方提示工程 &lpar;Prompt Engineering&rpar;白皮书](https://baoyu.io/blog/google-prompt-engineering-whitepaper)
 - [根据日期生成时尚日历插画](https://baoyu.io/blog/date-fashion-calendar-illustration)
-- [Google Firebase Studio 使用初体验](https://baoyu.io/blog/firebase-studio-first-experience)
 <!-- BLOG-POST-LIST:END -->
