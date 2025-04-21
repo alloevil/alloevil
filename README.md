@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何给知识类文章画信息图风格的配图](https://baoyu.io/blog/knowledge-article-infographics)
 - [AI 时代进入了下半场](https://baoyu.io/translations/ai-era-second-half)
 - [纽约客：如何在人工智能革命中生存下来？](https://baoyu.io/blog/ny-times-how-to-survive-the-ai-revolution)
 - [我是如何高效翻译 65 页 Google 官方提示工程白皮书 PDF 文件的](https://baoyu.io/blog/efficiently-translate-google-prompt-engineering-pdf)
 - [企业高管强制推行 AI 让开发者们苦不堪言](https://baoyu.io/translations/ai-coding-mandates-are-driving-developers-to-the-brink)
-- [a16z: AI 虚拟人发展趋势](https://baoyu.io/translations/ai-avatars-a16z)
 <!-- BLOG-POST-LIST:END -->
