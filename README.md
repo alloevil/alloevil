@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [将照片人像化作梦幻水晶玻璃球的提示词，以及如何衍生版本](https://baoyu.io/blog/photo-portrait-crystal-ball-prompts)
 - [如何避免在 AI 时代技能退化](https://baoyu.io/translations/avoiding-skill-atrophy-in-the-age)
 - [如何给知识类文章画信息图风格的配图](https://baoyu.io/blog/knowledge-article-infographics)
 - [AI 时代进入了下半场](https://baoyu.io/translations/ai-era-second-half)
 - [纽约客：如何在人工智能革命中生存下来？](https://baoyu.io/blog/ny-times-how-to-survive-the-ai-revolution)
-- [我是如何高效翻译 65 页 Google 官方提示工程白皮书 PDF 文件的](https://baoyu.io/blog/efficiently-translate-google-prompt-engineering-pdf)
 <!-- BLOG-POST-LIST:END -->
