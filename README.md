@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Google NotebookLM system prompt](https://baoyu.io/blog/google-notebooklm-system-prompt-en)
+- [Google NotebookLM 系统提示词](https://baoyu.io/blog/google-notebooklm-prompts)
+- [o3 击败了一位 Master 级别的 GeoGuessr 玩家——即使用假的 EXIF 数据也没用](https://baoyu.io/translations/2025-04-28-can-o3-beat-a-geoguessr-master)
 - [将照片人像化作梦幻水晶玻璃球的提示词，以及如何衍生版本](https://baoyu.io/blog/photo-portrait-crystal-ball-prompts)
 - [如何避免在 AI 时代技能退化](https://baoyu.io/translations/avoiding-skill-atrophy-in-the-age)
-- [如何给知识类文章画信息图风格的配图](https://baoyu.io/blog/knowledge-article-infographics)
-- [AI 时代进入了下半场](https://baoyu.io/translations/ai-era-second-half)
-- [纽约客：如何在人工智能革命中生存下来？](https://baoyu.io/blog/ny-times-how-to-survive-the-ai-revolution)
 <!-- BLOG-POST-LIST:END -->
