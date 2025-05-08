@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [大家都在用作弊的方式度过大学](https://baoyu.io/translations/openai-chatgpt-ai-cheating-education-college-students-school.html)
 - [我是如何破解 NotebookLM 系统提示词的？](https://baoyu.io/blog/how-i-cracked-notebooklm-prompts)
 - [如果我把一个主播平时回答过的问题都交给 AI 训练，是不是以后问 AI 就可以和问主播一样的效果了？](https://baoyu.io/blog/ai-streamer-qa-simulation)
 - [Google NotebookLM system prompt](https://baoyu.io/blog/google-notebooklm-system-prompt-en)
 - [Google NotebookLM 系统提示词](https://baoyu.io/blog/google-notebooklm-prompts)
-- [o3 击败了一位 Master 级别的 GeoGuessr 玩家——即使用假的 EXIF 数据也没用](https://baoyu.io/translations/2025-04-28-can-o3-beat-a-geoguessr-master)
 <!-- BLOG-POST-LIST:END -->
