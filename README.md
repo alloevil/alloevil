@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我对 Codex 的初步评测结果：AI 编程智能体不再是需要结对编程的实习生而是外包员工](https://baoyu.io/blog/codex-ai-programming-outsourcing)
 - [System Prompt of Codex](https://baoyu.io/blog/codex-system-prompt)
 - [Gemini for Google Workspace 提示词指南 101](https://baoyu.io/translations/gemini-google-workspace-prompt-guide)
 - [绝命航线：Wager号沉船与叛乱](https://baoyu.io/translations/dead-reckoning)
 - [问：要开设一门AI通识课，但需要全程在机房上课无法平衡理论和上机操作](https://baoyu.io/blog/ai-introductory-course-lab-balance)
-- [用AI创作手办照片：从灵感到提示词模板的实战案例](https://baoyu.io/blog/ai-generated-hand-model-photos)
 <!-- BLOG-POST-LIST:END -->
