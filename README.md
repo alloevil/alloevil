@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [如何构建你的AI智能体：让AI更出色的11种提示技巧](https://baoyu.io/translations/how-to-build-your-agent-11-prompting-techniques-for-better-ai-agents)
+- [使用最新的 Claude 4，我用两天就开发出一个视频编辑器，但却无法维护](https://baoyu.io/blog/claude-4-video-editor-development-maintenance)
 - [Google stitch system prompt](https://baoyu.io/blog/google-stitch-system-prompt)
 - [Image 风格提取的提示词参考](https://baoyu.io/blog/image-style-prompt-reference)
 - [我对 Codex 的初步评测结果：AI 编程智能体不再是需要结对编程的实习生而是外包员工](https://baoyu.io/blog/codex-ai-programming-outsourcing)
-- [System Prompt of Codex](https://baoyu.io/blog/codex-system-prompt)
-- [Gemini for Google Workspace 提示词指南 101](https://baoyu.io/translations/gemini-google-workspace-prompt-guide)
 <!-- BLOG-POST-LIST:END -->
