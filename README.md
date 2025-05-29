@@ -111,9 +111,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 会加速工程师的无能](https://baoyu.io/translations/accelerated-incompetence)
 - [一次又一次的「开发者要被取代了」的炒作潮](https://baoyu.io/translations/the-recurring-cycle-of-developer-replacement-hype)
 - [AI 不会杀死初级开发者——但你的招聘策略可能会](https://baoyu.io/translations/ai-wont-kill-junior-devs-but-your)
 - [如何构建你的AI智能体：让AI更出色的11种提示技巧](https://baoyu.io/translations/how-to-build-your-agent-11-prompting-techniques-for-better-ai-agents)
 - [使用最新的 Claude 4，我用两天就开发出一个视频编辑器，但却无法维护](https://baoyu.io/blog/claude-4-video-editor-development-maintenance)
-- [Google stitch system prompt](https://baoyu.io/blog/google-stitch-system-prompt)
 <!-- BLOG-POST-LIST:END -->
