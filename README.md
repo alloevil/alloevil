@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI时代：判断力为何比技术能力更重要？](https://baoyu.io/translations/ai-and-judgement)
 - [AI 编程越来越厉害了，我要怎么提升自己的系统架构能力？](https://baoyu.io/blog/improve-system-architecture-ai-era)
 - [DeepSeek 创始人梁文锋：颠覆AI世界的技术狂人，正威胁美国在 AI 竞赛中的主导地位](https://baoyu.io/translations/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars)
 - [AI 会加速工程师的无能](https://baoyu.io/translations/accelerated-incompetence)
 - [一次又一次的「开发者要被取代了」的炒作潮](https://baoyu.io/translations/the-recurring-cycle-of-developer-replacement-hype)
-- [AI 不会杀死初级开发者——但你的招聘策略可能会](https://baoyu.io/translations/ai-wont-kill-junior-devs-but-your)
 <!-- BLOG-POST-LIST:END -->
