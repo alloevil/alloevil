@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [真正的高手，不追逐目标，而是设定边界](https://baoyu.io/translations/smart-people-dont-chase-goals-they-create-limits)
 - [Ilya Sutskever 最新毕业演讲：我们正处在人类史上最不寻常的时代，因为 AI 终将无所不能，你的未来无法逃避](https://baoyu.io/blog/ilya-sutskever-ai-future)
 - [从 Cloudflare Workers OAuth Provider 学习 AI 结对编程：深入分析 AI 编程的最佳实践](https://baoyu.io/blog/cloudflare-workers-ai-pair-programming)
 - [假设 AI 未来真的能在写代码和系统设计上超过人类，那还有必要学习编程和系统设计吗？](https://baoyu.io/blog/ai-surpass-humans-coding-necessary)
 - [AI时代：判断力为何比技术能力更重要？](https://baoyu.io/translations/ai-and-judgement)
-- [AI 编程越来越厉害了，我要怎么提升自己的系统架构能力？](https://baoyu.io/blog/improve-system-architecture-ai-era)
 <!-- BLOG-POST-LIST:END -->
