@@ -109,9 +109,9 @@ HTML                     1 repo              ██████░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman 最新文章：悄然而至的奇点，一场温和的革命](https://baoyu.io/translations/the-gentle-singularity)
 - [学好基本功，AI 才能真正助你一臂之力](https://baoyu.io/translations/how-to-not-using-ai-to-code)
 - [Vibe Coding 的最佳实践仍然是 Agile 的版本迭代模式，而不是一次性完成一个庞大的无法运行和维护的半成品](https://baoyu.io/blog/agile-iterative-coding-best-practices)
 - [真正的高手，不追逐目标，而是设定边界](https://baoyu.io/translations/smart-people-dont-chase-goals-they-create-limits)
 - [Ilya Sutskever 最新毕业演讲：我们正处在人类史上最不寻常的时代，因为 AI 终将无所不能，你的未来无法逃避](https://baoyu.io/blog/ilya-sutskever-ai-future)
-- [从 Cloudflare Workers OAuth Provider 学习 AI 结对编程：深入分析 AI 编程的最佳实践](https://baoyu.io/blog/cloudflare-workers-ai-pair-programming)
 <!-- BLOG-POST-LIST:END -->
