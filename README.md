@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 112 Public Repositories 
+> 📜 113 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -92,9 +92,10 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -104,7 +105,7 @@ HTML                     1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 18:49:30 UTC
+ Last Updated on 20/06/2025 18:49:58 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
