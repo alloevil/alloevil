@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [程序员的提示工程实战手册](https://baoyu.io/translations/the-prompt-engineering-playbook-for)
 - [先设计再写代码，还是先实现再重构？AI 编程让这种选择变的简单](https://baoyu.io/blog/design-code-or-refactor-ai-simplifies)
 - [Claude Code 强大的秘密究竟是什么？](https://baoyu.io/blog/claude-code-secrets)
 - [我用 Claude Code 花 2 小时没写一行代码做了一个翻译智能体，并且开源了整个过程](https://baoyu.io/blog/claude-code-translation-agent-opensource)
 - [OpenAI: 构建 AI 智能体实用指南](https://baoyu.io/translations/a-practical-guide-to-building-agents)
-- [Anthropic：我们如何构建多智能体研究系统](https://baoyu.io/translations/built-multi-agent-research-system)
 <!-- BLOG-POST-LIST:END -->
