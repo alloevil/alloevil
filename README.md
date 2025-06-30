@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI领域并无真正的新想法，只有新的数据集](https://baoyu.io/translations/there-are-no-new-ideas-in-ai-only)
+- [科学进步实际上很大程度依赖于实打实的实验结果，而不仅仅是理论智力｜AI 自我提升不会突然“起飞”，而是逐渐加速的过程](https://baoyu.io/translations/ai-self-improvement-gradual-acceleration)
 - [太多人误解了「苦涩的教训」](https://baoyu.io/translations/bitter-lesson-misunderstanding)
 - [大语言模型高考数学拿高分靠强化学习，那文科考高分得靠什么？](https://baoyu.io/blog/large-language-model-arts-exam-success)
 - [构建 AI 智能体的经验分享](https://baoyu.io/translations/learnings-from-building-ai-agents)
-- [人们如何使用 Claude 寻求支持、建议和陪伴](https://baoyu.io/translations/how-people-use-claude-for-support-advice-and-companionship)
-- [AI 播客原理解析](https://baoyu.io/blog/ai-podcast-explained)
 <!-- BLOG-POST-LIST:END -->
