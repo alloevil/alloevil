@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [吴恩达老师分享的这个做 MVP（最简可行产品，minimum viable product） 的技巧](https://baoyu.io/translations/nda-mvp-building-tips)
 - [写代码从来不是瓶颈](https://baoyu.io/translations/writing-code-was-never-the-bottleneck)
 - [让 Claude Code 超深度思考（ultrathink）的自定义指令](https://baoyu.io/blog/claude-code-ultrathink-custom-instructions)
 - [AI的新技能不是提示词，而是上下文工程](https://baoyu.io/translations/the-new-skill-in-ai-is-context-engineering)
 - [一文看懂“提示词” vs “提示词工程” vs “上下文工程”](https://baoyu.io/blog/prompt-engineering-vs-context-engineering)
-- [AI领域并无真正的新想法，只有新的数据集](https://baoyu.io/translations/there-are-no-new-ideas-in-ai-only)
 <!-- BLOG-POST-LIST:END -->
