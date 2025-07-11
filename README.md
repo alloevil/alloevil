@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [大语言模型（LLM）到底是怎么运作的？（配图通俗讲解）](https://baoyu.io/translations/how-llms-work-explained-clearly)
 - [老虎机 和 Vibe Coding 的异同 ​​​](https://baoyu.io/blog/slot-machine-vibe-coding-comparison)
 - [吴恩达老师分享的这个做 MVP（最简可行产品，minimum viable product） 的技巧](https://baoyu.io/translations/nda-mvp-building-tips)
 - [写代码从来不是瓶颈](https://baoyu.io/translations/writing-code-was-never-the-bottleneck)
 - [让 Claude Code 超深度思考（ultrathink）的自定义指令](https://baoyu.io/blog/claude-code-ultrathink-custom-instructions)
-- [AI的新技能不是提示词，而是上下文工程](https://baoyu.io/translations/the-new-skill-in-ai-is-context-engineering)
 <!-- BLOG-POST-LIST:END -->
