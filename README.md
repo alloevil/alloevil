@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [xAI Ani System Prompt](https://baoyu.io/blog/xai-ani-system-prompt)
 - [当你感到AI编程无所不能时，也许正站在“愚昧之巅”——理性看待AI时代的软件开发与应用变革](https://baoyu.io/blog/ai-programming-limitations-software-development)
 - [测量2025年初AI工具对资深开源开发者生产力的影响](https://baoyu.io/translations/2025-07-10-early-2025-ai-experienced-os-dev-study)
 - [在 Vercel 的 5 年，我学到了 5 件事](https://baoyu.io/translations/5-things-i-learned-from-5-years-at-vercel)
 - [大语言模型（LLM）到底是怎么运作的？（配图通俗讲解）](https://baoyu.io/translations/how-llms-work-explained-clearly)
-- [老虎机 和 Vibe Coding 的异同 ​​​](https://baoyu.io/blog/slot-machine-vibe-coding-comparison)
 <!-- BLOG-POST-LIST:END -->
