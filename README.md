@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [上下文工程：为提示词注入工程学的严谨性](https://baoyu.io/translations/context-engineering-prompt-engineering-by-addy)
 - [ChatGPT Agent 系统提示词中文版](https://baoyu.io/blog/chatgpt-agent-prompts-chinese)
 - [ChatGPT Agent System Prompt](https://baoyu.io/blog/chatgpt-agent-system-prompt)
 - [关于 OpenAI 的一些思考](https://baoyu.io/translations/calv-openai-reflections)
 - [xAI Ani System Prompt](https://baoyu.io/blog/xai-ani-system-prompt)
-- [当你感到AI编程无所不能时，也许正站在“愚昧之巅”——理性看待AI时代的软件开发与应用变革](https://baoyu.io/blog/ai-programming-limitations-software-development)
 <!-- BLOG-POST-LIST:END -->
