@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic 团队如何玩转 Claude Code](https://baoyu.io/translations/how-anthropic-teams-use-claude-code)
 - [深度解读《AI 智能体的上下文工程》：构建高效 Agent 的七个宝贵教训](https://baoyu.io/blog/explain-Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [AI 智能体的上下文工程：构建 Manus 的经验教训](https://baoyu.io/translations/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [上下文工程：为提示词注入工程学的严谨性](https://baoyu.io/translations/context-engineering-prompt-engineering-by-addy)
 - [ChatGPT Agent 系统提示词中文版](https://baoyu.io/blog/chatgpt-agent-prompts-chinese)
-- [ChatGPT Agent System Prompt](https://baoyu.io/blog/chatgpt-agent-system-prompt)
 <!-- BLOG-POST-LIST:END -->
