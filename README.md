@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Study  Mode System Prompt](https://baoyu.io/blog/chatgpt-study-mode-prompt)
 - [花十年时间，教自己学会编程](https://baoyu.io/translations/teach-yourself-programming-in-ten-years)
 - [写作即思考](https://baoyu.io/translations/writing-is-thinking)
 - [Anthropic 团队如何玩转 Claude Code](https://baoyu.io/translations/how-anthropic-teams-use-claude-code)
 - [深度解读《AI 智能体的上下文工程》：构建高效 Agent 的七个宝贵教训](https://baoyu.io/blog/explain-Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
-- [AI 智能体的上下文工程：构建 Manus 的经验教训](https://baoyu.io/translations/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 <!-- BLOG-POST-LIST:END -->
