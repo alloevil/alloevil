@@ -69,7 +69,7 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [“跟着感觉走”的 Vibe Code 就是祖传代码](https://baoyu.io/translations/vibe-code)
+- [“跟着感觉走”的 Vibe Code，最后就是创造了一堆没人看得懂的祖传代码](https://baoyu.io/translations/vibe-code)
 - [ChatGPT Study  Mode System Prompt](https://baoyu.io/blog/chatgpt-study-mode-prompt)
 - [花十年时间，教自己学会编程](https://baoyu.io/translations/teach-yourself-programming-in-ten-years)
 - [写作即思考](https://baoyu.io/translations/writing-is-thinking)
