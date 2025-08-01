@@ -113,9 +113,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code 最佳实践视频文稿](https://baoyu.io/blog/claude-code-best-practices-video-transcription)
 - [AI 提升的是下限，而不是上限](https://baoyu.io/translations/ai-is-a-floor-raiser-not-a-ceiling-raiser)
 - [“跟着感觉走”的 Vibe Code，最后就是创造了一堆没人看得懂的祖传代码](https://baoyu.io/translations/vibe-code)
 - [ChatGPT Study  Mode System Prompt](https://baoyu.io/blog/chatgpt-study-mode-prompt)
 - [花十年时间，教自己学会编程](https://baoyu.io/translations/teach-yourself-programming-in-ten-years)
-- [写作即思考](https://baoyu.io/translations/writing-is-thinking)
 <!-- BLOG-POST-LIST:END -->
