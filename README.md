@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [1910年：现代世界集体“发疯”的一年](https://baoyu.io/translations/1910-the-year-the-modern-world-lost)
 - [普通人也能用得上的 Context Engineering 技巧](https://baoyu.io/blog/context-engineering-skills-for-normal-users)
 - [所以，你现在是经理了。](https://baoyu.io/translations/so-youre-a-manager-now)
 - [Claude Code 最佳实践视频文稿](https://baoyu.io/blog/claude-code-best-practices-video-transcription)
 - [AI 提升的是下限，而不是上限](https://baoyu.io/translations/ai-is-a-floor-raiser-not-a-ceiling-raiser)
-- [“跟着感觉走”的 Vibe Code，最后就是创造了一堆没人看得懂的祖传代码](https://baoyu.io/translations/vibe-code)
 <!-- BLOG-POST-LIST:END -->
