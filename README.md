@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Gemini Coding partner System Prompt](https://baoyu.io/blog/gemini-coding-partner-system-prompt)
 - [大语言模型 + 编程智能体 = 安全噩梦](https://baoyu.io/translations/llms-coding-agents-security-nightmare)
 - [人工智能研究者如何意外发现：我们对“学习”的理解，可能全是错的](https://baoyu.io/translations/how-ai-researchers-accidentally-discovered-that-everything-they-thought-about-learning-was-wrong)
 - [做那些无法规模化的事](https://baoyu.io/translations/do-things-that-dont-scale)
 - [1910年：现代世界集体“发疯”的一年](https://baoyu.io/translations/1910-the-year-the-modern-world-lost)
-- [普通人也能用得上的 Context Engineering 技巧](https://baoyu.io/blog/context-engineering-skills-for-normal-users)
 <!-- BLOG-POST-LIST:END -->
