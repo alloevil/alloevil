@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [打造你的第一个 AI 智能体：一条清晰的实战路径！](https://baoyu.io/translations/how-to-build-your-first-ai-agent-full-guide)
 - [Claude Code 究竟牛在哪里？（以及如何在你的 AI 智能体中复刻它的魔法！）](https://baoyu.io/translations/decoding-claude-code)
 - [好的软件设计，看起来平平无奇](https://baoyu.io/translations/great-software-design-looks-underwhelming)
 - [我所知道的优秀系统设计的一切](https://baoyu.io/translations/everything-i-know-about-good-system-design)
 - [Gemini Coding partner System Prompt](https://baoyu.io/blog/gemini-coding-partner-system-prompt)
-- [大语言模型 + 编程智能体 = 安全噩梦](https://baoyu.io/translations/llms-coding-agents-security-nightmare)
 <!-- BLOG-POST-LIST:END -->
