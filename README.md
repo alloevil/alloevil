@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 杠杆悖论](https://baoyu.io/translations/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 - [System Prompt of &quot;Brainstomer&quot;](https://baoyu.io/blog/system-prompt-of-brainstomer)
 - [“都什么年代了程序员还在手搓代码，连小白都能写 Prompt 生成代码了”](https://baoyu.io/blog/ai-prompt-code-generation-vs-manual-coding)
 - [System prompt of &quot;Writing editor&quot;](https://baoyu.io/blog/system-prompt-of-writing-editor)
 - [别再跟风了，这才是真正掌握 AI 智能体开发的正确路径](https://baoyu.io/translations/forget_the_hype_heres_how_you_actually_get_good)
-- [打造你的第一个 AI 智能体：一条清晰的实战路径！](https://baoyu.io/translations/how-to-build-your-first-ai-agent-full-guide)
 <!-- BLOG-POST-LIST:END -->
