@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 编程风向变了：资深开发者交付的 AI 代码量是新手的 2.5 倍 | Fastly](https://baoyu.io/translations/senior-developers-ship-more-ai-code)
 - [用最简单可行的方法](https://baoyu.io/translations/the-simplest-thing-that-could-possibly-work)
 - [AI 会取代人类思考吗？我们为什么仍要亲手写作和编程](https://baoyu.io/translations/will-ai-replace-humans)
 - [a16z 发布百大【生成式AI】消费级应用排行榜第五版](https://baoyu.io/translations/100-gen-ai-apps-5)
 - [煤矿中的金丝雀？关于人工智能近期就业影响的六个事实](https://baoyu.io/translations/standford-canaries-in-the-coal-mine)
-- [AI 杠杆悖论](https://baoyu.io/translations/the-leverage-paradox-ksRiX6y6W7NzfBE57dzt)
 <!-- BLOG-POST-LIST:END -->
