@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [吴恩达：不理解计算机的工作原理，你不可能单靠 Vibe Coding 就走向卓越，基础知识依然至关重要](https://baoyu.io/translations/andrew-ng-coding-fundamentals-essential)
 - [硅谷惊变：12万张H100的挽歌](https://baoyu.io/blog/silicon-valley-h100-crisis)
 - [高效学习：构建知识的20条黄金法则](https://baoyu.io/translations/twenty-rules-of-formulating-knowledge)
 - [AI 编程风向变了：资深开发者交付的 AI 代码量是新手的 2.5 倍 | Fastly](https://baoyu.io/translations/senior-developers-ship-more-ai-code)
 - [用最简单可行的方法](https://baoyu.io/translations/the-simplest-thing-that-could-possibly-work)
-- [AI 会取代人类思考吗？我们为什么仍要亲手写作和编程](https://baoyu.io/translations/will-ai-replace-humans)
 <!-- BLOG-POST-LIST:END -->
