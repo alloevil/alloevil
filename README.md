@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 时代，我们是否应该重温极限编程？](https://baoyu.io/translations/should-we-revisit-xp-in-the-age-of-ai)
 - [推荐文章的提示词](https://baoyu.io/blog/recommended-article-prompts)
 - [开发速度不是瓶颈](https://baoyu.io/translations/development-speed-is-not-a-bottleneck)
 - [「Vibe Coding（凭感觉编程）」的成功故事，没你想的那么简单](https://baoyu.io/translations/vibe-coded-product-success-stories)
 - [“Vibe Coding（凭感觉编程）”无法取代技术活，反而要求更高](https://baoyu.io/translations/vibe-coding-doesnt-replace-tech-skills)
-- [产品经理必读：AI智能体架构指南——为什么能力强不等于用户爱用？**](https://baoyu.io/translations/a-pms-guide-to-ai-agent-architecture)
 <!-- BLOG-POST-LIST:END -->
