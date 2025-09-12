@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为 AI 智能体打造高效工具——让 AI 智能体来帮忙](https://baoyu.io/translations/writing-tools-for-agents)
 - [软件工程的“纯”与“不纯”](https://baoyu.io/translations/pure-and-impure-engineering)
 - [什么是 XY 问题？](https://baoyu.io/translations/what-is-xyproblem)
 - [写代码很简单，读懂它才是难事](https://baoyu.io/translations/writing-code-is-easy-reading-is-hard)
 - [培养好品味](https://baoyu.io/translations/developing-taste)
-- [Claude 代码框架之战](https://baoyu.io/translations/claude-code-framework-wars)
 <!-- BLOG-POST-LIST:END -->
