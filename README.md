@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ReAct 框架与 AI Agent：当 AI 学会自己思考和行动](https://baoyu.io/blog/react-ai-agent-self-thinking-acting)
 - [Claude Code 为何如此强大？Anthropic 万字长文揭秘 AI Agent 工具开发五大“心法”](https://baoyu.io/blog/claude-code-anthropic-ai-agent-development)
 - [异步编程的崛起](https://baoyu.io/translations/the-rise-of-async-programming)
 - [在 Netflix，我们反向运用了康威定律](https://baoyu.io/translations/the-inverse-conway-maneuver)
 - [为 AI 智能体打造高效工具——让 AI 智能体来帮忙](https://baoyu.io/translations/writing-tools-for-agents)
-- [软件工程的“纯”与“不纯”](https://baoyu.io/translations/pure-and-impure-engineering)
 <!-- BLOG-POST-LIST:END -->
