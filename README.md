@@ -69,9 +69,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Summarize YouTube Video Prompt](https://baoyu.io/blog/summarize-youtube-video-prompt)
 - [编程通缩](https://baoyu.io/translations/programming-deflation)
 - [从 Shopify 构建 Agent 的经验中可以学到的](https://baoyu.io/blog/shopify-agent-building-experience)
 - [打造生产级 AI 智能体系统：来自 Shopify Sidekick 的经验教训 &lpar;2025&rpar;](https://baoyu.io/translations/building-production-ready-agentic-systems)
 - [Codex 与 AI 编程的未来 — OpenAI 播客第六集](https://baoyu.io/translations/codex-and-the-future-of-coding-with-ai)
-- [到底啥是开发者营销？](https://baoyu.io/translations/developer-marketing)
 <!-- BLOG-POST-LIST:END -->
