@@ -110,9 +110,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [打造生产级 AI 智能体系统：来自 Shopify Sidekick 的经验教训 &lpar;2025&rpar;](https://baoyu.io/translations/building-production-ready-agentic-systems)
 - [Codex 与 AI 编程的未来 — OpenAI 播客第六集](https://baoyu.io/translations/codex-and-the-future-of-coding-with-ai)
 - [到底啥是开发者营销？](https://baoyu.io/translations/developer-marketing)
 - [ReAct 框架与 AI Agent：当 AI 学会自己思考和行动](https://baoyu.io/blog/react-ai-agent-self-thinking-acting)
 - [Claude Code 为何如此强大？Anthropic 万字长文揭秘 AI Agent 工具开发五大“心法”](https://baoyu.io/blog/claude-code-anthropic-ai-agent-development)
-- [异步编程的崛起](https://baoyu.io/translations/the-rise-of-async-programming)
 <!-- BLOG-POST-LIST:END -->
