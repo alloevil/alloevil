@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI 内部揭秘：我们如何使用 Codex](https://baoyu.io/translations/how-openai-uses-codex)
 - [释放创造力：解密 AI 贴纸生成器的“神级”提示词模板](https://baoyu.io/blog/ai-sticker-generator-prompts)
 - [YC 编写的 Vibe Coding 指南](https://baoyu.io/blog/yc-vibe-coding-guide)
 - [Codex system prompt （2025-09-16）](https://baoyu.io/blog/codex-system-prompt-2025-09-16)
 - [揭秘科技巨头：如何衡量 AI 对软件开发的影响？](https://baoyu.io/translations/how-tech-companies-measure-the-impact-of-ai)
-- [Summarize YouTube Video Prompt](https://baoyu.io/blog/summarize-youtube-video-prompt)
 <!-- BLOG-POST-LIST:END -->
