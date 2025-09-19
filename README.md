@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我觉得“Agent”这个词，现在终于有了一个大家都认可的定义了](https://baoyu.io/translations/agent-definition-useful-jargon)
 - [AI 辅助编程的质量，关键在于如何管理“工作单元”](https://baoyu.io/translations/ai-unit-of-work)
 - [OpenAI 内部揭秘：我们如何使用 Codex](https://baoyu.io/translations/how-openai-uses-codex)
 - [释放创造力：解密 AI 贴纸生成器的“神级”提示词模板](https://baoyu.io/blog/ai-sticker-generator-prompts)
 - [YC 编写的 Vibe Coding 指南](https://baoyu.io/blog/yc-vibe-coding-guide)
-- [Codex system prompt （2025-09-16）](https://baoyu.io/blog/codex-system-prompt-2025-09-16)
 <!-- BLOG-POST-LIST:END -->
