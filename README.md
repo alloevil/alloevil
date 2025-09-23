@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [当 AI 编程告别「拨号上网」时代，会发生什么？](https://baoyu.io/translations/what-happens-when-coding-agents-stop-feeling-like-dialup)
+- [AI炮制的“工作垃圾”，正在摧毁你的生产力](https://baoyu.io/translations/ai-generated-workslop-is-destroying-productivity)
 - [AI 还没有改变软件工程范式](https://baoyu.io/blog/ai-hasnt-changed-software-engineering)
 - [AI 真的会写 90% 的代码了](https://baoyu.io/blog/ai-writes-90-percent-code)
 - [AI本该助力新人，为何反而让高手更强？](https://baoyu.io/translations/ai-makes-seniors-stronger)
-- [Notion 3.0 AI 智能体中潜藏的风险：当网页搜索工具被滥用为数据窃取后门](https://baoyu.io/translations/the-hidden-risk-in-notion3-ai-agents)
-- [与智能体交朋友：AI智能体（Agentic AI）应用的心智模型](https://baoyu.io/translations/a-mental-model-for-agentic-ai-applications)
 <!-- BLOG-POST-LIST:END -->
