@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Prompt：Transcribes YouTube videos &lpar;from a URL&rpar; or uploaded local videos into a structured, formatted text complete with speaker labels and timestamps](https://baoyu.io/blog/prompt-transcribes-youtube-videos)
 - [YouTube Video -&gt; Blog Post Prompt &lpar;Gemini Only&rpar;](https://baoyu.io/blog/gemini-youtube-blog-prompt)
 - [麦肯锡调研了 50 个一线 AI 智能体的项目总结出来的六条经验](https://baoyu.io/translations/one-year-of-agentic-ai-six-lessons-from-the-people-doing-the-work)
 - [当 AI 编程告别「拨号上网」时代，会发生什么？](https://baoyu.io/translations/what-happens-when-coding-agents-stop-feeling-like-dialup)
 - [AI炮制的“工作垃圾”，正在摧毁你的生产力](https://baoyu.io/translations/ai-generated-workslop-is-destroying-productivity)
-- [AI 还没有改变软件工程范式](https://baoyu.io/blog/ai-hasnt-changed-software-engineering)
 <!-- BLOG-POST-LIST:END -->
