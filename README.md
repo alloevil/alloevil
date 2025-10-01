@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 智能体的上下文工程：实用指南](https://baoyu.io/translations/effective-context-engineering-for-ai-agents)
 - [如何设计智能体循环](https://baoyu.io/translations/designing-agentic-loops)
 - [雷军演讲生成 Prompt](https://baoyu.io/blog/leijun-speech-prompt)
 - [编程之美](https://baoyu.io/translations/beauty-programming)
 - [Prompt：Transcribes YouTube videos &lpar;from a URL&rpar; or uploaded local videos into a structured, formatted text complete with speaker labels and timestamps](https://baoyu.io/blog/prompt-transcribes-youtube-videos)
-- [YouTube Video -&gt; Blog Post Prompt &lpar;Gemini Only&rpar;](https://baoyu.io/blog/gemini-youtube-blog-prompt)
 <!-- BLOG-POST-LIST:END -->
