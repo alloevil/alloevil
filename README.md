@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -52,48 +50,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                37 commits          ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-🌆 Daytime                107 commits         █████████████████░░░░░░░░   66.46 % 
-🌃 Evening                17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Wednesday                37 commits          ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Thursday                 96 commits          ███████████████░░░░░░░░░░   59.63 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   53 mins             █████████████████████░░░░   82.63 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-
-🔥 Editors: 
-Cursor                   1 hr 4 mins         █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-weibo-spider             1 hr 4 mins         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -110,7 +66,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:45:44 UTC
+ Last Updated on 03/10/2025 18:47:07 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
