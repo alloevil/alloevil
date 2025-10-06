@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,19 +79,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             █████████████████████░░░░   82.63 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-weibo-spider             1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +107,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2025 18:44:16 UTC
+ Last Updated on 06/10/2025 18:48:22 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
