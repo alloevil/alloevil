@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为什么我用了那么多提示词模板甚至用了 AI 帮忙还是写不好提示词？](https://baoyu.io/blog/why-i-cant-write-good-prompts-with-ai-and-templates)
 - [软件正在吞噬劳动力：一场静默却深刻的产业革命](https://baoyu.io/blog/software-is-eating-labor)
 - [AI 智能体的上下文工程：实用指南](https://baoyu.io/translations/effective-context-engineering-for-ai-agents)
 - [如何设计智能体循环](https://baoyu.io/translations/designing-agentic-loops)
 - [雷军演讲生成 Prompt](https://baoyu.io/blog/leijun-speech-prompt)
-- [编程之美](https://baoyu.io/translations/beauty-programming)
 <!-- BLOG-POST-LIST:END -->
