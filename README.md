@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C399%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C400%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 > 📦 1.9 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2025
+> 🏆 79 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,20 +55,20 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                46 commits          ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌆 Daytime                123 commits         █████████████████░░░░░░░░   66.13 % 
-🌃 Evening                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+🌞 Morning                46 commits          ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+🌆 Daytime                123 commits         ████████████████░░░░░░░░░   65.43 % 
+🌃 Evening                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Thursday                 121 commits         ████████████████░░░░░░░░░   65.05 % 
-Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Thursday                 121 commits         ████████████████░░░░░░░░░   64.36 % 
+Friday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -79,16 +79,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 32 mins        ████████████████████████░   96.37 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ailark                   1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -107,7 +110,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 18:47:28 UTC
+ Last Updated on 11/10/2025 18:42:21 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
