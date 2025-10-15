@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Conversing with AI: Beyond Prompting, Mastering the Mysteries of Agentic Context Engineering](https://baoyu.io/blog/the-art-of-conversing-with-ai-master-context-engineering-for-ai-agents)
 - [Prompt to produce a script for a NotebookLM explainer video](https://baoyu.io/blog/notebooklm-explainer-video-script-prompt)
 - [我身陷“凭感觉编程”的地狱](https://baoyu.io/translations/vibe-code-hell)
 - [Sora 2 提示词指南 | OpenAI Cookbook](https://baoyu.io/translations/sora2_prompting_guide)
 - [Vibe engineering（凭感觉工程）](https://baoyu.io/translations/vibe-engineering)
-- [Why do so many people struggle with prompt engineering despite using templates and AI assistance?](https://baoyu.io/blog/why-people-struggle-with-prompt-engineering)
 <!-- BLOG-POST-LIST:END -->
