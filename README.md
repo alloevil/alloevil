@@ -116,9 +116,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [怎样才算好文档？](https://baoyu.io/translations/what_makes_documentation_good.md)
 - [如何在课程中取得好成绩 —— Andrej 的成功建议](https://baoyu.io/translations/karpathy-advice)
 - [The Art of Conversing with AI: Beyond Prompting, Mastering the Mysteries of Agentic Context Engineering](https://baoyu.io/blog/the-art-of-conversing-with-ai-master-context-engineering-for-ai-agents)
 - [Prompt to produce a script for a NotebookLM explainer video](https://baoyu.io/blog/notebooklm-explainer-video-script-prompt)
 - [我身陷“凭感觉编程”的地狱](https://baoyu.io/translations/vibe-code-hell)
-- [Sora 2 提示词指南 | OpenAI Cookbook](https://baoyu.io/translations/sora2_prompting_guide)
 <!-- BLOG-POST-LIST:END -->
