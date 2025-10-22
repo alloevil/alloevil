@@ -115,9 +115,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [“学术论文科普”提示词，把枯燥的学术论文变成通俗易懂的科普文](https://baoyu.io/blog/turn-academic-papers-into-popular-science-prompt)
 - [视觉设计提升实用指南](https://baoyu.io/translations/the-practical-guide-to-improving)
 - [ChatGPT Atlas 系统提示词](https://baoyu.io/blog/chatgpt-atlas-system-prompt-cn)
 - [程序员的身份危机](https://baoyu.io/translations/the-programmer-identity-crisis)
 - [AI 智能体 &lpar;AI Agent&rpar; 如何大规模推动 Shopify 的产品分类体系进化 &lpar;2025&rpar;](https://baoyu.io/translations/product-taxonomy-at-scale)
-- [怎样才算好文档？](https://baoyu.io/translations/what_makes_documentation_good.md)
 <!-- BLOG-POST-LIST:END -->
