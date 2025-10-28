@@ -114,9 +114,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [揭秘Every六位工程师的AI“武功秘籍”](https://baoyu.io/translations/inside-the-ai-workflows-of-every-s-six-engineers)
 - [基于大语言模型的 Vibe Coding 综述](https://baoyu.io/blog/a-survey-of-vibe-coding-with-llm)
 - [像外科医生一样写代码](https://baoyu.io/translations/code-like-a-surgeon)
 - [价值万亿的 AI 软件开发新“战局”](https://baoyu.io/translations/the-trillion-dollar-ai-software-development-stack)
 - [A prompt designed to transform dense, jargon-heavy academic papers into accessible, engaging popular science articles.](https://baoyu.io/blog/academic-paper-to-popular-science-prompt)
-- [“学术论文科普”提示词，把枯燥的学术论文变成通俗易懂的科普文](https://baoyu.io/blog/turn-academic-papers-into-popular-science-prompt)
 <!-- BLOG-POST-LIST:END -->
