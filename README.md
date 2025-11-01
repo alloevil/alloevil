@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2044%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,48 +50,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                62 commits          ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌆 Daytime                125 commits         ███████████████░░░░░░░░░░   60.39 % 
-🌃 Evening                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Wednesday                40 commits          █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Thursday                 124 commits         ███████████████░░░░░░░░░░   59.90 % 
-Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   9 hrs 27 mins       ████████████████████████░   95.94 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Cursor                   9 hrs 51 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ailark                   9 hrs 51 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    9 hrs 51 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -110,7 +66,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:50:20 UTC
+ Last Updated on 01/11/2025 18:44:26 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
