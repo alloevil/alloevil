@@ -71,9 +71,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [上下文工程 | Chris Loy](https://baoyu.io/translations/context-engineering-part-of-ml)
 - [Text to Markdown Prompt](https://baoyu.io/blog/text-to-markdown-prompt)
 - [AI 编码效率 x10，Bug 风险也 x10](https://baoyu.io/blog/ai-coding-efficiency-x10-bug-risk-x10)
 - [AI 编程带来的新变革](https://baoyu.io/translations/the-new-calculus-of-ai-based-coding.html)
 - [揭秘Every六位工程师的AI“武功秘籍”](https://baoyu.io/translations/inside-the-ai-workflows-of-every-s-six-engineers)
-- [基于大语言模型的 Vibe Coding 综述](https://baoyu.io/blog/a-survey-of-vibe-coding-with-llm)
 <!-- BLOG-POST-LIST:END -->
