@@ -71,9 +71,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 到底在抢谁的饭碗？我分析了 1.8 亿份招聘数据后，有了一些发现。](https://baoyu.io/translations/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today)
 - [上下文工程 | Chris Loy](https://baoyu.io/translations/context-engineering-part-of-ml)
 - [Text to Markdown Prompt](https://baoyu.io/blog/text-to-markdown-prompt)
 - [AI 编码效率 x10，Bug 风险也 x10](https://baoyu.io/blog/ai-coding-efficiency-x10-bug-risk-x10)
 - [AI 编程带来的新变革](https://baoyu.io/translations/the-new-calculus-of-ai-based-coding.html)
-- [揭秘Every六位工程师的AI“武功秘籍”](https://baoyu.io/translations/inside-the-ai-workflows-of-every-s-six-engineers)
 <!-- BLOG-POST-LIST:END -->
