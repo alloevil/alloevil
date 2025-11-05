@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [MCP 遇上代码执行：构建更高效率的 AI 智能体](https://baoyu.io/blog/code-execution-with-mcp)
 - [AI 智能体（Agentic AI）现状：创始人篇](https://baoyu.io/translations/state-of-agentic-ai-founders-edition)
 - [AI 到底在抢谁的饭碗？我分析了 1.8 亿份招聘数据后，有了一些发现。](https://baoyu.io/translations/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today)
 - [上下文工程 | Chris Loy](https://baoyu.io/translations/context-engineering-part-of-ml)
 - [Text to Markdown Prompt](https://baoyu.io/blog/text-to-markdown-prompt)
-- [AI 编码效率 x10，Bug 风险也 x10](https://baoyu.io/blog/ai-coding-efficiency-x10-bug-risk-x10)
 <!-- BLOG-POST-LIST:END -->
