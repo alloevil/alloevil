@@ -114,9 +114,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为什么依赖“自驱”的学习这么难坚持？](https://baoyu.io/blog/self-driven-learning-secrets-positive-feedback-learning-loops)
 - [从 Chrome 早期的网页历史设计探索中，今天的 AI 产品能学到什么？](https://baoyu.io/translations/the-future-of-ai-history)
 - [写作建议](https://baoyu.io/translations/writing-advice)
 - [MCP 遇上代码执行：构建更高效率的 AI 智能体](https://baoyu.io/blog/code-execution-with-mcp)
 - [AI 智能体（Agentic AI）现状：创始人篇](https://baoyu.io/translations/state-of-agentic-ai-founders-edition)
-- [AI 到底在抢谁的饭碗？我分析了 1.8 亿份招聘数据后，有了一些发现。](https://baoyu.io/translations/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today)
 <!-- BLOG-POST-LIST:END -->
