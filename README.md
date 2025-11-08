@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C458%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -79,18 +79,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 hrs 49 mins      █████████████████████████   99.67 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python                   21 hrs 46 mins      █████████████████████████   99.67 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 53 mins      █████████████████████████   100.00 % 
+Cursor                   21 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-openai-agents-python     15 hrs 34 mins      ████████████████████░░░░░   78.28 % 
-ailark                   4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+openai-agents-python     17 hrs 39 mins      ████████████████████░░░░░   80.78 % 
+ailark                   4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
 
 💻 Operating System: 
-Linux                    19 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +109,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2025 18:47:04 UTC
+ Last Updated on 08/11/2025 18:46:25 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
