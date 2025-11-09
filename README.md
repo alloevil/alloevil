@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,7 +109,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 18:46:25 UTC
+ Last Updated on 09/11/2025 18:44:41 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
