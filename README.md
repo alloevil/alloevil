@@ -71,9 +71,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [从指挥者到统筹者：AI 智能体编程的未来](https://baoyu.io/translations/conductors-to-orchestrators-the-future)
 - [借助 Skills 提升前端设计 | Claude](https://baoyu.io/translations/improving-frontend-design-through-skills)
 - [RL 环境与智能体能力金字塔](https://baoyu.io/translations/rl-envs-real-world)
 - [使用 Claude Agent SDK 构建智能体](https://baoyu.io/translations/building-agents-with-the-claude-agent-sdk)
 - [AI 的“拨号上网”时代](https://baoyu.io/translations/ai-dial-up-era)
-- [为什么依赖“自驱”的学习这么难坚持？](https://baoyu.io/blog/self-driven-learning-secrets-positive-feedback-learning-loops)
 <!-- BLOG-POST-LIST:END -->
