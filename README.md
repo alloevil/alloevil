@@ -118,9 +118,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [NotebookLM Slide Deck System Prompt](https://baoyu.io/blog/notebooklm-slide-deck-system-prompt)
 - [Prompt to build a &quot;Retro Camera Web App&quot; by Gemini 3](https://baoyu.io/blog/retro-camera-web-app-prompt)
 - [从指挥者到统筹者：AI 智能体编程的未来](https://baoyu.io/translations/conductors-to-orchestrators-the-future)
 - [借助 Skills 提升前端设计 | Claude](https://baoyu.io/translations/improving-frontend-design-through-skills)
 - [RL 环境与智能体能力金字塔](https://baoyu.io/translations/rl-envs-real-world)
-- [使用 Claude Agent SDK 构建智能体](https://baoyu.io/translations/building-agents-with-the-claude-agent-sdk)
 <!-- BLOG-POST-LIST:END -->
