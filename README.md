@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 智能体如何利用文件系统进行上下文工程](https://baoyu.io/translations/how-agents-can-use-filesystems-for-context-engineering)
+- [Nano Banana Pro 终极开发指南](https://baoyu.io/translations/nano-banana-pro-complete-developer-tutorial)
 - [打造 AI 原生工程团队：AI 智能体实战指南](https://baoyu.io/translations/building-an-ai-native-engineering-team.pdf)
 - [搞懂“AI 套壳” —— 为什么有的“套壳”产品能做成十亿美金的独角兽，有的却昙花一现？](https://baoyu.io/translations/wrapping-my-head-around-ai-wrappers)
 - [NotebookLM Slide Deck System Prompt](https://baoyu.io/blog/notebooklm-slide-deck-system-prompt)
-- [Prompt to build a &quot;Retro Camera Web App&quot; by Gemini 3](https://baoyu.io/blog/retro-camera-web-app-prompt)
-- [从指挥者到统筹者：AI 智能体编程的未来](https://baoyu.io/translations/conductors-to-orchestrators-the-future)
 <!-- BLOG-POST-LIST:END -->
