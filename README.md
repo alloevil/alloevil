@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [在 Claude 开发者平台上引入高级工具使用能力](https://baoyu.io/translations/anthropic-engineering-advanced-tool-use)
 - [所谓的“好管理”，其实就是一阵阵的“时尚风潮”（Fad）](https://baoyu.io/translations/good-eng-mgmt-is-a-fad)
 - [System prompt of NotebookLM Infographic](https://baoyu.io/blog/system-prompt-of-notebooklm-infographic)
 - [AI 智能体如何利用文件系统进行上下文工程](https://baoyu.io/translations/how-agents-can-use-filesystems-for-context-engineering)
 - [Nano Banana Pro 终极开发指南](https://baoyu.io/translations/nano-banana-pro-complete-developer-tutorial)
-- [打造 AI 原生工程团队：AI 智能体实战指南](https://baoyu.io/translations/building-an-ai-native-engineering-team.pdf)
 <!-- BLOG-POST-LIST:END -->
