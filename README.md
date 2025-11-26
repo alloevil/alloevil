@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Ilya：扩展时代已经结束了，研究的时代已经开始](https://baoyu.io/blog/ilya-from-scaling-to-research)
 - [从第一性原理深度拆解 Claude Agent Skill](https://baoyu.io/translations/claude-skills-deep-dive)
 - [在 Claude 开发者平台上引入高级工具使用能力](https://baoyu.io/translations/anthropic-engineering-advanced-tool-use)
 - [所谓的“好管理”，其实就是一阵阵的“时尚风潮”（Fad）](https://baoyu.io/translations/good-eng-mgmt-is-a-fad)
 - [System prompt of NotebookLM Infographic](https://baoyu.io/blog/system-prompt-of-notebooklm-infographic)
-- [AI 智能体如何利用文件系统进行上下文工程](https://baoyu.io/translations/how-agents-can-use-filesystems-for-context-engineering)
 <!-- BLOG-POST-LIST:END -->
