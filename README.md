@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C510%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C510%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -79,20 +79,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 hrs 10 mins      ████████████████████░░░░░   80.16 % 
-Other                    2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   6 hrs 6 mins        █████████████████░░░░░░░░   69.10 % 
+Other                    2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 56 mins      █████████████████████████   100.00 % 
+Cursor                   8 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ailark                   11 hrs 50 mins      █████████████████████░░░░   84.97 % 
-sgp                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+ailark                   8 hrs 7 mins        ███████████████████████░░   92.01 % 
+sgp                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 Operating System: 
-Linux                    13 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -111,7 +109,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 18:52:33 UTC
+ Last Updated on 09/12/2025 18:51:53 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
