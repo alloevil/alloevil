@@ -118,9 +118,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [人工智能与自动化讽刺（第 2 部分）](https://baoyu.io/translations/ironies_of_ai_2)
+- [人工智能与自动化讽刺（第 1 部分）](https://baoyu.io/translations/ironies_of_ai_1)
 - [在画了几百张 nano banana pro 图片收获了几百万流量之后的一些提示词写作经验](https://baoyu.io/blog/ai-prompt-writing-tips-for-millions-of-traffic)
 - [一些我用 AI 翻译文章的心得](https://baoyu.io/blog/my-ai-article-translation-experience)
 - [打造高效框架，让 AI 智能体胜任“长跑”任务](https://baoyu.io/translations/effective-harnesses-for-long-running-agents)
-- [Ilya：扩展时代已经结束了，研究的时代已经开始](https://baoyu.io/blog/ilya-from-scaling-to-research)
-- [从第一性原理深度拆解 Claude Agent Skill](https://baoyu.io/translations/claude-skills-deep-dive)
 <!-- BLOG-POST-LIST:END -->
