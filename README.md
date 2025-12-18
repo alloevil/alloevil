@@ -118,9 +118,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [4人28天，85%AI代码：揭秘Sora Android背后的“凡尔赛”开发法](https://baoyu.io/blog/sora-android-85-ai-code-development-method)
 - [Gemini 引导式学习系统提示词](https://baoyu.io/blog/gemini-guided-learning-system-prompts-cn)
 - [Gemini Guided Learning System Prompt](https://baoyu.io/blog/gemini-guided-learning-system-prompt)
 - [《AI 与自动化的讽刺》读后感](https://baoyu.io/blog/the-irony-of-ai-and-automation-review)
 - [人工智能与自动化讽刺（第 2 部分）](https://baoyu.io/translations/ironies_of_ai_2)
-- [人工智能与自动化讽刺（第 1 部分）](https://baoyu.io/translations/ironies_of_ai_1)
 <!-- BLOG-POST-LIST:END -->
