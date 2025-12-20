@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [从失败中重生：一个 AI Agent 前端落地的真实复盘](https://baoyu.io/blog/ai-agent-frontend-rebirth-from-failure)
 - [Coding Agent 的舒适区](https://baoyu.io/blog/coding-agents-comfort-zone)
 - [4人28天，85%AI代码：揭秘Sora Android背后的“凡尔赛”开发法](https://baoyu.io/blog/sora-android-85-ai-code-development-method)
 - [Gemini 引导式学习系统提示词](https://baoyu.io/blog/gemini-guided-learning-system-prompts-cn)
 - [Gemini Guided Learning System Prompt](https://baoyu.io/blog/gemini-guided-learning-system-prompt)
-- [《AI 与自动化的讽刺》读后感](https://baoyu.io/blog/the-irony-of-ai-and-automation-review)
 <!-- BLOG-POST-LIST:END -->
