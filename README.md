@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [预订本年度最有价值提示词 —— 生成既有质感，又能随意修改文字的完美 PPT](https://baoyu.io/blog/most-valuable-prompts-for-high-quality-editable-ppts)
 - [The complete &quot;Editable NotebookLM Slides&quot; solution](https://baoyu.io/blog/the-complete-editable-notebooklm-slides-solution)
 - [设计不止于代码](https://baoyu.io/translations/design-is-more-than-code)
 - [Redis 之父 Salvatore Sanfilippo 的年终 AI 反思](https://baoyu.io/blog/redis-creator-salvatore-sanfilippos-year-end-ai-reflections)
 - [Reborn from Failure: A Real-World Retrospective on Landing a Frontend AI Agent](https://baoyu.io/blog/reborn-from-failure-frontend-ai-agent-retrospective)
-- [从失败中重生：一个 AI Agent 前端落地的真实复盘](https://baoyu.io/blog/ai-agent-frontend-rebirth-from-failure)
 <!-- BLOG-POST-LIST:END -->
