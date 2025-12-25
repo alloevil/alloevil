@@ -117,9 +117,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [AI 新纪元：无限大脑的重构力——从钢铁蒸汽到未来组织，告别后视镜思维](https://baoyu.io/blog/ai-new-era-reconstructive-power-future-organizations)
 - [蒸汽、钢铁与无限的大脑](https://baoyu.io/blog/steam-steel-and-infinite-brains)
 - [AI Agent 要变强：两条路径（Skills vs SubAgent）](https://baoyu.io/blog/ai-agent-stronger-skills-vs-subagent)
 - [预订本年度最有价值提示词 —— 生成既有质感，又能随意修改文字的完美 PPT](https://baoyu.io/blog/most-valuable-prompts-for-high-quality-editable-ppts)
 - [The complete &quot;Editable NotebookLM Slides&quot; solution](https://baoyu.io/blog/the-complete-editable-notebooklm-slides-solution)
-- [设计不止于代码](https://baoyu.io/translations/design-is-more-than-code)
 <!-- BLOG-POST-LIST:END -->
