@@ -116,9 +116,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Manus 谈 AI Agent 之道：做对一千件小事，比做对三件大事更重要](https://baoyu.io/blog/manus-ai-agent-small-things-more-important)
+- [AI 2025-2026 众包调研年终总结:从「聊天」到「干活」的范式转变](https://baoyu.io/blog/ai-2025-2026-crowdsource-paradigm-shift-chat-to-work)
 - [Claude Code 5亿美元背后的AI工程革命](https://baoyu.io/blog/claude-code-500m-ai-engineering-revolution)
 - [运气表面积公式：让好运找到你](https://baoyu.io/blog/luck-surface-area-formula-good-luck)
 - [将文章、故事变成漫画脚本提示词参考](https://baoyu.io/blog/convert-articles-stories-to-comic-scripts-prompts)
-- [深度之赌：从卧室到上帝机器](https://baoyu.io/blog/deep-bet-from-bedroom-to-god-machine)
-- [Stack Overflow 2025 年度报告：写代码如果不值钱了，我们该去哪？](https://baoyu.io/blog/stack-overflow-2025-report-future-coding)
 <!-- BLOG-POST-LIST:END -->
