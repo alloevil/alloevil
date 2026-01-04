@@ -36,13 +36,15 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,6 +52,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                76 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌆 Daytime                144 commits         ███████████████░░░░░░░░░░   59.02 % 
+🌃 Evening                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 133 commits         ██████████████░░░░░░░░░░░   54.51 % 
+Friday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -66,7 +107,7 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:51:09 UTC
+ Last Updated on 04/01/2026 18:51:18 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
