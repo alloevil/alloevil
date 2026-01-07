@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [动态上下文发现 &lpar;Dynamic Context Discovery&rpar;](https://baoyu.io/translations/cursor-dynamic-context-discovery)
 - [Google 团队一年都没做出来的项目 Claude Code 一小时就把代码写出来了](https://baoyu.io/blog/claude-code-beats-google-team-on-year-long-project-in-hour)
 - [AI 时代的代码审核：写两遍，反而更快](https://baoyu.io/blog/ai-era-code-review-write-twice-faster)
 - [Code Review in the AI Era: Why Writing It Twice Is Actually Faster](https://baoyu.io/blog/code-review-ai-era-writing-twice-faster)
 - [Claude Code  之父 Boris 的 9 条实战技巧：原来高手的配置这么“朴实无华”](https://baoyu.io/blog/claude-code-boris-9-practical-tips-simple-config)
-- [Manus 谈 AI Agent 之道：做对一千件小事，比做对三件大事更重要](https://baoyu.io/blog/manus-ai-agent-small-things-more-important)
 <!-- BLOG-POST-LIST:END -->
