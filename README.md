@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [清华 AGI 峰会圆桌对话：笨笨的坚持，也许走到最后的就是我们](https://baoyu.io/blog/2026/01/10/china-ai-roundtable)
 - [Vibe Coding 方法论：不会编程的人如何用 AI 写出能跑的代码](https://baoyu.io/blog/vibe-coding-ai-code-for-non-programmers)
 - [你可能不再需要 workflow，大部分场景 skills 足矣——五步框架把 Workflow 变成可进化的 Skill](https://baoyu.io/blog/2026/01/10/agent-skills-replace-workflow)
 - [当翻译层消失，还剩下什么？](https://baoyu.io/blog/2026/01/07/ai-pm-new-era)
 - [2025年末全球 AI 行业流量报告：狂热退潮，分化开始](https://baoyu.io/blog/2025-global-ai-report-hype-fades-differentiation-starts)
-- [动态上下文发现 &lpar;Dynamic Context Discovery&rpar;](https://baoyu.io/translations/cursor-dynamic-context-discovery)
 <!-- BLOG-POST-LIST:END -->
