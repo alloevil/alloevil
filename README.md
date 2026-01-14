@@ -112,9 +112,9 @@ Python                   1 repo              █████░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [代码日趋廉价，软件依然昂贵](https://baoyu.io/translations/2026/01/13/code-is-cheap-software-isnt)
 - [“软件工程的未来两年”](https://baoyu.io/translations/2026/01/12/next-two-years-software-engineering)
 - [Cursor Agent 最佳实践](https://baoyu.io/translations/2026/01/12/cursor-agent-best-practices)
 - [小红书视觉内容策划师提示词](https://baoyu.io/blog/red-book-visual-content-prompts)
 - [清华 AGI 峰会圆桌对话：笨笨的坚持，也许走到最后的就是我们](https://baoyu.io/blog/2026/01/10/china-ai-roundtable)
-- [Vibe Coding 方法论：不会编程的人如何用 AI 写出能跑的代码](https://baoyu.io/blog/vibe-coding-ai-code-for-non-programmers)
 <!-- BLOG-POST-LIST:END -->
