@@ -112,9 +112,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [我写了个 Skill，让 Agent 自动给文章配图](https://baoyu.io/blog/2026/01/15/agent-skills-illustrator-tutorial)
 - [Claude Code 的&quot;懒加载&quot;更新：AI 终于学会了&quot;随叫随到](https://baoyu.io/blog/2026/01/14/claude-code-mcp-tool-search)
 - [代码日趋廉价，软件依然昂贵](https://baoyu.io/translations/2026/01/13/code-is-cheap-software-isnt)
 - [“软件工程的未来两年”](https://baoyu.io/translations/2026/01/12/next-two-years-software-engineering)
 - [Cursor Agent 最佳实践](https://baoyu.io/translations/2026/01/12/cursor-agent-best-practices)
-- [小红书视觉内容策划师提示词](https://baoyu.io/blog/red-book-visual-content-prompts)
 <!-- BLOG-POST-LIST:END -->
