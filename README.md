@@ -112,9 +112,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [SubAgent 与 Skills：AI Agent 的两种扩展方式](https://baoyu.io/blog/2026/01/19/skills-vs-subagent)
 - [Skills 究竟是短期红利还是长期壁垒？](https://baoyu.io/blog/skills-short-term-vs-long-term-advantage)
 - [“关于 AI Agent，你最想知道的 3 个问题——为什么我说”垂直 Agent“是个伪命题”](https://baoyu.io/blog/2026/01/18/ai-agent-interview)
 - [AI 会取代你的工作吗？Anthropic 用 200 万对话告诉你答案](https://baoyu.io/blog/2026/01/16/anthropic-economic-index-primitives)
 - [我写了个 Skill，让 Agent 自动给文章配图](https://baoyu.io/blog/2026/01/15/agent-skills-illustrator-tutorial)
-- [Claude Code 的&quot;懒加载&quot;更新：AI 终于学会了&quot;随叫随到](https://baoyu.io/blog/2026/01/14/claude-code-mcp-tool-search)
 <!-- BLOG-POST-LIST:END -->
