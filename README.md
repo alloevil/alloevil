@@ -112,9 +112,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Sam Altman 与开发者的一小时：GPT-5 的坦白、招聘放缓、以及 2026 年最担心的事](https://baoyu.io/blog/2026/01/27/sam-altman-developer-townhall-gpt5)
 - [Skills 不就是脚本套个壳吗？我十几年前就玩 AutoIt 了](https://baoyu.io/blog/2026/01/25/script-vs-agent-skills)
 - [Skill 不就是长一点的提示词吗？](https://baoyu.io/blog/2026/01/24/skill-vs-prompt)
 - [别把整个 GitHub 装进 Skills，Skills 的正确用法](https://baoyu.io/blog/2026/01/22/skills-usage-principles)
 - [MCP 和 Skills 到底什么区别？一篇文章说清楚](https://baoyu.io/blog/2026/01/20/mcp-vs-skills)
-- [SubAgent 与 Skills：AI Agent 的两种扩展方式](https://baoyu.io/blog/2026/01/19/skills-vs-subagent)
 <!-- BLOG-POST-LIST:END -->
