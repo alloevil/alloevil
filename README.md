@@ -71,9 +71,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。](https://baoyu.io/blog/state-of-ai-in-2026-lex-fridman-podcast)
+- [【栏目对话和访谈】ClawdBot 创始人 Peter：AI 是杠杆，不是替代品；编程语言不重要了，重要的是我的工程思维](https://baoyu.io/blog/2026/02/01/peter-steinberger-interview)
 - [当每个人都能指挥一支 AI 大军，什么能力最重要？](https://baoyu.io/blog/2026/01/29/management-ai-superpower)
 - [管理：AI 时代的超能力](https://baoyu.io/translations/2026/01/29/management-ai-superpower)
 - [燃尽、重启、爆火：Clawdbot 创始人的 35 分钟访谈实录](https://baoyu.io/blog/2026/01/28/clawdbot-peter-steinberger-interview)
-- [Sam Altman 与开发者的一小时：GPT-5 的坦白、招聘放缓、以及 2026 年最担心的事](https://baoyu.io/blog/2026/01/27/sam-altman-developer-townhall-gpt5)
-- [Skills 不就是脚本套个壳吗？我十几年前就玩 AutoIt 了](https://baoyu.io/blog/2026/01/25/script-vs-agent-skills)
 <!-- BLOG-POST-LIST:END -->
