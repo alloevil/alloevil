@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%207%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,6 +52,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                76 commits          ████████░░░░░░░░░░░░░░░░░   30.40 % 
+🌆 Daytime                149 commits         ███████████████░░░░░░░░░░   59.60 % 
+🌃 Evening                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Tuesday                  23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Wednesday                48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Thursday                 137 commits         ██████████████░░░░░░░░░░░   54.80 % 
+Friday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -66,7 +107,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 19:06:01 UTC
+ Last Updated on 03/02/2026 19:32:41 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
