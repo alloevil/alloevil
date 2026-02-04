@@ -112,9 +112,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [品味 + 工程思维：AI 时代最难被替代的两件事](https://baoyu.io/blog/2026/02/03/taste-engineering-thinking)
+- [“Claude Code 团队的 10 个内部技巧，但你不一定都要学”](https://baoyu.io/blog/“2026/02/01/claude-code-tips-from-creator”)
 - [How I Used Codex to \&quot;Recover\&quot; Lost Source Code in 5 Days](https://baoyu.io/blog/2026/01/31/codex-recover-source-code)
 - [栏目对话和访谈：Sebastian Raschka 和 Nathan Lambert 在 Lex Fridman 播客深度解读 AI 现状：中美竞争、模型对比、规模定律、AGI 时间线。](https://baoyu.io/blog/state-of-ai-in-2026-lex-fridman-podcast)
 - [【栏目对话和访谈】ClawdBot 创始人 Peter：AI 是杠杆，不是替代品；编程语言不重要了，重要的是我的工程思维](https://baoyu.io/blog/2026/02/01/peter-steinberger-interview)
-- [当每个人都能指挥一支 AI 大军，什么能力最重要？](https://baoyu.io/blog/2026/01/29/management-ai-superpower)
-- [管理：AI 时代的超能力](https://baoyu.io/translations/2026/01/29/management-ai-superpower)
 <!-- BLOG-POST-LIST:END -->
