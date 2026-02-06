@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C545%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C546%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -79,18 +79,20 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   52 mins             ████████████████████████░   96.33 % 
-CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Python                   2 hrs 31 mins       ████████████████████████░   94.97 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Cursor                   54 mins             █████████████████████████   100.00 % 
+Cursor                   2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-scimo_agent              54 mins             █████████████████████████   100.00 % 
+scimo_agent              1 hr 53 mins        ██████████████████░░░░░░░   70.85 % 
+ailark                   46 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +111,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 19:27:54 UTC
+ Last Updated on 06/02/2026 19:27:51 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
