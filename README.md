@@ -116,9 +116,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2026 编程巨变：Anthropic 报告揭示 Agent 编程八大趋势](https://baoyu.io/blog/2026/02/09/anthropic-agentic-coding-trends-2026)
 - [既然 AI 越来越聪明，那么学习提示词不是浪费时间吗？](https://baoyu.io/blog/2026/02/08/prompt-engineering-matters)
 - [【访谈对话】造过 Codex 的人，为什么每天用 Claude Code](https://baoyu.io/blog/2026/02/07/segment-creator-interview)
 - [深度解析：Claude Code /insights 命令的运作机制](https://baoyu.io/translations/2026/02/05/claude-code-insights-command)
 - [马斯克三小时访谈实录：36 个月后，太空是训练和运行 AI 最便宜的地方](https://baoyu.io/blog/2026/02/05/musk-ai-space-energy)
-- [Claude Code 团队的 10 个内部技巧，但你不一定都要学](https://baoyu.io/blog/2026/02/01/claude-code-tips-from-creator)
 <!-- BLOG-POST-LIST:END -->
