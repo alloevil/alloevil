@@ -117,9 +117,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI 智能体工程指南：10 条实战技巧和 3 种构建模式](https://baoyu.io/blog/2026-02-12/skills-shell-tips)
 - [我们真的变成巫师了：OpenAI API 负责人谈 AI 如何重塑软件工程](https://baoyu.io/blog/2026-02-12/sherwin-wu-ai-software-engineering)
 - [xAI 全员大会实录：递归自我改进、5000 万视频/天、月球上的质量驱动器](https://baoyu.io/blog/2026-02-11/xai-all-hands-meeting)
 - [PC 软件为手机重做了一遍，现在轮到 Agent 了](https://baoyu.io/blog/2026/02/11/ai-agent-software-remake)
 - [2026 编程巨变：Anthropic 报告揭示 Agent 编程八大趋势](https://baoyu.io/blog/2026/02/09/anthropic-agentic-coding-trends-2026)
-- [既然 AI 越来越聪明，那么学习提示词不是浪费时间吗？](https://baoyu.io/blog/2026/02/08/prompt-engineering-matters)
 <!-- BLOG-POST-LIST:END -->
