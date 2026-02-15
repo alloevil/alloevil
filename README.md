@@ -117,9 +117,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [快不等于好：Anthropic 和 OpenAI 的快速模式藏着什么](https://baoyu.io/blog/2026-02-15/fast-mode-vs-codex-spark)
 - [Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点](https://baoyu.io/blog/2026-02-14/dario-amodei-interview-analysis)
 - [别再用提示词去 AI 味了，方向就是错的](https://baoyu.io/blog/2026-02-14/remove-ai-writing-flavor)
 - [只有 30 个工程师的 X，是怎么重新杀回 App Store 第二的](https://baoyu.io/blog/2026-02-13/nikita-bier-x-growth)
 - [马斯克说今年编程就要死了，你信吗？](https://baoyu.io/blog/2026-02-13/musk-coding-dead)
-- [OpenAI 智能体工程指南：10 条实战技巧和 3 种构建模式](https://baoyu.io/blog/2026-02-12/skills-shell-tips)
 <!-- BLOG-POST-LIST:END -->
