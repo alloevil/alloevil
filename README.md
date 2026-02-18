@@ -115,9 +115,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更](https://baoyu.io/blog/2026-02-13/claude-code-auto-commit)
 - [高中辍学生靠 ChatGPT 自学成才成了 OpenAI 的研究科学家](https://baoyu.io/blog/2026-02-17/gabriel-petersson-openai-dropout)
 - [59% 用户投票选了更便宜的那个：Sonnet 4.6 全面解读](https://baoyu.io/blog/2026-02-17/claude-sonnet-4-6-release)
 - [Jeff Dean 深度访谈：一页纸备忘录促成 Gemini 的诞生，Google AI 的反击与 10,000 Token 的未来](https://baoyu.io/blog/2026-02-17/jeff-dean-latent-space)
 - [快不等于好：Anthropic 和 OpenAI 的快速模式藏着什么](https://baoyu.io/blog/2026-02-15/fast-mode-vs-codex-spark)
-- [Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点](https://baoyu.io/blog/2026-02-14/dario-amodei-interview-analysis)
 <!-- BLOG-POST-LIST:END -->
