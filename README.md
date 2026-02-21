@@ -112,9 +112,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI 应用 CTO 和 Codex 负责人：AI 正在重塑构建软件的方式](https://baoyu.io/blog/2026-02-21/the-pragmatic-summit-inside-openai)
 - [Notion CEO：不能被 Agent 用的产品没有未来](https://baoyu.io/blog/2026-02-19/notion-ceo-agent-future)
 - [提示词救不了平庸的 AI 写作](https://baoyu.io/blog/2026-02-19/ai-writing-beyond-prompts)
 - [用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更](https://baoyu.io/blog/2026-02-13/claude-code-auto-commit)
 - [高中辍学生靠 ChatGPT 自学成才成了 OpenAI 的研究科学家](https://baoyu.io/blog/2026-02-17/gabriel-petersson-openai-dropout)
-- [59% 用户投票选了更便宜的那个：Sonnet 4.6 全面解读](https://baoyu.io/blog/2026-02-17/claude-sonnet-4-6-release)
 <!-- BLOG-POST-LIST:END -->
