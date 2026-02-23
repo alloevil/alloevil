@@ -113,8 +113,8 @@ Python                   1 repo              ████░░░░░░░�
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Cursor 设计负责人：只会画按钮的设计师，有麻烦了](https://baoyu.io/blog/2026-02-21/cursor-ryo-lu-design-team)
+- [OpenAI Codex 产品负责人：代码不再由人类编写，但我们会有更多构建者（Builder）](https://baoyu.io/blog/2026-02-22/openai-codex-embiricos-interview)
 - [OpenAI 应用 CTO 和 Codex 负责人：AI 正在重塑构建软件的方式](https://baoyu.io/blog/2026-02-21/the-pragmatic-summit-inside-openai)
 - [Notion CEO：不能被 Agent 用的产品没有未来](https://baoyu.io/blog/2026-02-19/notion-ceo-agent-future)
 - [提示词救不了平庸的 AI 写作](https://baoyu.io/blog/2026-02-19/ai-writing-beyond-prompts)
-- [用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更](https://baoyu.io/blog/2026-02-13/claude-code-auto-commit)
 <!-- BLOG-POST-LIST:END -->
