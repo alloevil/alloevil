@@ -112,9 +112,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时](https://baoyu.io/blog/2026-02-25/laura-tacho-ai-pragmatic-summit)
 - [Coding Agent 有个甜蜜点，多数人直接跳过了](https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot)
 - [同样的模型，为什么 Cursor 跑不过 Claude Code？](https://baoyu.io/blog/2026-02-23/claude-code-vs-cursor)
 - [Cursor 设计负责人：只会画按钮的设计师，有麻烦了](https://baoyu.io/blog/2026-02-21/cursor-ryo-lu-design-team)
 - [OpenAI Codex 产品负责人：代码不再由人类编写，但我们会有更多构建者（Builder）](https://baoyu.io/blog/2026-02-22/openai-codex-embiricos-interview)
-- [OpenAI 应用 CTO 和 Codex 负责人：AI 正在重塑构建软件的方式](https://baoyu.io/blog/2026-02-21/the-pragmatic-summit-inside-openai)
 <!-- BLOG-POST-LIST:END -->
