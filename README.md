@@ -114,9 +114,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic CEO Dario Amodei：海啸已在地平线上，但没人在看](https://baoyu.io/blog/2026-02-26/the-ai-tsunami-is-here-dario-amodei)
 - [驾驭工程：在「智能体优先」的世界里借力 Codex](https://baoyu.io/translations/2026-02-12/harness-engineering)
 - [92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时](https://baoyu.io/blog/2026-02-25/laura-tacho-ai-pragmatic-summit)
 - [Coding Agent 有个甜蜜点，多数人直接跳过了](https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot)
 - [同样的模型，为什么 Cursor 跑不过 Claude Code？](https://baoyu.io/blog/2026-02-23/claude-code-vs-cursor)
-- [Cursor 设计负责人：只会画按钮的设计师，有麻烦了](https://baoyu.io/blog/2026-02-21/cursor-ryo-lu-design-team)
 <!-- BLOG-POST-LIST:END -->
