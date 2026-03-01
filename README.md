@@ -114,9 +114,9 @@ Python                   1 repo              ████░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [被封杀当晚，OpenAI 拿到了相同条款——Amodei 首次专访揭开 Anthropic 与五角大楼冲突内幕](https://baoyu.io/blog/2026-02-28/anthropic-ceo-trump-pentagon-clash)
 - [从写代码到管 Agent：斯坦福首门 AI 软件开发课的讲师说，大多数工程师还没准备好](https://baoyu.io/blog/2026-02-27/from-writing-code-to-managing-agents)
 - [Anthropic CEO Dario Amodei：海啸已在地平线上，但没人在看](https://baoyu.io/blog/2026-02-26/the-ai-tsunami-is-here-dario-amodei)
 - [驾驭工程：在「智能体优先」的世界里借力 Codex](https://baoyu.io/translations/2026-02-12/harness-engineering)
 - [92.6% 开发者每月使用 AI 编码助手，但每周节省时间只有 4 小时](https://baoyu.io/blog/2026-02-25/laura-tacho-ai-pragmatic-summit)
-- [Coding Agent 有个甜蜜点，多数人直接跳过了](https://baoyu.io/blog/2026-02-25/coding-agent-sweet-spot)
 <!-- BLOG-POST-LIST:END -->
