@@ -112,9 +112,9 @@ SCSS                     1 repo              ███░░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [构建 Claude Code 的经验：我们如何使用 Skills](https://baoyu.io/translations/2026-03-17/claude-code-skills-lessons)
 - [智能体工程的 8 个等级](https://baoyu.io/translations/2026-03-11/levels-of-agentic-engineering)
 - [编程 Agent 如何重塑工程、产品和设计](https://baoyu.io/translations/2026-03-11/coding-agents-reshaping-epd)
 - [当 AI 写了几乎所有代码，软件工程会怎样？](https://baoyu.io/translations/2026-01-07/ai-writes-most-code)
 - [品牌时代](https://baoyu.io/translations/2026-03-05/the-brand-age-pg)
-- [我用 AI 翻译的三个阶段：提示词时代 → 推理模型时代 → Agent 时代](https://baoyu.io/blog/2026-03-05/i-built-a-translator-skill)
 <!-- BLOG-POST-LIST:END -->
