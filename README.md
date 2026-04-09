@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 + ![sumy7](https://komarev.com/ghpvc/?username=alloevil)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alloevil&show_icons=true&bg_color=00000000)
+![GitHub followers](https://img.shields.io/github/followers/alloevil?style=social) ![GitHub stars](https://img.shields.io/github/stars/alloevil?style=social) ![GitHub repos](https://img.shields.io/github/repo-count/alloevil?label=repos&style=social)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
