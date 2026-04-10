@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/alloevil?style=social) ![GitHub stars](https://img.shields.io/github/stars/alloevil?style=social) ![GitHub repos](https://img.shields.io/github/repo-count/alloevil?label=repos&style=social)
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/alloevil/alloevil/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
