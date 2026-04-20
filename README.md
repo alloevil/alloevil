@@ -52,45 +52,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                86 commits          ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌆 Daytime                154 commits         ██████████████░░░░░░░░░░░   57.89 % 
-🌃 Evening                26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Wednesday                50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Thursday                 144 commits         ██████████████░░░░░░░░░░░   54.14 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Saturday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -108,7 +69,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 19:43:39 UTC
+ Last Updated on 20/04/2026 20:00:47 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
