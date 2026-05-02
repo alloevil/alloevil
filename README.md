@@ -1,14 +1,11 @@
+<h1 align="center"><code>allo</code></h1>
+<h3 align="center">AI Agent Builder · LLM Engineer</h3>
+
 ```console
 $ whoami
-allo — AI Agent Builder | LLM Engineer
+allo — building intelligent agents that actually work
 
-$ cat /etc/motd
-      _    _    _    ___
-     / \  | |  | |  / _ \
-    / _ \ | |  | | | |_| |
-   / ___ \| |__| |  \___  |
-  /_/   \_\____/       |_|$ cat /proc/status
-  Mission  → Building intelligent agents that actually work
+$ cat /proc/status
   Focus    → Agents · LLM · Automation
   Stack    → TypeScript · Python · Bash
   Tools    → Claude Code · Codex · Cursor
