@@ -3,13 +3,11 @@ $ whoami
 allo — AI Agent Builder | LLM Engineer
 
 $ cat /etc/motd
-     ___    _      _       ___
-    / _ \  | |    | |     / _ \
-   / /_\ \ | |    | |    | |_| |
-   \  _  / | |__  | |__   \___/
-    \/ \/  |____| |____|
-
-$ cat /proc/status
+      _    _    _    ___
+     / \  | |  | |  / _ \
+    / _ \ | |  | | | |_| |
+   / ___ \| |__| |  \___  |
+  /_/   \_\____/       |_|$ cat /proc/status
   Mission  → Building intelligent agents that actually work
   Focus    → Agents · LLM · Automation
   Stack    → TypeScript · Python · Bash
