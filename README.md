@@ -2,30 +2,24 @@
 $ whoami
 allo — AI Agent Builder | LLM Engineer
 
-$ cat /etc/motd
-  ██████████████████████████████████████████████████
-  ██                                              ██
-  ██   █████╗ ██╗     ██╗      ██████╗ ███████╗   ██
-  ██  ██╔══██╗██║     ██║     ██╔═══██╗██╔════╝   ██
-  ██  ███████║██║     ██║     ██║   ██║█████╗     ██
-  ██  ██╔══██║██║     ██║     ██║   ██║██╔══╝     ██
-  ██  ██║  ██║███████╗███████╗╚██████╔╝███████╗   ██
-  ██  ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝╚══════╝   ██
-  ██                                              ██
-  ██████████████████████████████████████████████████
+$ echo $MISSION
+Building intelligent agents that actually work
 
-$ uname -a
-alloevil 6.x-agent #1 SMP x86_64 AI-Agent-Builder
-
-$ cat /proc/status
-  Mission    → Building intelligent agents that actually work
-  Focus      → Agentic workflows · Tool-use · Memory systems
-  Stack      → TypeScript · Python · Bash · Rust (learning)
-  Editor     → Cursor > Vim > VS Code (fight me)
-  Status     → 🟢 OPEN TO COLLABORATION
-
-$ uptime
-  115 public repos · 8 private · 40+ stars · still shipping
+$ neofetch
+  ┌──────────────────────────────────────┐
+  │  ██████╗ ██╗     ██╗      ██████╗   │
+  │  ██╔══██╗██║     ██║     ██╔═══██╗  │
+  │  ███████║██║     ██║     ██║   ██║  │
+  │  ██╔══██║██║     ██║     ██║   ██║  │
+  │  ██║  ██║███████╗███████╗╚██████╔╝  │
+  │  ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  │
+  ├──────────────────────────────────────┤
+  │  Stack   : TypeScript · Python · Bash│
+  │  Tools   : Claude Code · Codex · Pi  │
+  │  Focus   : Agents · LLM · Automation │
+  │  Repos   : 115 public · 8 private    │
+  │  Status  : 🟢 OPEN TO COLLABORATION  │
+  └──────────────────────────────────────┘
 ```
 
 ---
