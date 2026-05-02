@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7577F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=allo;AI+Agent+Builder+%C2%B7+LLM+Engineer;Building+intelligent+agents+that+actually+work)]
+
 ### Hi there 👋
 <!--
 **alloevil/alloevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
