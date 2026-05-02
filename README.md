@@ -2,24 +2,27 @@
 $ whoami
 allo — AI Agent Builder | LLM Engineer
 
-$ echo $MISSION
-Building intelligent agents that actually work
+$ cat /etc/motd
+  ██████████████████████████████████████████████████
+  ██                                              ██
+  ██   █████╗ ██╗     ██╗      ██████╗ ███████╗   ██
+  ██  ██╔══██╗██║     ██║     ██╔═══██╗██╔════╝   ██
+  ██  ███████║██║     ██║     ██║   ██║█████╗     ██
+  ██  ██╔══██║██║     ██║     ██║   ██║██╔══╝     ██
+  ██  ██║  ██║███████╗███████╗╚██████╔╝███████╗   ██
+  ██  ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝╚══════╝   ██
+  ██                                              ██
+  ██████████████████████████████████████████████████
 
-$ neofetch
-  ┌──────────────────────────────────────┐
-  │  ██████╗ ██╗     ██╗      ██████╗   │
-  │  ██╔══██╗██║     ██║     ██╔═══██╗  │
-  │  ███████║██║     ██║     ██║   ██║  │
-  │  ██╔══██║██║     ██║     ██║   ██║  │
-  │  ██║  ██║███████╗███████╗╚██████╔╝  │
-  │  ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  │
-  ├──────────────────────────────────────┤
-  │  Stack   : TypeScript · Python · Bash│
-  │  Tools   : Claude Code · Codex · Pi  │
-  │  Focus   : Agents · LLM · Automation │
-  │  Repos   : 115 public · 8 private    │
-  │  Status  : 🟢 OPEN TO COLLABORATION  │
-  └──────────────────────────────────────┘
+$ cat /proc/status
+  Mission  → Building intelligent agents that actually work
+  Focus    → Agents · LLM · Automation
+  Stack    → TypeScript · Python · Bash
+  Tools    → Claude Code · Codex · Cursor
+  Status   → 🟢 OPEN TO COLLABORATION
+
+$ uptime
+  115 public repos · 8 private · 40+ stars · still shipping
 ```
 
 ---
