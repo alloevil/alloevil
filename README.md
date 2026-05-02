@@ -49,16 +49,14 @@
 
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=alloevil&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alloevil&theme=radical&background=0d1117&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="Streak Stats" width="48%" />
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloevil&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00D4FF&text_color=c9d1d9" alt="Top Languages" width="38%" />
+<!-- Stats via shields.io (more reliable globally) -->
+<img src="https://img.shields.io/badge/Repos-115_public_%2F_8_private-00D4FF?style=flat-square&logo=github" alt="Repos" />
+&nbsp;
+<img src="https://img.shields.io/badge/Stars-40+-yellow?style=flat-square&logo=github" alt="Stars" />
+&nbsp;
+<img src="https://img.shields.io/badge/Contributions_2026-44-00D4FF?style=flat-square&logo=github" alt="Contributions" />
+&nbsp;
+<img src="https://img.shields.io/badge/Storage-13.7_KB-00D4FF?style=flat-square&logo=github" alt="Storage" />
 
 </div>
 
