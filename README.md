@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7577F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=allo;AI+Agent+Builder+%C2%B7+LLM+Engineer;Building+intelligent+agents+that+actually+work)]
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;pause=1000&amp;color=F7577F&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=900&amp;height=140&amp;lines=allo;AI+Agent+Builder+%C2%B7+LLM+Engineer;Building+intelligent+agents+that+actually+work" />
+</p>
 
 ### Hi there 👋
 <!--
