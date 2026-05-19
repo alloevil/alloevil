@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C620%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C623%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 73.0 kB Used in GitHub's Storage 
+> 📦 73.1 kB Used in GitHub's Storage 
  > 
 > 🏆 64 Contributions in the Year 2026
  > 
@@ -56,55 +56,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                107 commits         ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌆 Daytime                192 commits         ███████████████░░░░░░░░░░   58.72 % 
-🌃 Evening                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Wednesday                74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Thursday                 159 commits         ████████████░░░░░░░░░░░░░   48.62 % 
-Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   6 hrs 55 mins       █████████████░░░░░░░░░░░░   53.09 % 
-Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-
-🔥 Editors: 
-Cursor                   5 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
-Antigravity              4 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
-Unknown Editor           2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-
-🐱‍💻 Projects: 
-isc-world-model          9 hrs 46 mins       ███████████████████░░░░░░   74.86 % 
-ai-stock-analyzer        1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-ailark                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-openclaw-changelog       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-weibo-crawler            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-
-💻 Operating System: 
-Linux                    13 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -122,7 +73,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 20:46:23 UTC
+ Last Updated on 19/05/2026 20:49:01 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
