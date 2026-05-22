@@ -40,19 +40,17 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C627%20hrs%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 63.4 kB Used in GitHub's Storage 
+> 📦 63.5 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 66 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 119 Public Repositories 
+> 📜 120 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -108,11 +106,11 @@ Linux                    11 hrs 1 min        ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+SCSS                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -122,7 +120,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:57:55 UTC
+ Last Updated on 22/05/2026 20:57:24 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
