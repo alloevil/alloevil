@@ -128,9 +128,9 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [为啥 Codex 还不推出类似 Codex Design 的产品？](https://baoyu.io/blog/2026-06-13/codex-design-model-gap)
 - [DeepSeek 的 10 万亿美元大战略](https://baoyu.io/blog/2026-05-23/bookwormengr-status-2057909493250539891)
 - [来自 Codex 官方团队的分享：如何把 Codex 用到极致](https://baoyu.io/blog/2026-05-20/jxnlco-2057153744630890620)
 - [为什么我不“凭感觉编程”](https://baoyu.io/translations/2026-05-17/i-dont-vibe-code)
 - [创始人手册：打造 AI 原生初创公司](https://baoyu.io/translations/2026-05-16/the-founders-playbook-building-an-ai-native-startup)
-- [Forward Deployed Engineer：AI 时代的新宠岗位，到底干什么？](https://baoyu.io/blog/2026-05-15/forward-deployed-engineer)
 <!-- BLOG-POST-LIST:END -->
