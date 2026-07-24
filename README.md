@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 82.5 kB Used in GitHub's Storage 
+> 📦 82.9 kB Used in GitHub's Storage 
  > 
-> 🏆 575 Contributions in the Year 2026
+> 🏆 598 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,54 +54,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                201 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-🌆 Daytime                658 commits         ████████████████░░░░░░░░░   65.15 % 
-🌃 Evening                142 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Wednesday                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Thursday                 321 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-Friday                   40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Sunday                   239 commits         ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 20 hrs 32 mins      ███████████████░░░░░░░░░░   59.16 % 
-Python                   10 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.40 % 
-Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Bash                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-
-🔥 Editors: 
-Claude Code              18 hrs 20 mins      █████████████░░░░░░░░░░░░   52.82 % 
-Cursor                   16 hrs 22 mins      ████████████░░░░░░░░░░░░░   47.18 % 
-
-🐱‍💻 Projects: 
-deepresearch-lab         23 hrs 57 mins      █████████████████░░░░░░░░   68.98 % 
-isc-world-model          7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-chainsentry-ai           1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-sgp                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-DEER                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-
-💻 Operating System: 
-Linux                    34 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -119,7 +71,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 21:37:47 UTC
+ Last Updated on 24/07/2026 21:38:17 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
