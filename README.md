@@ -16,17 +16,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🤖%20Agent%20Systems-58A6FF?style=for-the-badge&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Multi-agent%20orchestration%20·%20tool-use%20·%20planning-8B949E?style=flat-square&labelColor=161B22" />
-</p>
-
-<p align="center">
+  <sub>Multi-agent orchestration · tool-use · planning</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🔍%20Deep%20Research-F78166?style=for-the-badge&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Automated%20paper%20synthesis%20·%20research%20workflows-8B949E?style=flat-square&labelColor=161B22" />
-</p>
-
-<p align="center">
+  <sub>Automated paper synthesis · research workflows</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/📊%20RAG%20%26%20Knowledge-3FB950?style=for-the-badge&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Knowledge%20graphs%20·%20retrieval-augmented%20generation-8B949E?style=flat-square&labelColor=161B22" />
+  <sub>Knowledge graphs · retrieval-augmented generation</sub>
 </p>
 
 <br/>
