@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8B5CF6&height=220&section=header&text=allo&fontSize=80&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Agent%20Builder%20%C2%B7%20LLM%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="allo — AI Agent Builder · LLM Engineer"/>
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=600&color=F7577F&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=allo;AI+Agent+Builder+%C2%B7+LLM+Engineer;Building+intelligent+agents+that+actually+work" />
 </p>
 
 <p align="center">
@@ -129,18 +129,77 @@
 
 <br/>
 
-<!--START_SECTION:waka-->
-```text
-🕑 Time Zone: Asia/Shanghai
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg" />
+</picture>
 
-💬 Languages:  Python · Markdown · TypeScript · HTML · Bash
-🔥 Editors:    Cursor · Claude Code
-🐱‍💻 Focus:      AI Agent · LLM Engineering · Deep Research
+<img align="right" alt="coding cat" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200" />
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C634%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2017%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 83.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 611 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire 
+ > 
+> 📜 134 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                203 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌆 Daytime                679 commits         ████████████████░░░░░░░░░   65.48 % 
+🌃 Evening                146 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Tuesday                  153 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Thursday                 321 commits         ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Saturday                 67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Sunday                   235 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 9 hrs 44 mins       █████████████░░░░░░░░░░░░   51.41 % 
+Python                   6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+
+🔥 Editors: 
+Cursor                   11 hrs 8 mins       ███████████████░░░░░░░░░░   58.77 % 
+Claude Code              7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
+
+🐱‍💻 Projects: 
+deepresearch-lab         9 hrs 27 mins       ████████████░░░
 ```
 <!--END_SECTION:waka-->
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8B5CF6&height=100&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=alloevil&style=flat-square&color=blue" alt="Profile Views" />
 </p>
