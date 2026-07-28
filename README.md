@@ -124,8 +124,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alloevil&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloevil&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=true&langs_count=8" width="38%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alloevil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloevil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Top Languages" />
 </p>
 
 <p align="center">
