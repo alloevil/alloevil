@@ -106,6 +106,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于 Agent 的几个判断](https://baoyu.io/blog/2026-07-28/agent-judgments)
+- [“母病速归”式 AI：号称省 65% Token，实测只有 8.5%](https://baoyu.io/blog/2026-07-12/caveman-token-saving-test)
+- [一文看懂ChatGPT、Codex、Work 的差别](https://baoyu.io/blog/chatgpt-work-codex-guide)
+- [从零开始玩转循环 &lpar;Getting started with loops&rpar;](https://baoyu.io/blog/2026-07-06/claudedevs-2074208949205881033)
+- [为啥 Codex 还不推出类似 Codex Design 的产品？](https://baoyu.io/blog/2026-06-13/codex-design-model-gap)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Tech Stack
