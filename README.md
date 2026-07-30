@@ -153,17 +153,17 @@
 <img align="right" alt="coding cat" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C637%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C642%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 87.3 kB Used in GitHub's Storage 
+> 📦 87.4 kB Used in GitHub's Storage 
  > 
-> 🏆 643 Contributions in the Year 2026
+> 🏆 646 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -171,78 +171,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                206 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-🌆 Daytime                706 commits         ████████████████░░░░░░░░░   65.13 % 
-🌃 Evening                163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-🌙 Night                  9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Tuesday                  178 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Wednesday                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 321 commits         ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Friday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Saturday                 67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Sunday                   249 commits         ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   7 hrs 55 mins       █████████████░░░░░░░░░░░░   53.36 % 
-Markdown                 5 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-
-🔥 Editors: 
-Claude Code              7 hrs 57 mins       █████████████░░░░░░░░░░░░   53.52 % 
-Cursor                   6 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.48 % 
-
-🐱‍💻 Projects: 
-deepresearch-lab         7 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.20 % 
-isc-world-model          3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-sgp                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-chainsentry-ai           1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-deepresearch-arms-lab    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-
-💻 Operating System: 
-Linux                    14 hrs 51 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 hrs 56 mins (93.87%)
-
-✍️ 12,726 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 329,167,338 Input Tokens, 909,410 Output Tokens
-
-💵 $874.48 Estimated AI Cost This Week
-
-🧠 75 AI Sessions, 188 AI Prompts
-
-Composer                 3,926 lines         ██████████████░░░░░░░░░░░   55.65 % 
-Sonnet                   3,121 lines         ███████████░░░░░░░░░░░░░░   44.24 % 
-Opus                     8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,120 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -260,7 +188,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 21:38:43 UTC
+ Last Updated on 30/07/2026 21:51:36 UTC
 <!--END_SECTION:waka-->
 
 <br/>
