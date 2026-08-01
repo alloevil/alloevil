@@ -153,17 +153,17 @@
 <img align="right" alt="coding cat" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C647%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C649%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-334%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 88.3 kB Used in GitHub's Storage 
+> 📦 88.6 kB Used in GitHub's Storage 
  > 
-> 🏆 650 Contributions in the Year 2026
+> 🏆 652 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -187,8 +187,8 @@ Tuesday                  202 commits         ████░░░░░░░�
 Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 Thursday                 396 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
 Friday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Saturday                 67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   245 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Sunday                   243 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
 ```
 
 
@@ -198,46 +198,46 @@ Sunday                   245 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 22 mins      ████████████░░░░░░░░░░░░░   46.28 % 
-Python                   7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Bash                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
+Python                   7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Bash                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 36 mins      █████████████████░░░░░░░░   67.86 % 
-Cursor                   9 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Claude Code              18 hrs 5 mins       █████████████████░░░░░░░░   66.09 % 
+Cursor                   9 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
 
 🐱‍💻 Projects: 
-deepresearch-lab         14 hrs 32 mins      █████████████░░░░░░░░░░░░   50.31 % 
-isc-world-model          7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-chainsentry-ai           3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-deepresearch-arms-lab    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-gaoruilin                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+deepresearch-lab         13 hrs 1 min        ████████████░░░░░░░░░░░░░   47.57 % 
+isc-world-model          7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+chainsentry-ai           3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+deepresearch-arms-lab    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+gaoruilin                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 Operating System: 
-Linux                    28 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 46 mins (96.15%)
+⏱ AI Coding Time: 26 hrs 16 mins (95.94%)
 
-✍️ 28,638 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 26,872 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 888,910,598 Input Tokens, 2,384,561 Output Tokens
+🔤 879,213,149 Input Tokens, 2,205,801 Output Tokens
 
 💵 $2266.02 Estimated AI Cost This Week
 
-🧠 160 AI Sessions, 321 AI Prompts
+🧠 143 AI Sessions, 306 AI Prompts
 
 Composer                 8,683 lines         ████████████████░░░░░░░░░   65.86 % 
 Sonnet                   4,501 lines         █████████░░░░░░░░░░░░░░░░   34.14 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 745 characters per prompt
+📄 Detailed Prompter — average 690 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -259,7 +259,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 21:56:07 UTC
+ Last Updated on 01/08/2026 21:24:35 UTC
 <!--END_SECTION:waka-->
 
 <br/>
