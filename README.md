@@ -161,9 +161,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 88.9 kB Used in GitHub's Storage 
+> 📦 90.0 kB Used in GitHub's Storage 
  > 
-> 🏆 662 Contributions in the Year 2026
+> 🏆 825 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -174,21 +174,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                228 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-🌆 Daytime                765 commits         ████████████████░░░░░░░░░   62.96 % 
-🌃 Evening                211 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+🌞 Morning                385 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+🌆 Daytime                1110 commits        ████████████████░░░░░░░░░   62.22 % 
+🌃 Evening                278 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Tuesday                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Wednesday                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Thursday                 396 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Friday                   72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-Saturday                 69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Monday                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Tuesday                  390 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Wednesday                196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Thursday                 509 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Friday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Saturday                 79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Sunday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 ```
 
 
@@ -198,46 +198,46 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
-Python                   7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Bash                     3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Markdown                 7 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
+Python                   5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Bash                     3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 5 mins       █████████████████░░░░░░░░   66.09 % 
-Cursor                   9 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
+Claude Code              9 hrs 12 mins       █████████████░░░░░░░░░░░░   50.52 % 
+Cursor                   9 hrs 1 min         ████████████░░░░░░░░░░░░░   49.48 % 
 
 🐱‍💻 Projects: 
-deepresearch-lab         13 hrs 1 min        ████████████░░░░░░░░░░░░░   47.57 % 
-isc-world-model          7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-chainsentry-ai           3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-deepresearch-arms-lab    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-gaoruilin                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+deepresearch-lab         7 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
+isc-world-model          5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+chainsentry-ai           3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+github-discovery         34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+deepresearch-arms-lab    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 Operating System: 
-Linux                    27 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 16 mins (95.94%)
+⏱ AI Coding Time: 17 hrs 10 mins (94.19%)
 
-✍️ 26,872 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,599 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 879,213,149 Input Tokens, 2,205,801 Output Tokens
+🔤 670,994,700 Input Tokens, 1,524,097 Output Tokens
 
-💵 $2266.02 Estimated AI Cost This Week
+💵 $1827.50 Estimated AI Cost This Week
 
-🧠 143 AI Sessions, 306 AI Prompts
+🧠 91 AI Sessions, 207 AI Prompts
 
-Composer                 8,683 lines         ████████████████░░░░░░░░░   65.86 % 
-Sonnet                   4,501 lines         █████████░░░░░░░░░░░░░░░░   34.14 % 
+Composer                 8,683 lines         ████████████████████░░░░░   78.51 % 
+Sonnet                   2,377 lines         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 690 characters per prompt
+📄 Detailed Prompter — average 606 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -259,7 +259,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 21:28:12 UTC
+ Last Updated on 04/08/2026 21:51:11 UTC
 <!--END_SECTION:waka-->
 
 <br/>
