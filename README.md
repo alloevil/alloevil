@@ -139,7 +139,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloevil&theme=transparent&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=0" width="50%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=alloevil&theme=transparent&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=0" width="50%" alt="Streak Stats" />
 </p>
 
 <br/>
