@@ -157,13 +157,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 100.1 kB Used in GitHub's Storage 
+> 📦 100.2 kB Used in GitHub's Storage 
  > 
-> 🏆 928 Contributions in the Year 2026
+> 🏆 929 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -174,21 +174,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-🌆 Daytime                1005 commits        ████████████████░░░░░░░░░   62.69 % 
-🌃 Evening                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+🌞 Morning                315 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+🌆 Daytime                1015 commits        ████████████████░░░░░░░░░   62.93 % 
+🌃 Evening                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Tuesday                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Wednesday                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Thursday                 484 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
-Friday                   100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Saturday                 74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Sunday                   366 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Tuesday                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Thursday                 485 commits         ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Friday                   100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Saturday                 74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Sunday                   375 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
 ```
 
 
@@ -198,47 +198,49 @@ Sunday                   366 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.91 % 
-Markdown                 52 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Python                   2 hrs 38 mins       ██████████████░░░░░░░░░░░   57.77 % 
+Swift                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Docker                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 23 mins       ███████████████████████░░   90.13 % 
-Cursor                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+OMP                      3 hrs 2 mins        █████████████████░░░░░░░░   66.34 % 
+Cursor                   1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Claude Code              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 
 🐱‍💻 Projects: 
-chainsentry-ai           1 hr 9 mins         ███████████░░░░░░░░░░░░░░   43.62 % 
-260804                   54 mins             █████████░░░░░░░░░░░░░░░░   34.17 % 
-agents-with-receipts     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-isc-world-model          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+atlas-agent-worker       3 hrs 9 mins        █████████████████░░░░░░░░   68.90 % 
+cmux-src                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+isc-world-model          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+260804                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+pythonProject            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (90.93%)
+⏱ AI Coding Time: 4 hrs (87.49%)
 
-✍️ 973 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 37 lines written by AI, 6 lines written by hand (86.05% AI-written)
 
-🔤 58,052,371 Input Tokens, 200,628 Output Tokens
+🔤 37,248,675 Input Tokens, 150,972 Output Tokens
 
-💵 $587.86 Estimated AI Cost This Week
+💵 $397.51 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 21 AI Prompts
+🧠 147 AI Sessions, 31 AI Prompts
 
-Fable                    988 lines           █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    22 lines            ███████████████░░░░░░░░░░   59.46 % 
+Composer                 15 lines            ██████████░░░░░░░░░░░░░░░   40.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 29 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 86.05% of written lines came from AI
+📄 Detailed Prompter — average 807 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🚀 High AI Trust — 13.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -258,7 +260,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 22:51:04 UTC
+ Last Updated on 13/08/2026 22:45:54 UTC
 <!--END_SECTION:waka-->
 
 <br/>
