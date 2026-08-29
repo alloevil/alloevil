@@ -106,11 +106,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warp 如何让 Agent 自我进化](https://baoyu.io/blog/2026-08-28/warp-self-improving-agents)
 - [我的 AI 原生开发流程：一个真实案例的完整复盘](https://baoyu.io/blog/2026-08-24/ai-native-dev-workflow)
 - [从 TL 到 EM：我终于不再盯着 AI 写代码了](https://baoyu.io/blog/coding-agent-em-shift)
 - [关于 Agent 的几个判断](https://baoyu.io/blog/2026-07-28/agent-judgments)
 - [“母病速归”式 AI：号称省 65% Token，实测只有 8.5%](https://baoyu.io/blog/2026-07-12/caveman-token-saving-test)
-- [一文看懂ChatGPT、Codex、Work 的差别](https://baoyu.io/blog/chatgpt-work-codex-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Tech Stack
