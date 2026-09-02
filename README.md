@@ -153,17 +153,17 @@
 <img align="right" alt="coding cat" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C688%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-375%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 107.9 kB Used in GitHub's Storage 
+> 📦 108.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,055 Contributions in the Year 2026
+> 🏆 1,069 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -174,21 +174,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                982 commits         ██████████░░░░░░░░░░░░░░░   40.28 % 
-🌆 Daytime                1170 commits        ████████████░░░░░░░░░░░░░   47.99 % 
-🌃 Evening                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+🌞 Morning                1300 commits        ███████████░░░░░░░░░░░░░░   45.89 % 
+🌆 Daytime                1209 commits        ███████████░░░░░░░░░░░░░░   42.68 % 
+🌃 Evening                312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   796 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Tuesday                  189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Wednesday                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Thursday                 506 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Friday                   163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Saturday                 64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Sunday                   535 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Monday                   1098 commits        ██████████░░░░░░░░░░░░░░░   38.76 % 
+Tuesday                  200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Wednesday                185 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Thursday                 541 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Friday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Sunday                   564 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 
 
@@ -198,53 +198,50 @@ Sunday                   535 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Python                   3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-Other                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-YAML                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-TypeScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Markdown                 3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.83 % 
+Python                   2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Bash                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-OMP                      6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-Claude Code              4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Cursor                   2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Unknown Editor           1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Agent                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+OMP                      4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
+Claude Code              3 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+Cursor                   2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Agent                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-isc-world-model          6 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
-codeblast                2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-agent-harness-evals      2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-openclaw-changelog       1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Unknown Project          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+isc-world-model          7 hrs               ███████████████░░░░░░░░░░   61.71 % 
+codeblast                3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.74 % 
+tmp                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+sgp                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+skill                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Linux                    15 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 27 mins (98.78%)
+⏱ AI Coding Time: 10 hrs 33 mins (92.97%)
 
-✍️ 2,241 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,281 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 122,126,022 Input Tokens, 708,752 Output Tokens
+🔤 96,227,687 Input Tokens, 425,574 Output Tokens
 
-💵 $1198.24 Estimated AI Cost This Week
+💵 $1106.12 Estimated AI Cost This Week
 
-🧠 737 AI Sessions, 274 AI Prompts
+🧠 326 AI Sessions, 207 AI Prompts
 
-Fable                    1,291 lines         ██████████████░░░░░░░░░░░   57.53 % 
-Composer                 953 lines           ███████████░░░░░░░░░░░░░░   42.47 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 947 lines           ██████████████████░░░░░░░   73.75 % 
+Fable                    337 lines           ███████░░░░░░░░░░░░░░░░░░   26.25 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 291 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📄 Detailed Prompter — average 653 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -265,7 +262,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 01:36:25 UTC
+ Last Updated on 02/09/2026 01:25:47 UTC
 <!--END_SECTION:waka-->
 
 <br/>
