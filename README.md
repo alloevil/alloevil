@@ -36,44 +36,22 @@
 <tr>
 <td width="50%">
 
-### 📄 AI-Paper-Daily
-> Daily paper discovery for AI Agent, RAG, Knowledge Graph
+### 💥 codeblast
+> Know what breaks before you merge — mutation-tested code graph with architecture, change & impact maps
 
-`python` `ai` `llm` `paper` `rag` `agent`
+`typescript` `call-graph` `impact-analysis` `blast-radius`
 
-[→ Explore](https://github.com/alloevil/AI-Paper-Daily)
-
-</td>
-<td width="50%">
-
-### 📖 Agent Engineering Book
-> Building Reliable AI Agents: From Reasoning to Production
-
-`ai-agent` `engineering` `llm` `guide`
-
-[→ Explore](https://github.com/alloevil/agent-engineering-book)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗺️ Foodmap
-> Scrape food blogger posts, identify restaurant locations, extract recommended dishes with AI, generate interactive maps
-
-`python` `web-scraping` `ai` `map` `geolocation`
-
-[→ Explore](https://github.com/alloevil/foodmap)
+[→ Explore](https://github.com/alloevil/codeblast)
 
 </td>
 <td width="50%">
 
-### 🧠 ai-mastery
-> From linear algebra to LLMs — a systematic journey through AI math foundations
+### 🩻 dsh-xray
+> X-ray for your DeepSeek Harness: context-tax attribution, entry inspection, dependency cascades
 
-`python` `ai` `mathematics` `machine-learning`
+`javascript` `llm-observability` `diagnostics` `agent-tools`
 
-[→ Explore](https://github.com/alloevil/ai-mastery)
+[→ Explore](https://github.com/alloevil/dsh-xray)
 
 </td>
 </tr>
@@ -81,21 +59,43 @@
 <td width="50%">
 
 ### 🔬 AgentXRay
-> Web dashboard for viewing AI agent session logs
+> Web dashboard for AI agent session logs — OpenClaw, Codex, Claude Code
 
-`html` `ai-agent` `dashboard` `debugging`
+`javascript` `ai-agent` `dashboard` `debugging`
 
 [→ Explore](https://github.com/alloevil/AgentXRay)
 
 </td>
 <td width="50%">
 
-### 📋 Agent Changelog
-> OpenClaw release changelog — synced from GitHub releases
+### 🧪 deepresearch-arms-lab
+> 14-arm ablation of deep research pipelines on a weak base model — honest negative results, n=15 re-validation
 
-`javascript` `changelog` `ai-agent` `openclaw`
+`agent` `benchmark` `ablation-study` `llm-evaluation`
 
-[→ Explore](https://github.com/alloevil/agent-changelog)
+[→ Explore](https://github.com/alloevil/deepresearch-arms-lab)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 weibo-chat-auto
+> 微博群聊消息自动归档 · 原生桌面应用 + 本地可视化查看器，含 AI 每日摘要与 Agentic 问答
+
+`javascript` `tauri` `archiver` `ai-summary`
+
+[→ Explore](https://github.com/alloevil/weibo-chat-auto)
+
+</td>
+<td width="50%">
+
+### ⏱️ agent-tool-benchmark
+> Hands-on, reproducible benchmarks of AI agent tooling — same machine, same tasks, numbers on every claim
+
+`shell` `benchmark` `agent-tools` `reproducible`
+
+[→ Explore](https://github.com/alloevil/agent-tool-benchmark)
 
 </td>
 </tr>
@@ -154,18 +154,7 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs%2021%20mins-blue?style=flat)
-**🐱 My GitHub Data** 
 
-> 📦 109.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1,069 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 143 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -225,12 +214,6 @@ JavaScript               8 repos             █████░░░░░░�
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/alloevil/alloevil/main/assets/bar_graph.png)
 
 
  Last Updated on 03/09/2026 01:35:36 UTC
