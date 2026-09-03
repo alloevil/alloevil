@@ -103,7 +103,7 @@
 
 <br/>
 
-## 📝 Latest Blog Posts
+## 📚 Recently Reading
 
 <!-- BLOG-POST-LIST:START -->
 - [高效商业智能体的架构剖析指南](https://baoyu.io/translations/2026-09-02/the-anatomy-of-effective-commerce-agents)
@@ -154,11 +154,6 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs%2021%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2018%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 109.2 kB Used in GitHub's Storage 
@@ -219,30 +214,6 @@ tmp                      7 mins              ░░░░░░░░░░░�
 
 💻 Operating System: 
 Linux                    8 hrs 59 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 21 mins (92.95%)
-
-✍️ 1,249 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 94,732,565 Input Tokens, 405,747 Output Tokens
-
-💵 $1085.35 Estimated AI Cost This Week
-
-🧠 318 AI Sessions, 178 AI Prompts
-
-Composer                 947 lines           ███████████████████░░░░░░   75.64 % 
-Fable                    305 lines           ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
