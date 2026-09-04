@@ -40,6 +40,11 @@ mutation run; paired-eval: a mutation ratchet on the statistics).
 <summary>Reading lately</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [高效电商 AI 智能体解剖指南 | 选自 Anthropic 的 Claude 博客](https://baoyu.io/translations/2026-09-02/the-anatomy-of-effective-commerce-agents)
+- [AI 原生思维——像训练大模型一样训练自己](https://baoyu.io/blog/2026-08-31/ai-native-thinking)
+- [Warp 如何让 Agent 自我进化](https://baoyu.io/blog/2026-08-28/warp-self-improving-agents)
+- [我的 AI 原生开发流程：一个真实案例的完整复盘](https://baoyu.io/blog/2026-08-24/ai-native-dev-workflow)
+- [从 TL 到 EM：我终于不再盯着 AI 写代码了](https://baoyu.io/blog/coding-agent-em-shift)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
