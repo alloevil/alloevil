@@ -52,5 +52,72 @@ mutation run; paired-eval: a mutation ratchet on the statistics).
 <summary>Coding activity</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C690%20hrs%2021%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1600 commits        █████████████░░░░░░░░░░░░   51.23 % 
+🌆 Daytime                1237 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌃 Evening                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1408 commits        ███████████░░░░░░░░░░░░░░   45.08 % 
+Tuesday                  182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Wednesday                183 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Thursday                 527 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Sunday                   578 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   4 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
+Bash                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+
+🔥 Editors: 
+OMP                      5 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.14 % 
+Cursor                   2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Claude Code              2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Agent                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+
+🐱‍💻 Projects: 
+isc-world-model          4 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.14 % 
+llm-benchmarks-tracker   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+codeblast                1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+openclaw-changelog       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+ax                       29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+
+💻 Operating System: 
+Linux                    10 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            █████████░░░░░░░░░░░░░░░░   34.21 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+
+
+
+
+ Last Updated on 05/09/2026 01:15:29 UTC
 <!--END_SECTION:waka-->
 </details>
