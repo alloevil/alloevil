@@ -135,14 +135,16 @@
 
 > These cards are rendered daily from the tools' own outputs — a real repo's dependency graph, the latest mutation-testing run, a real session's per-turn ledger. Same numbers as the tools print.
 
-<p align="center">
-  <a href="https://alloevil.github.io/codeblast/"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/archmap-card.svg" width="49%" alt="codeblast architecture map — module dependencies with circular dependencies in red" /></a>
-  <a href="https://github.com/alloevil/codeblast/tree/main/eval"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/recall-card.svg" width="49%" alt="codeblast mutation-tested recall" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alloevil/AgentXRay"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/ledger-card.svg" width="80%" alt="AgentXRay per-turn ledger — time, tokens per step" /></a>
-</p>
+<table align="center"><tr>
+<td valign="top" width="420">
+<a href="https://alloevil.github.io/codeblast/"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/archmap-card.svg" width="420" alt="codeblast architecture map — module dependencies, circular dependencies in red" /></a>
+</td>
+<td valign="top" width="480">
+<a href="https://github.com/alloevil/codeblast/tree/main/eval"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/recall-card.svg" width="480" alt="codeblast mutation-tested recall" /></a>
+<br/><br/>
+<a href="https://github.com/alloevil/AgentXRay"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/ledger-card.svg" width="480" alt="AgentXRay per-turn ledger — time and tokens per step" /></a>
+</td>
+</tr></table>
 
 <br/>
 

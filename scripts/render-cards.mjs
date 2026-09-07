@@ -62,9 +62,9 @@ function archmapCard() {
   const weight = new Map(data.modEdges.map((e) => [`${e.src}→${e.dst}`, e.w]));
   const files = new Map(data.modules.map((mod) => [mod.name, mod.files]));
 
-  const W = 560, H = 420, top = 48, pad = 16;
-  const sx = (W - 2 * pad) / L.width, sy = (H - top - pad) / L.height, s = Math.min(sx, sy);
-  const ox = pad + ((W - 2 * pad) - L.width * s) / 2, oy = top + ((H - top - pad) - L.height * s) / 2;
+  const W = 420, H = 420, top = 48, pad = 16, foot = 22;
+  const sx = (W - 2 * pad) / L.width, sy = (H - top - pad - foot) / L.height, s = Math.min(sx, sy);
+  const ox = pad + ((W - 2 * pad) - L.width * s) / 2, oy = top + ((H - top - pad - foot) - L.height * s) / 2;
   const X = (x) => (ox + x * s).toFixed(1), Y = (y) => (oy + y * s).toFixed(1);
 
   let edges = '';
@@ -80,17 +80,17 @@ function archmapCard() {
     const label = n.id;
     const fw = n.w * s, fh = n.h * s;
     // Monospace glyph ≈ 0.62em wide: shrink the label until it fits inside the box with 6px padding.
-    const fs = Math.max(7.5, Math.min(11, (fw - 12) / (label.length * 0.62)));
+    const fs = Math.max(7, Math.min(11, (fw - 8) / (label.length * 0.66)));
     nodes += `<g class="node"><rect x="${X(n.x)}" y="${Y(n.y)}" width="${fw.toFixed(1)}" height="${fh.toFixed(1)}" rx="5" fill="${C.bg}" stroke="${C.blue}" stroke-opacity="0.7"/>
 <text x="${(ox + (n.x + n.w / 2) * s).toFixed(1)}" y="${(oy + (n.y + n.h / 2) * s - 3).toFixed(1)}" text-anchor="middle" font-size="${fs.toFixed(1)}" font-weight="600">${esc(label)}</text>
 <text x="${(ox + (n.x + n.w / 2) * s).toFixed(1)}" y="${(oy + (n.y + n.h / 2) * s + 10).toFixed(1)}" text-anchor="middle" font-size="8.5" class="muted">${files.get(n.id) ?? '?'} files</text></g>`;
   }
-  const legend = `<g font-size="10" class="muted"><line x1="${W - 190}" y1="${H - 12}" x2="${W - 170}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="5 4" stroke-width="2"/><text x="${W - 164}" y="${H - 9}">circular dependency</text><text x="16" y="${H - 9}">${L.nodes.length} modules · ${L.edges.length} edges · every edge has file:line evidence</text></g>`;
+  const legend = `<g font-size="10" class="muted"><text x="16" y="${H - 9}">${L.nodes.length} modules · ${L.edges.length} edges · file:line on each</text><line x1="${W - 140}" y1="${H - 12}" x2="${W - 122}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="5 4" stroke-width="2"/><text x="${W - 116}" y="${H - 9}">circular dep.</text></g>`;
   const defs = `<defs><marker id="arrG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="${C.muted}"/></marker><marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="${C.red}"/></marker></defs>`;
   // Base rules describe the finished picture; only the keyframes hide things. A renderer that
   // ignores CSS animation (raster previews, some RSS readers) therefore shows the complete map.
   const css = `.edge { animation: draw 1.6s ease-out both; } .edge.cyc { animation: fade 1.2s ease-out both; } @keyframes draw { from { stroke-dasharray: 1000; stroke-dashoffset: 1000; } to { stroke-dasharray: 1000; stroke-dashoffset: 0; } } @keyframes fade { from { opacity: 0 } to { opacity: 1 } } .node { animation: fade 0.6s ease-out both; }`;
-  return frame(W, H, 'codeblast · architecture map', `deterministic, from the AST · ${data.generated.slice(0, 10)}`, defs + edges + nodes + legend, css);
+  return frame(W, H, 'codeblast · architecture map', data.generated.slice(0, 10), defs + edges + nodes + legend, css);
 }
 
 // ---------- 2. recall card ----------
@@ -154,18 +154,19 @@ function ledgerCard() {
     rows = pure.buildTurnLedger(synthetic).rows;
     rowWord = 'step';
   }
-  rows = rows.slice(0, 7);
-  const W = 560, H = 60 + rows.length * 26 + 30;
+  rows = rows.slice(0, 4);
+  const W = 480, H = 200;
   const maxMs = Math.max(...rows.map((r) => r.durationMs), 1);
   const maxTok = Math.max(...rows.map((r) => r.inputTokens + r.outputTokens + r.cacheReadTokens + r.cacheWriteTokens), 1);
   const maxCost = Math.max(...rows.map((r) => r.cost), 0);
   const hasCost = maxCost > 0;
-  const colT = 250, colK = 355, colC = 460, bw = 90;
+  const colT = hasCost ? 200 : 230, colK = hasCost ? 295 : 355, colC = 390, bw = hasCost ? 75 : 90;
   let body = `<g font-size="10" class="muted"><text x="16" y="56">${rowWord}</text><text x="${colT}" y="56">time</text><text x="${colK}" y="56">tokens</text>${hasCost ? `<text x="${colC}" y="56">cost</text>` : ''}</g>`;
   rows.forEach((r, i) => {
     const y = 76 + i * 26;
     const tok = r.inputTokens + r.outputTokens + r.cacheReadTokens + r.cacheWriteTokens;
-    const label = (r.toolErrors ? '✕ ' : '') + r.text.slice(0, 30) + (r.text.length > 30 ? '…' : '');
+    const maxLabel = hasCost ? 22 : 26;
+    const label = (r.toolErrors ? '✕ ' : '') + r.text.slice(0, maxLabel) + (r.text.length > maxLabel ? '…' : '');
     const bar = (x, v, max, color) => `<rect x="${x}" y="${y + 3}" width="${bw}" height="5" rx="2.5" fill="${C.border}"/><rect x="${x}" y="${y + 3}" width="${((v / max) * bw).toFixed(1)}" height="5" rx="2.5" fill="${color}" class="bar" style="transform-origin:${x}px 0;animation-delay:${(i * 0.08).toFixed(2)}s"/>`;
     body += `<text x="16" y="${y}" font-size="11">${esc(label)}</text>`
       + `<text x="${colT}" y="${y}" font-size="10" class="muted">${pure.formatDurationCompact(r.durationMs)}</text>` + bar(colT, r.durationMs, maxMs, C.amber)
@@ -175,7 +176,7 @@ function ledgerCard() {
   const platform = best.key.split('/')[0];
   body += `<text x="16" y="${H - 12}" font-size="10" class="muted">${esc(platform)} demo session · one row per ${rowWord} · same numbers as the dashboard</text>`;
   const css = `.bar { animation: grow 1s ease-out both; } @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }`;
-  return frame(W, H, 'AgentXRay · where the time and tokens went', 'per-turn ledger', body, css);
+  return frame(W, H, 'AgentXRay · per-turn ledger', 'where the time went', body, css);
 }
 
 const cards = { 'archmap-card.svg': archmapCard, 'recall-card.svg': recallCard, 'ledger-card.svg': ledgerCard };
