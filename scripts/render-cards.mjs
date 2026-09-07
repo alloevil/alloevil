@@ -67,11 +67,26 @@ function smoothPath(pts, X, Y) {
 }
 
 function archmapCard() {
-  const html = readFileSync(path.join(cbDir, 'docs', 'sgp-arch.html'), 'utf8');
+  // Tabby (Eugeny/tabby, ~60k★): 16 workspace packages, a clear hub in tabby-core.
+  const html = readFileSync(path.join(cbDir, 'docs', 'tabby-arch.html'), 'utf8');
   const m = html.match(/const DATA = (\{.*?\});\n/s);
-  if (!m) throw new Error('DATA not found in sgp-arch.html');
+  if (!m) throw new Error('DATA not found in tabby-arch.html');
   const data = JSON.parse(m[1]);
-  const L = data.layouts.__modules__;
+  // The committed layout is 2330×618 (built for a wide browser). Re-run dagre on the same
+  // module graph with a left-to-right rank direction so it fits a card; edges/nodes are unchanged.
+  const dagre = createRequire(import.meta.url)(path.join(cbDir, 'node_modules', '@dagrejs', 'dagre'));
+  const g = new dagre.graphlib.Graph();
+  g.setGraph({ rankdir: 'LR', nodesep: 14, ranksep: 46, marginx: 8, marginy: 8 });
+  g.setDefaultEdgeLabel(() => ({}));
+  for (const mod of data.modules) g.setNode(mod.name, { width: Math.max(70, mod.name.replace(/^tabby-/, '').length * 6.6 + 18), height: 30 });
+  for (const e of data.modEdges) if (e.src !== e.dst) g.setEdge(e.src, e.dst);
+  dagre.layout(g);
+  const gd = g.graph();
+  const L = {
+    width: gd.width, height: gd.height,
+    nodes: g.nodes().map((id) => { const n = g.node(id); return { id, x: n.x - n.width / 2, y: n.y - n.height / 2, w: n.width, h: n.height }; }),
+    edges: data.modEdges.filter((e) => e.src !== e.dst).map((e) => ({ src: e.src, dst: e.dst, points: g.edge(e.src, e.dst)?.points ?? [] })),
+  };
   const cyclic = new Set(data.modEdges.filter((e) => e.cyclic).map((e) => `${e.src}→${e.dst}`));
   const weight = new Map(data.modEdges.map((e) => [`${e.src}→${e.dst}`, e.w]));
   const files = new Map(data.modules.map((mod) => [mod.name, mod.files]));
@@ -80,7 +95,7 @@ function archmapCard() {
   const maxFan = Math.max(1, ...fanIn.values());
   const maxW = Math.max(1, ...weight.values());
 
-  const W = 560, H = 500, top = 48, pad = 18;
+  const W = 560, H = 440, top = 48, pad = 18;
   const sx = (W - 2 * pad) / L.width, sy = (H - top - pad - 16) / L.height, s = Math.min(sx, sy);
   const ox = pad + ((W - 2 * pad) - L.width * s) / 2, oy = top + ((H - top - pad) - L.height * s) / 2;
   const X = (x) => (ox + x * s).toFixed(1), Y = (y) => (oy + y * s).toFixed(1);
@@ -101,29 +116,28 @@ function archmapCard() {
 
   let nodes = '';
   for (const n of L.nodes) {
-    const label = n.id;
+    const label = n.id.replace(/^tabby-/, '');
     const sub = `${files.get(n.id) ?? '?'} files${fanIn.get(n.id) ? ` · ${fanIn.get(n.id)} in` : ''}`;
     const t = (fanIn.get(n.id) || 0) / maxFan;
     const stroke = hubColor(t);
-    // Box sized to its text at fixed type sizes (10.5 / 8.5 px), never below the scaled dagre box,
-    // centred on dagre's centre so edge endpoints still land on it.
-    const fw = Math.max(n.w * s, label.length * 6.6 + 16, sub.length * 5.3 + 16);
-    const fh = Math.max(n.h * s, 34);
+    const fw = Math.max(n.w * s, label.length * 6.2 + 14, sub.length * 4.9 + 14);
+    const fh = Math.max(n.h * s, 30);
     const cx = ox + (n.x + n.w / 2) * s, cy = oy + (n.y + n.h / 2) * s;
     nodes += `<g class="node">
 <rect x="${(cx - fw / 2).toFixed(1)}" y="${(cy - fh / 2).toFixed(1)}" width="${fw.toFixed(1)}" height="${fh.toFixed(1)}" rx="6" fill="url(#nodeGrad)" stroke="${stroke}" stroke-width="${(1 + 1.2 * t).toFixed(1)}" ${t > 0.6 ? 'filter="url(#glow)"' : ''}/>
-<text x="${cx.toFixed(1)}" y="${(cy - 3).toFixed(1)}" text-anchor="middle" font-size="10.5" font-weight="600">${esc(label)}</text>
-<text x="${cx.toFixed(1)}" y="${(cy + 10).toFixed(1)}" text-anchor="middle" font-size="8.5" class="muted">${esc(sub)}</text></g>`;
+<text x="${cx.toFixed(1)}" y="${(cy - 2.5).toFixed(1)}" text-anchor="middle" font-size="9.8" font-weight="600">${esc(label)}</text>
+<text x="${cx.toFixed(1)}" y="${(cy + 9).toFixed(1)}" text-anchor="middle" font-size="7.8" class="muted">${esc(sub)}</text></g>`;
   }
+  const hasCycle = L.edges.some((e) => cyclic.has(`${e.src}→${e.dst}`));
   const legend = `<g font-size="10" class="muted">
-<text x="16" y="${H - 9}">${L.nodes.length} modules · ${L.edges.length} import edges · arrows point down · width = imports · glow = hub</text>
-<line x1="${W - 64}" y1="${H - 12}" x2="${W - 48}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="6 5" stroke-width="2"/><text x="${W - 43}" y="${H - 9}">cycle</text></g>`;
+<text x="16" y="${H - 9}">Eugeny/tabby (60k★) · ${L.nodes.length} packages · ${L.edges.length} import edges · width = imports · glow = hub</text>
+${hasCycle ? `<line x1="${W - 64}" y1="${H - 12}" x2="${W - 48}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="6 5" stroke-width="2"/><text x="${W - 43}" y="${H - 9}">cycle</text>` : ''}</g>`;
   const defs = `<defs>
 <linearGradient id="nodeGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c2230"/><stop offset="1" stop-color="${C.bg}"/></linearGradient>
 <filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>`;
   const css = `.edge { animation: draw 1.8s ease-out both; } .edge.cyc { animation: fade 1.4s ease-out both; } @keyframes draw { from { stroke-dasharray: 1200; stroke-dashoffset: 1200; } to { stroke-dasharray: 1200; stroke-dashoffset: 0; } } @keyframes fade { from { opacity: 0 } to { opacity: 1 } } .node { animation: fade 0.7s ease-out both; }`;
-  return frame(W, H, 'codeblast · architecture map', `deterministic, from the AST · ${data.generated.slice(0, 10)}`, defs + edges + nodes + legend, css);
+  return frame(W, H, 'codeblast · Tabby architecture', `from tsc, not a model · ${data.generated.slice(0, 10)}`, defs + edges + nodes + legend, css);
 }
 
 // ---------- 2. recall card ----------

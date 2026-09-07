@@ -1,7 +1,7 @@
 name: render cards
 
 # Regenerates the three profile cards from the real project outputs:
-#   archmap-card.svg — codeblast module map (sgp showcase, dagre coordinates reused)
+#   archmap-card.svg — codeblast module map of Tabby (60k★), dagre relayout of the committed graph
 #   recall-card.svg  — codeblast mutation-testing recall from eval/mutation-*.json
 #   ledger-card.svg  — AgentXRay per-turn ledger on a demo session
 # Output lands on the `output` branch next to the contribution snake, so README
