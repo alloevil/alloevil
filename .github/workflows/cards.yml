@@ -34,7 +34,10 @@ jobs:
         with:
           repository: alloevil/AgentXRay
           path: deps/agentxray
-      # ledger card reuses AgentXRay's own bundled helpers (public/js/pure.js is committed)
+      # archmap card re-runs dagre from codeblast's node_modules; ledger card reuses
+      # AgentXRay's committed public/js/pure.js, so only codeblast needs an install.
+      - uses: oven-sh/setup-bun@v2
+      - run: cd deps/codeblast && bun install --frozen-lockfile
       - run: node scripts/render-cards.mjs deps/codeblast deps/agentxray dist
       # Keep the snake: fetch what is already on the output branch, then overlay the cards.
       - name: Keep the snake from the output branch
