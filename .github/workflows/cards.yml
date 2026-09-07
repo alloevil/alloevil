@@ -37,12 +37,12 @@ jobs:
       # ledger card reuses AgentXRay's own bundled helpers (public/js/pure.js is committed)
       - run: node scripts/render-cards.mjs deps/codeblast deps/agentxray dist
       # Keep the snake: fetch what is already on the output branch, then overlay the cards.
-      - name: Merge with existing output branch
+      - name: Keep the snake from the output branch
         run: |
-          git fetch origin output:refs/remotes/origin/output || true
-          mkdir -p merged
-          git --work-tree=merged checkout origin/output -- . 2>/dev/null || true
-          cp dist/*.svg merged/
+          git init -q merged && cd merged
+          git fetch -q --depth 1 https://github.com/${{ github.repository }} output && git checkout -q FETCH_HEAD -- . || true
+          rm -rf .git
+          cp ../dist/*.svg .
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
