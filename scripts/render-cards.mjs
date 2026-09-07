@@ -52,6 +52,20 @@ ${body}
 }
 
 // ---------- 1. archmap card ----------
+// Quadratic curves through segment midpoints: dagre's polyline points become control
+// points, so the curve stays inside the polyline's hull — smooth corners, no overshoot.
+function smoothPath(pts, X, Y) {
+  if (pts.length < 3) return pts.map((p, j) => `${j ? 'L' : 'M'}${X(p.x)} ${Y(p.y)}`).join(' ');
+  let d = `M${X(pts[0].x)} ${Y(pts[0].y)}`;
+  for (let i = 1; i < pts.length - 1; i++) {
+    const mx = (pts[i].x + pts[i + 1].x) / 2, my = (pts[i].y + pts[i + 1].y) / 2;
+    d += ` Q${X(pts[i].x)} ${Y(pts[i].y)} ${X(mx)} ${Y(my)}`;
+  }
+  const last = pts[pts.length - 1];
+  d += ` L${X(last.x)} ${Y(last.y)}`;
+  return d;
+}
+
 function archmapCard() {
   const html = readFileSync(path.join(cbDir, 'docs', 'sgp-arch.html'), 'utf8');
   const m = html.match(/const DATA = (\{.*?\});\n/s);
@@ -61,36 +75,55 @@ function archmapCard() {
   const cyclic = new Set(data.modEdges.filter((e) => e.cyclic).map((e) => `${e.src}→${e.dst}`));
   const weight = new Map(data.modEdges.map((e) => [`${e.src}→${e.dst}`, e.w]));
   const files = new Map(data.modules.map((mod) => [mod.name, mod.files]));
+  const fanIn = new Map();
+  for (const e of data.modEdges) fanIn.set(e.dst, (fanIn.get(e.dst) || 0) + e.w);
+  const maxFan = Math.max(1, ...fanIn.values());
+  const maxW = Math.max(1, ...weight.values());
 
-  const W = 420, H = 420, top = 48, pad = 16, foot = 22;
-  const sx = (W - 2 * pad) / L.width, sy = (H - top - pad - foot) / L.height, s = Math.min(sx, sy);
-  const ox = pad + ((W - 2 * pad) - L.width * s) / 2, oy = top + ((H - top - pad - foot) - L.height * s) / 2;
+  const W = 560, H = 500, top = 48, pad = 18;
+  const sx = (W - 2 * pad) / L.width, sy = (H - top - pad - 16) / L.height, s = Math.min(sx, sy);
+  const ox = pad + ((W - 2 * pad) - L.width * s) / 2, oy = top + ((H - top - pad) - L.height * s) / 2;
   const X = (x) => (ox + x * s).toFixed(1), Y = (y) => (oy + y * s).toFixed(1);
 
+  // Edge colour = destination's fan-in (blue → purple as it becomes a hub); cycles red.
+  const hubColor = (t) => `hsl(${(215 - 60 * t).toFixed(0)} 85% ${(66 - 8 * t).toFixed(0)}%)`;
+
   let edges = '';
-  L.edges.forEach((e, i) => {
+  const sorted = [...L.edges].sort((a, b) => (cyclic.has(`${a.src}→${a.dst}`) ? 1 : 0) - (cyclic.has(`${b.src}→${b.dst}`) ? 1 : 0));
+  sorted.forEach((e, i) => {
     const key = `${e.src}→${e.dst}`;
-    const d = e.points.map((p, j) => `${j ? 'L' : 'M'}${X(p.x)} ${Y(p.y)}`).join(' ');
     const cyc = cyclic.has(key);
-    const w = Math.min(3, 0.8 + Math.log2(1 + (weight.get(key) || 1)) * 0.5);
-    edges += `<path d="${d}" fill="none" stroke="${cyc ? C.red : C.muted}" stroke-width="${w.toFixed(1)}" ${cyc ? 'stroke-dasharray="5 4"' : ''} class="edge${cyc ? ' cyc' : ''}" style="animation-delay:${(i * 0.12).toFixed(2)}s" marker-end="url(#arr${cyc ? 'R' : 'G'})"/>`;
+    const w = weight.get(key) || 1;
+    const sw = (0.9 + 2.2 * Math.sqrt(w / maxW)).toFixed(1);
+    const color = cyc ? C.red : hubColor((fanIn.get(e.dst) || 0) / maxFan);
+    edges += `<path d="${smoothPath(e.points, X, Y)}" fill="none" stroke="${color}" stroke-width="${sw}" stroke-opacity="${cyc ? 0.95 : 0.7}" stroke-linecap="round" ${cyc ? 'stroke-dasharray="6 5"' : ''} class="edge${cyc ? ' cyc' : ''}" style="animation-delay:${(i * 0.07).toFixed(2)}s"/>`;
   });
+
   let nodes = '';
   for (const n of L.nodes) {
     const label = n.id;
-    const fw = n.w * s, fh = n.h * s;
-    // Monospace glyph ≈ 0.62em wide: shrink the label until it fits inside the box with 6px padding.
-    const fs = Math.max(7, Math.min(11, (fw - 8) / (label.length * 0.66)));
-    nodes += `<g class="node"><rect x="${X(n.x)}" y="${Y(n.y)}" width="${fw.toFixed(1)}" height="${fh.toFixed(1)}" rx="5" fill="${C.bg}" stroke="${C.blue}" stroke-opacity="0.7"/>
-<text x="${(ox + (n.x + n.w / 2) * s).toFixed(1)}" y="${(oy + (n.y + n.h / 2) * s - 3).toFixed(1)}" text-anchor="middle" font-size="${fs.toFixed(1)}" font-weight="600">${esc(label)}</text>
-<text x="${(ox + (n.x + n.w / 2) * s).toFixed(1)}" y="${(oy + (n.y + n.h / 2) * s + 10).toFixed(1)}" text-anchor="middle" font-size="8.5" class="muted">${files.get(n.id) ?? '?'} files</text></g>`;
+    const sub = `${files.get(n.id) ?? '?'} files${fanIn.get(n.id) ? ` · ${fanIn.get(n.id)} in` : ''}`;
+    const t = (fanIn.get(n.id) || 0) / maxFan;
+    const stroke = hubColor(t);
+    // Box sized to its text at fixed type sizes (10.5 / 8.5 px), never below the scaled dagre box,
+    // centred on dagre's centre so edge endpoints still land on it.
+    const fw = Math.max(n.w * s, label.length * 6.6 + 16, sub.length * 5.3 + 16);
+    const fh = Math.max(n.h * s, 34);
+    const cx = ox + (n.x + n.w / 2) * s, cy = oy + (n.y + n.h / 2) * s;
+    nodes += `<g class="node">
+<rect x="${(cx - fw / 2).toFixed(1)}" y="${(cy - fh / 2).toFixed(1)}" width="${fw.toFixed(1)}" height="${fh.toFixed(1)}" rx="6" fill="url(#nodeGrad)" stroke="${stroke}" stroke-width="${(1 + 1.2 * t).toFixed(1)}" ${t > 0.6 ? 'filter="url(#glow)"' : ''}/>
+<text x="${cx.toFixed(1)}" y="${(cy - 3).toFixed(1)}" text-anchor="middle" font-size="10.5" font-weight="600">${esc(label)}</text>
+<text x="${cx.toFixed(1)}" y="${(cy + 10).toFixed(1)}" text-anchor="middle" font-size="8.5" class="muted">${esc(sub)}</text></g>`;
   }
-  const legend = `<g font-size="10" class="muted"><text x="16" y="${H - 9}">${L.nodes.length} modules · ${L.edges.length} edges · file:line on each</text><line x1="${W - 140}" y1="${H - 12}" x2="${W - 122}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="5 4" stroke-width="2"/><text x="${W - 116}" y="${H - 9}">circular dep.</text></g>`;
-  const defs = `<defs><marker id="arrG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="${C.muted}"/></marker><marker id="arrR" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="${C.red}"/></marker></defs>`;
-  // Base rules describe the finished picture; only the keyframes hide things. A renderer that
-  // ignores CSS animation (raster previews, some RSS readers) therefore shows the complete map.
-  const css = `.edge { animation: draw 1.6s ease-out both; } .edge.cyc { animation: fade 1.2s ease-out both; } @keyframes draw { from { stroke-dasharray: 1000; stroke-dashoffset: 1000; } to { stroke-dasharray: 1000; stroke-dashoffset: 0; } } @keyframes fade { from { opacity: 0 } to { opacity: 1 } } .node { animation: fade 0.6s ease-out both; }`;
-  return frame(W, H, 'codeblast · architecture map', data.generated.slice(0, 10), defs + edges + nodes + legend, css);
+  const legend = `<g font-size="10" class="muted">
+<text x="16" y="${H - 9}">${L.nodes.length} modules · ${L.edges.length} import edges · arrows point down · width = imports · glow = hub</text>
+<line x1="${W - 64}" y1="${H - 12}" x2="${W - 48}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="6 5" stroke-width="2"/><text x="${W - 43}" y="${H - 9}">cycle</text></g>`;
+  const defs = `<defs>
+<linearGradient id="nodeGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c2230"/><stop offset="1" stop-color="${C.bg}"/></linearGradient>
+<filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>`;
+  const css = `.edge { animation: draw 1.8s ease-out both; } .edge.cyc { animation: fade 1.4s ease-out both; } @keyframes draw { from { stroke-dasharray: 1200; stroke-dashoffset: 1200; } to { stroke-dasharray: 1200; stroke-dashoffset: 0; } } @keyframes fade { from { opacity: 0 } to { opacity: 1 } } .node { animation: fade 0.7s ease-out both; }`;
+  return frame(W, H, 'codeblast · architecture map', `deterministic, from the AST · ${data.generated.slice(0, 10)}`, defs + edges + nodes + legend, css);
 }
 
 // ---------- 2. recall card ----------
