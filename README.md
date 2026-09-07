@@ -131,15 +131,17 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Evidence, Not Widgets
+
+> These cards are rendered daily from the tools' own outputs — a real repo's dependency graph, the latest mutation-testing run, a real session's per-turn ledger. Same numbers as the tools print.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alloevil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alloevil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" alt="Top Languages" />
+  <a href="https://alloevil.github.io/codeblast/"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/archmap-card.svg" width="49%" alt="codeblast architecture map — module dependencies with circular dependencies in red" /></a>
+  <a href="https://github.com/alloevil/codeblast/tree/main/eval"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/recall-card.svg" width="49%" alt="codeblast mutation-tested recall" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alloevil&theme=transparent&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=0" width="50%" alt="Streak Stats" />
+  <a href="https://github.com/alloevil/AgentXRay"><img src="https://raw.githubusercontent.com/alloevil/alloevil/output/ledger-card.svg" width="80%" alt="AgentXRay per-turn ledger — time, tokens per step" /></a>
 </p>
 
 <br/>

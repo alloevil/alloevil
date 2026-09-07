@@ -1,0 +1,51 @@
+name: render cards
+
+# Regenerates the three profile cards from the real project outputs:
+#   archmap-card.svg — codeblast module map (sgp showcase, dagre coordinates reused)
+#   recall-card.svg  — codeblast mutation-testing recall from eval/mutation-*.json
+#   ledger-card.svg  — AgentXRay per-turn ledger on a demo session
+# Output lands on the `output` branch next to the contribution snake, so README
+# embeds are stable raw.githubusercontent.com URLs.
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/render-cards.mjs", ".github/workflows/cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/checkout@v4
+        with:
+          repository: alloevil/codeblast
+          path: deps/codeblast
+      - uses: actions/checkout@v4
+        with:
+          repository: alloevil/AgentXRay
+          path: deps/agentxray
+      # ledger card reuses AgentXRay's own bundled helpers (public/js/pure.js is committed)
+      - run: node scripts/render-cards.mjs deps/codeblast deps/agentxray dist
+      # Keep the snake: fetch what is already on the output branch, then overlay the cards.
+      - name: Merge with existing output branch
+        run: |
+          git fetch origin output:refs/remotes/origin/output || true
+          mkdir -p merged
+          git --work-tree=merged checkout origin/output -- . 2>/dev/null || true
+          cp dist/*.svg merged/
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: merged
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
