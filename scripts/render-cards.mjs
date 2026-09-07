@@ -18,7 +18,7 @@ import { readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs';
 import path from 'node:path';
 import { createRequire } from 'node:module';
 
-const [cbDir, axDir, outDir] = process.argv.slice(2);
+const [cbDir, axDir, outDir] = process.argv.slice(2).map((p) => p && path.resolve(p));
 if (!cbDir || !axDir || !outDir) {
   console.error('usage: render-cards.mjs <codeblast-dir> <agentxray-dir> <out-dir>');
   process.exit(1);
