@@ -32,6 +32,8 @@
 
 ## 🔭 Featured Projects
 
+> Full index with every project, grouped by area: **[alloevil.github.io/projects](https://alloevil.github.io/projects/)**
+
 <table>
 <tr>
 <td width="50%">
