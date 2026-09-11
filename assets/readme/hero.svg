@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <!-- Hand-authored header (no committed generator); the daily card job writes archmap/recall/ledger cards, not this file. -->
   <title id="title">allo — evidence-first tooling for AI coding agents</title>
   <desc id="desc">Profile header for allo (@alloevil). A terminal prompt reads "allo@alloevil:~$ whoami"; below it the name "allo", the positioning line "Evidence-first tooling for AI coding agents" and the tagline "Don't trust the model's self-report — check it". Under a hairline rule, three marks index the tools this profile is built around: codeblast for impact analysis, paired-eval for honest evaluation, and AgentXRay for agent observability.</desc>
 

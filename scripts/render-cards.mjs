@@ -66,8 +66,14 @@ function smoothPath(pts, X, Y) {
   return d;
 }
 
+const TABBY_STARS = Number(process.env.TABBY_STARS || 0);
+const tabbyStars = TABBY_STARS > 0 ? ` (~${Math.round(TABBY_STARS / 1000)}k★)` : '';
+
 function archmapCard() {
-  // Tabby (Eugeny/tabby, ~60k★): 16 workspace packages, a clear hub in tabby-core.
+  // Tabby (Eugeny/tabby): 16 workspace packages, a clear hub in tabby-core. The star
+  // count in the legend comes from TABBY_STARS, which cards.yml fills with
+  // `gh api repos/Eugeny/tabby --jq .stargazers_count` — a hardcoded number here would
+  // be a hand-written figure the daily re-render could never correct.
   const html = readFileSync(path.join(cbDir, 'docs', 'tabby-arch.html'), 'utf8');
   const m = html.match(/const DATA = (\{.*?\});\n/s);
   if (!m) throw new Error('DATA not found in tabby-arch.html');
@@ -130,7 +136,7 @@ function archmapCard() {
   }
   const hasCycle = L.edges.some((e) => cyclic.has(`${e.src}→${e.dst}`));
   const legend = `<g font-size="10" class="muted">
-<text x="16" y="${H - 9}">Eugeny/tabby (60k★) · ${L.nodes.length} packages · ${L.edges.length} import edges · width = imports · glow = hub</text>
+<text x="16" y="${H - 9}">Eugeny/tabby${tabbyStars} · ${L.nodes.length} packages · ${L.edges.length} import edges · width = imports · glow = hub</text>
 ${hasCycle ? `<line x1="${W - 64}" y1="${H - 12}" x2="${W - 48}" y2="${H - 12}" stroke="${C.red}" stroke-dasharray="6 5" stroke-width="2"/><text x="${W - 43}" y="${H - 9}">cycle</text>` : ''}</g>`;
   const defs = `<defs>
 <linearGradient id="nodeGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c2230"/><stop offset="1" stop-color="${C.bg}"/></linearGradient>

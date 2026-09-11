@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/alloevil?tab=repositories&sort=stargazers"><img alt="🔥 Focus" src="https://img.shields.io/badge/🔥%20Focus-Evidence--first%20Agent%20Tooling-FF6B6B?style=for-the-badge&labelColor=0D1117" /></a>
   <a href="https://github.com/alloevil?tab=repositories&language=python"><img alt="🐍 Primary" src="https://img.shields.io/badge/🐍%20Primary-Python-3776AB?style=for-the-badge&labelColor=0D1117" /></a>
-  <a href="https://github.com/alloevil?tab=repositories&language=typescript"><img alt="📘 Secondary" src="https://img.shields.io/badge/📘%20Secondary-TypeScript-3178C6?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/alloevil?tab=repositories&language=javascript"><img alt="📘 Secondary" src="https://img.shields.io/badge/📘%20Secondary-JavaScript-F7DF1E?style=for-the-badge&labelColor=0D1117" /></a>
 </p>
 
 <br/>
@@ -32,14 +32,14 @@
 
 ## 🔭 Featured Projects
 
-> Full index with every project, grouped by area: **[alloevil.github.io/projects](https://alloevil.github.io/projects/)**
+> Full index of my published projects (16 so far), grouped by area: **[alloevil.github.io/projects](https://alloevil.github.io/projects/)**
 
 <table>
 <tr>
 <td width="50%">
 
 ### 💥 codeblast
-> Know what breaks before you merge — deterministic code graph with impact, change & architecture maps. Recall verified by mutation testing (tRPC, 950 files: 28/28).
+> Know what breaks before you merge — deterministic code graph with impact, change & architecture maps. Recall verified by mutation testing (tRPC, 957 files; n=30 run 2026-08-28: 28/28 killed mutants).
 
 `npx codeblast demo` &nbsp; `typescript` `impact-analysis` `agent-skill`
 
@@ -61,9 +61,9 @@
 <td width="50%">
 
 ### 🔬 AgentXRay
-> Web dashboard for AI agent session logs — Claude Code, Codex, OpenClaw, Hermes, OMP, Gemini CLI. Per-turn time / token / cost ledger.
+> Web dashboard for AI agent session logs — Claude Code, Codex, OpenClaw, Hermes, OMP, Gemini CLI. Per-step time and token ledger (cost column when the session reports cost).
 
-`npx @alloevil/agent-xray` &nbsp; `javascript` `observability` `debugging`
+`npx @alloevil/agent-xray` &nbsp; `javascript` `dashboard` `debugging`
 
 [→ Explore](https://github.com/alloevil/AgentXRay)
 
@@ -93,7 +93,7 @@
 <td width="50%">
 
 ### 🧪 deepresearch-arms-lab
-> 14-arm ablation of deep research pipelines on a weak base model — negative results left in, n=15 re-validation.
+> 14-arm ablation of deep research pipelines on a weak base model — negative results left in. Re-validated as the question set grew (n=15, then n=24); the n=15 advantage did not survive.
 
 `ablation-study` `llm-evaluation` `negative-results`
 
@@ -126,8 +126,6 @@
   <img alt="LLM" src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
   <img alt="RAG" src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logo=elastic&logoColor=white" />
   <img alt="Agent" src="https://img.shields.io/badge/Agent-F59E0B?style=flat-square&logo=robotframework&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -135,7 +133,7 @@
 
 ## 📊 Evidence, Not Widgets
 
-> These cards are rendered daily from the tools' own outputs — a real repo's dependency graph, the latest mutation-testing run, a real session's per-turn ledger. Same numbers as the tools print.
+> These cards are rendered daily from the tools' own outputs — codeblast's committed Tabby dependency graph (re-laid out for the card), the latest mutation-testing run, and a real session's per-step time/token ledger. Same numbers as the tools print.
 
 <table align="center"><tr>
 <td valign="top" width="420">
@@ -151,7 +149,7 @@
 <br/>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg" />
 </picture>

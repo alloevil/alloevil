@@ -1,7 +1,8 @@
 name: render cards
 
 # Regenerates the three profile cards from the real project outputs:
-#   archmap-card.svg — codeblast module map of Tabby (60k★), dagre relayout of the committed graph
+#   archmap-card.svg — codeblast module map of Tabby, dagre relayout of the committed graph
+#                      (star count fetched live, not hardcoded)
 #   recall-card.svg  — codeblast mutation-testing recall from eval/mutation-*.json
 #   ledger-card.svg  — AgentXRay per-turn ledger on a demo session
 # Output lands on the `output` branch next to the contribution snake, so README
@@ -38,6 +39,11 @@ jobs:
       # AgentXRay's committed public/js/pure.js, so only codeblast needs an install.
       - uses: oven-sh/setup-bun@v2
       - run: cd deps/codeblast && bun install --frozen-lockfile
+      # The legend's star count is measured, not hand-written: query it and pass it in.
+      - name: Tabby star count
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: echo "TABBY_STARS=$(gh api repos/Eugeny/tabby --jq .stargazers_count)" >> "$GITHUB_ENV"
       - run: node scripts/render-cards.mjs deps/codeblast deps/agentxray dist
       # Keep the snake: fetch what is already on the output branch, then overlay the cards.
       - name: Keep the snake from the output branch
