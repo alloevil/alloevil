@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=600&color=F7577F&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=allo;Evidence-first+tooling+for+AI+coding+agents;Don't+trust+the+model's+self-report+%E2%80%94+check+it" />
+  <img src="./assets/readme/hero.svg" width="100%" alt="allo — evidence-first tooling for AI coding agents: codeblast, paired-eval, AgentXRay">
 </p>
 
 <p align="center">
-  <a href="https://github.com/alloevil?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/🔥%20Focus-Evidence--first%20Agent%20Tooling-FF6B6B?style=for-the-badge&labelColor=0D1117" /></a>
-  <a href="https://github.com/alloevil?tab=repositories&language=python"><img src="https://img.shields.io/badge/🐍%20Primary-Python-3776AB?style=for-the-badge&labelColor=0D1117" /></a>
-  <a href="https://github.com/alloevil?tab=repositories&language=typescript"><img src="https://img.shields.io/badge/📘%20Secondary-TypeScript-3178C6?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/alloevil?tab=repositories&sort=stargazers"><img alt="🔥 Focus" src="https://img.shields.io/badge/🔥%20Focus-Evidence--first%20Agent%20Tooling-FF6B6B?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/alloevil?tab=repositories&language=python"><img alt="🐍 Primary" src="https://img.shields.io/badge/🐍%20Primary-Python-3776AB?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/alloevil?tab=repositories&language=typescript"><img alt="📘 Secondary" src="https://img.shields.io/badge/📘%20Secondary-TypeScript-3178C6?style=for-the-badge&labelColor=0D1117" /></a>
 </p>
 
 <br/>
@@ -15,11 +15,11 @@
 > Every tool here exists because an LLM told me something that turned out to be false — a diagram that was the model's opinion, a judge score that could be bluffed, a "refactor" that dropped a symbol, a benchmark number with no source. So each one replaces a claim with a check.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💥%20Impact%20Analysis-58A6FF?style=for-the-badge&labelColor=161B22" />
+  <img alt="💥 Impact Analysis" src="https://img.shields.io/badge/💥%20Impact%20Analysis-58A6FF?style=for-the-badge&labelColor=161B22" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📐%20Honest%20Evaluation-F78166?style=for-the-badge&labelColor=161B22" />
+  <img alt="📐 Honest Evaluation" src="https://img.shields.io/badge/📐%20Honest%20Evaluation-F78166?style=for-the-badge&labelColor=161B22" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🔬%20Agent%20Observability-3FB950?style=for-the-badge&labelColor=161B22" />
+  <img alt="🔬 Agent Observability" src="https://img.shields.io/badge/🔬%20Agent%20Observability-3FB950?style=for-the-badge&labelColor=161B22" />
 </p>
 
 <p align="center">
@@ -118,17 +118,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent-F59E0B?style=flat-square&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="LLM" src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logo=elastic&logoColor=white" />
+  <img alt="Agent" src="https://img.shields.io/badge/Agent-F59E0B?style=flat-square&logo=robotframework&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br/>
