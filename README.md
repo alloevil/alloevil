@@ -162,21 +162,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1860 commits        █████████████░░░░░░░░░░░░   52.74 % 
-🌆 Daytime                1380 commits        ██████████░░░░░░░░░░░░░░░   39.13 % 
-🌃 Evening                275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+🌞 Morning                1913 commits        █████████████░░░░░░░░░░░░   53.11 % 
+🌆 Daytime                1395 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌃 Evening                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+🌙 Night                  15 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1649 commits        ████████████░░░░░░░░░░░░░   46.75 % 
-Tuesday                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Wednesday                193 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Thursday                 528 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Friday                   188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Saturday                 58 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Sunday                   685 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Monday                   1702 commits        ████████████░░░░░░░░░░░░░   47.25 % 
+Tuesday                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Wednesday                193 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Thursday                 528 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   193 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Saturday                 61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Sunday                   699 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 ```
 
 
@@ -186,44 +186,42 @@ Sunday                   685 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
-Markdown                 3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-JavaScript               3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Markdown                 3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+HTML                     3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+JavaScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🔥 Editors: 
-OMP                      14 hrs 48 mins      ████████████████████░░░░░   78.61 % 
-Cursor                   2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Claude Code              1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+OMP                      9 hrs 33 mins       ███████████████░░░░░░░░░░   60.85 % 
+Cursor                   6 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.68 % 
+Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-isc-world-model          4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-wca                      2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-chainsentry-ai           2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-AgentXRay                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-llm-benchmarks-tracker   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+chainsentry-ai           2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+wca                      2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+isc-world-model          2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+dsv41-3d                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Unknown Project          1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 💻 Operating System: 
-Linux                    18 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   15 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
+JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 11/09/2026 01:53:47 UTC
+ Last Updated on 12/09/2026 02:19:32 UTC
 <!--END_SECTION:waka-->
 
 <br/>
