@@ -25,8 +25,7 @@ jobs:
     name: published numbers still reproduce
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      # No install step: every check is a stdlib-only python3 one-liner over the committed
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4  # No install step: every check is a stdlib-only python3 one-liner over the committed
       # README, workflows, scripts/ and assets/ — no node, no npm, no network — and the action
       # brings its own Python, running the tool from its own checkout.
       # The card and snake generators themselves are not run here: they need codeblast and

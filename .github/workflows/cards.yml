@@ -23,21 +23,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 22
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           repository: alloevil/codeblast
           path: deps/codeblast
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           repository: alloevil/AgentXRay
           path: deps/agentxray
       # archmap card re-runs dagre from codeblast's node_modules; ledger card reuses
       # AgentXRay's committed public/js/pure.js, so only codeblast needs an install.
-      - uses: oven-sh/setup-bun@v2
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2
       - run: cd deps/codeblast && bun install --frozen-lockfile
       # The legend's star count is measured, not hand-written: query it and pass it in.
       - name: Tabby star count
@@ -52,7 +52,7 @@ jobs:
           git fetch -q --depth 1 https://github.com/${{ github.repository }} output && git checkout -q FETCH_HEAD -- . || true
           rm -rf .git
           cp ../dist/*.svg .
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd # v3.1.0
         with:
           target_branch: output
           build_dir: merged
