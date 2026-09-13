@@ -1,0 +1,271 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of the DATA module graph committed in alloevil/codeblast's docs/tabby-arch.html - the graph this profile's archmap card re-lays out with dagre. The source file is ~425 KB, so only its DATA graph is excerpted. codeblast owns the graph; freshness is not checked.",
+  "target": "alloevil/codeblast",
+  "fetched": "2026-09-14",
+  "source": {
+    "url": "https://raw.githubusercontent.com/alloevil/codeblast/main/docs/tabby-arch.html",
+    "file": "docs/tabby-arch.html",
+    "note": "verbatim excerpt: DATA.generated, DATA.modules (name/files), DATA.modEdges (src/dst/w/cyclic)"
+  },
+  "generated": "2026-09-03 06:12",
+  "modules": [
+    {
+      "name": "tabby-core",
+      "files": 74
+    },
+    {
+      "name": "tabby-terminal",
+      "files": 39
+    },
+    {
+      "name": "tabby-electron",
+      "files": 35
+    },
+    {
+      "name": "tabby-ssh",
+      "files": 32
+    },
+    {
+      "name": "tabby-settings",
+      "files": 21
+    },
+    {
+      "name": "tabby-local",
+      "files": 18
+    },
+    {
+      "name": "app",
+      "files": 18
+    },
+    {
+      "name": "tabby-serial",
+      "files": 9
+    },
+    {
+      "name": "tabby-web",
+      "files": 8
+    },
+    {
+      "name": "tabby-telnet",
+      "files": 8
+    },
+    {
+      "name": "tabby-linkifier",
+      "files": 5
+    },
+    {
+      "name": "tabby-web-demo",
+      "files": 5
+    },
+    {
+      "name": "web",
+      "files": 4
+    },
+    {
+      "name": "tabby-plugin-manager",
+      "files": 4
+    },
+    {
+      "name": "tabby-auto-sudo-password",
+      "files": 2
+    },
+    {
+      "name": "tabby-community-color-schemes",
+      "files": 2
+    }
+  ],
+  "mod_edges": [
+    {
+      "src": "app",
+      "dst": "tabby-core",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-auto-sudo-password",
+      "dst": "tabby-ssh",
+      "w": 1,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-auto-sudo-password",
+      "dst": "tabby-terminal",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-community-color-schemes",
+      "dst": "tabby-terminal",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-electron",
+      "dst": "tabby-terminal",
+      "w": 4,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-electron",
+      "dst": "tabby-core",
+      "w": 31,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-electron",
+      "dst": "tabby-local",
+      "w": 18,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-electron",
+      "dst": "tabby-ssh",
+      "w": 3,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-electron",
+      "dst": "app",
+      "w": 1,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-linkifier",
+      "dst": "tabby-terminal",
+      "w": 4,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-linkifier",
+      "dst": "tabby-core",
+      "w": 4,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-local",
+      "dst": "tabby-terminal",
+      "w": 4,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-local",
+      "dst": "tabby-core",
+      "w": 14,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-local",
+      "dst": "tabby-settings",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-plugin-manager",
+      "dst": "tabby-core",
+      "w": 3,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-plugin-manager",
+      "dst": "tabby-settings",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-plugin-manager",
+      "dst": "app",
+      "w": 1,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-serial",
+      "dst": "tabby-core",
+      "w": 9,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-serial",
+      "dst": "tabby-terminal",
+      "w": 3,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-settings",
+      "dst": "tabby-core",
+      "w": 18,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-ssh",
+      "dst": "tabby-core",
+      "w": 23,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-ssh",
+      "dst": "tabby-terminal",
+      "w": 5,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-ssh",
+      "dst": "tabby-settings",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-telnet",
+      "dst": "tabby-core",
+      "w": 8,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-telnet",
+      "dst": "tabby-terminal",
+      "w": 3,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-terminal",
+      "dst": "tabby-core",
+      "w": 31,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-terminal",
+      "dst": "tabby-settings",
+      "w": 2,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-web-demo",
+      "dst": "tabby-core",
+      "w": 4,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-web-demo",
+      "dst": "tabby-terminal",
+      "w": 3,
+      "cyclic": false
+    },
+    {
+      "src": "tabby-web",
+      "dst": "tabby-core",
+      "w": 8,
+      "cyclic": false
+    },
+    {
+      "src": "web",
+      "dst": "app",
+      "w": 1,
+      "cyclic": false
+    },
+    {
+      "src": "web",
+      "dst": "tabby-core",
+      "w": 1,
+      "cyclic": false
+    }
+  ]
+}

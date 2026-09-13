@@ -1,0 +1,77 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of alloevil/deepresearch-arms-lab's experiment record: the arms with committed per-question results, the n=24 extended question set, and the EXPERIMENTS.md lines that carry the n=15 expansion and the loss of its advantage. That repository owns the study and its claims.json holds the receipts; freshness is not checked.",
+  "target": "alloevil/deepresearch-arms-lab",
+  "fetched": "2026-09-14",
+  "arms": {
+    "url": "https://raw.githubusercontent.com/alloevil/deepresearch-arms-lab/master/qa_data.json",
+    "note": "verbatim excerpt: arm code -> number of committed per-question result rows",
+    "row_counts": {
+      "B": 24,
+      "B3": 10,
+      "F91": 10,
+      "F10": 3,
+      "F101": 3,
+      "F102": 24,
+      "F103": 3,
+      "F11": 24,
+      "F111": 3,
+      "F112": 3,
+      "F113": 3,
+      "F114": 3,
+      "F115": 24,
+      "G": 3
+    }
+  },
+  "question_set": {
+    "url": "https://raw.githubusercontent.com/alloevil/deepresearch-arms-lab/master/eval/questions_ext.json",
+    "note": "verbatim excerpt: the ids of the extended (n=24) question set",
+    "ids": [
+      "e01",
+      "e02",
+      "e03",
+      "e04",
+      "e05",
+      "e06",
+      "e07",
+      "e08",
+      "e09",
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25"
+    ]
+  },
+  "experiments": {
+    "url": "https://raw.githubusercontent.com/alloevil/deepresearch-arms-lab/master/EXPERIMENTS.md",
+    "note": "verbatim lines: 651 the n=10 -> n=15 expansion, 655 the n=15 result, 708 the retraction (the n=15 advantage flips negative at n=20), 728 the n=24 batch",
+    "lines": [
+      {
+        "line": 651,
+        "text": "基线 arm(B/F102/F11/F115)正在补跑 e11-e15,完成后统计基础从 n=10 升到 n=15;"
+      },
+      {
+        "line": 655,
+        "text": "**n=15 扩容结果(2026-07-28)——结论方向不变,幅度显著收窄**:20 组补跑"
+      },
+      {
+        "line": 708,
+        "text": "越大,已经从 n=15 的 +0.12 优势翻成 n=20 的 −0.10 劣势**。对外表述必须从"
+      },
+      {
+        "line": 728,
+        "text": "数据调研/技术对比类,避开\"如何设计方案\"式会议性问题。补跑后 n=24:"
+      }
+    ]
+  }
+}

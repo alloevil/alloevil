@@ -1,0 +1,94 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of the archmap card published on this repository's output branch, the surface the README embeds. cards.yml re-renders it daily from codeblast's graph, so the legend (including the star segment) ages upstream and freshness is not checked; the strings below are verbatim from the fetched SVG.",
+  "target": "alloevil/alloevil (output branch)",
+  "url": "https://raw.githubusercontent.com/alloevil/alloevil/output/archmap-card.svg",
+  "fetched": "2026-09-14",
+  "title": "codeblast · Tabby architecture",
+  "subtitle": "from tsc, not a model · 2026-09-03",
+  "legend": "Eugeny/tabby (~74k★) · 16 packages · 32 import edges · width = imports · glow = hub",
+  "nodes": {
+    "note": "verbatim excerpt: each drawn node's label, file count and fan-in, as printed on the card",
+    "counted": [
+      {
+        "label": "core",
+        "files": 74,
+        "fan_in": 156
+      },
+      {
+        "label": "terminal",
+        "files": 39,
+        "fan_in": 30
+      },
+      {
+        "label": "electron",
+        "files": 35,
+        "fan_in": 0
+      },
+      {
+        "label": "ssh",
+        "files": 32,
+        "fan_in": 4
+      },
+      {
+        "label": "settings",
+        "files": 21,
+        "fan_in": 8
+      },
+      {
+        "label": "local",
+        "files": 18,
+        "fan_in": 18
+      },
+      {
+        "label": "app",
+        "files": 18,
+        "fan_in": 3
+      },
+      {
+        "label": "serial",
+        "files": 9,
+        "fan_in": 0
+      },
+      {
+        "label": "web",
+        "files": 8,
+        "fan_in": 0
+      },
+      {
+        "label": "telnet",
+        "files": 8,
+        "fan_in": 0
+      },
+      {
+        "label": "linkifier",
+        "files": 5,
+        "fan_in": 0
+      },
+      {
+        "label": "web-demo",
+        "files": 5,
+        "fan_in": 0
+      },
+      {
+        "label": "web",
+        "files": 4,
+        "fan_in": 0
+      },
+      {
+        "label": "plugin-manager",
+        "files": 4,
+        "fan_in": 0
+      },
+      {
+        "label": "auto-sudo-password",
+        "files": 2,
+        "fan_in": 0
+      },
+      {
+        "label": "community-color-schemes",
+        "files": 2,
+        "fan_in": 0
+      }
+    ]
+  }
+}

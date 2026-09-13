@@ -1,0 +1,178 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of alloevil/codeblast's committed evidence for the two halves of this profile's codeblast card: the tRPC corpus size (957 files) and the n=30 mutation batch of 2026-08-28 (28/28 recall). codeblast owns both numbers and its own gate recomputes them; this snapshot only records what they read on the fetch date, so freshness is not checked here.",
+  "target": "alloevil/codeblast",
+  "fetched": "2026-09-14",
+  "mutation_run": {
+    "url": "https://raw.githubusercontent.com/alloevil/codeblast/main/eval/mutation-2026-08-28-trpc-n30.json",
+    "file": "eval/mutation-2026-08-28-trpc-n30.json",
+    "note": "verbatim excerpt: node + whether the row carries recall_hit + its value for every row of the batch (30 rows, 28 scored); the card's 28/28 is hits / scored rows",
+    "rows": [
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/router.ts#getProcedureAtPath",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/client/src/createTRPCClient.ts#createTRPCClient",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/next/src/app-dir/create-action-hook.tsx#experimental_createActionHook",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/tanstack-react-query/src/internals/utils.ts#getQueryKeyInternal",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/client/src/links/internals/createChain.ts#createChain",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/client/src/TRPCClientError.ts#TRPCClientError.from",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/react-query/src/server/ssgProxy.ts#createServerSideHelpers",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/middleware.ts#experimental_standaloneMiddleware",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/utils.ts#run",
+        "scored": false,
+        "recall_hit": null
+      },
+      {
+        "node": "packages/tanstack-react-query/src/internals/utils.ts#readQueryKey",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/adapters/next.ts#createNextApiHandler",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/react-query/src/createTRPCReact.tsx#createTRPCReact",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/adapters/standalone.ts#createHTTPServer",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/adapters/standalone.ts#createHTTPHandler",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/initTRPC.ts#TRPCBuilder.context",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/observable/observable.ts#observable",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/initTRPC.ts#TRPCBuilder.meta",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/router.ts#lazy",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/observable/observable.ts#observableToAsyncIterable",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/adapters/node-http/incomingMessageToRequest.ts#incomingMessageToRequest",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/next/src/app-dir/create-action-hook.tsx#experimental_serverActionLink",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/observable/operators.ts#share",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/observable/operators.ts#distinctUntilChanged",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/adapters/express.ts#createExpressMiddleware",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/observable/operators.ts#tap",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/client/src/createTRPCClient.ts#getUntypedClient",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/client/src/internals/TRPCUntypedClient.ts#TRPCUntypedClient.query",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/server/src/adapters/aws-lambda/index.ts#awsLambdaStreamingRequestHandler",
+        "scored": true,
+        "recall_hit": true
+      },
+      {
+        "node": "packages/openapi/src/schemaExtraction.ts#extractZodDescriptions",
+        "scored": false,
+        "recall_hit": null
+      },
+      {
+        "node": "packages/server/src/unstable-core-do-not-import/stream/utils/disposable.ts#makeAsyncResource",
+        "scored": true,
+        "recall_hit": true
+      }
+    ]
+  },
+  "graph_scale": {
+    "url": "https://raw.githubusercontent.com/alloevil/codeblast/main/SKILL.md",
+    "file": "SKILL.md",
+    "note": "verbatim JSON block: the measured graph build for the same 957-file tRPC benchmark",
+    "block": {
+      "db": "/tmp/graph.db",
+      "seconds": 5.2,
+      "tsconfigs": 34,
+      "files_indexed": 957,
+      "files_skipped": 0,
+      "nodes": 6248,
+      "edges": 17072,
+      "blind_spots": 14725,
+      "failures": 0
+    }
+  }
+}

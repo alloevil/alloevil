@@ -1,0 +1,8 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of Eugeny/tabby's star count from the unauthenticated GitHub API - the number cards.yml passes to the generator as TABBY_STARS. It moves with that project's traffic and not with this repository, so it is captured, never pinned; freshness is not checked.",
+  "url": "https://api.github.com/repos/Eugeny/tabby",
+  "fetched": "2026-09-14",
+  "full_name": "Eugeny/tabby",
+  "stargazers_count": 74463,
+  "pushed_at": "2026-09-12T20:17:17Z"
+}

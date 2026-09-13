@@ -1,0 +1,24 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of https://alloevil.github.io/projects/ - the index this profile's featured-projects section links to. That site is generated from another repository and gains entries without this one changing, so the count is captured, never pinned; freshness is not checked.",
+  "url": "https://alloevil.github.io/projects/",
+  "fetched": "2026-09-14",
+  "note": "verbatim excerpt: the project headings in document order",
+  "projects": [
+    "codeblast — 合并前就知道会坏在哪",
+    "paired-eval — 先跑程序检查，再谈评分",
+    "AgentXRay — 读 agent 真正做了什么",
+    "agent-harness-evals — 同一个模型，换个 harness 会怎样",
+    "llm-benchmarks-tracker — 带出处的 benchmark 目录",
+    "AI-Paper-Daily — 每日论文发现",
+    "coding-agent-internals — 12 个 coding agent 是怎么实现的",
+    "agents-with-receipts — 有据可查的 agentic coding 实践",
+    "deepresearch-arms-lab — 14 组消融，负结果照样留着",
+    "agent-changelog — 主流 AI Agent 框架版本追踪",
+    "github-discovery — 在项目火之前发现它",
+    "foodmap — 美食地图",
+    "weibo-chat-auto — 微博群聊自动归档",
+    "dsh-xray — DeepSeek Harness 的透视工具",
+    "agent-tool-benchmark — AI agent 工具的实测基准",
+    "TabCraft — Chrome 标签页 AI 整理插件"
+  ]
+}

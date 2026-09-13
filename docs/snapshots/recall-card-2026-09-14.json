@@ -1,0 +1,102 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of the recall card published on this repository's output branch plus what that card is drawn from: the newest dated batch in alloevil/codeblast's eval/ and its scored rows. codeblast's eval directory gains batches without this repository changing, so the card (and this capture) can age upstream; freshness is not checked.",
+  "target": "alloevil/codeblast",
+  "fetched": "2026-09-14",
+  "card": {
+    "url": "https://raw.githubusercontent.com/alloevil/alloevil/output/recall-card.svg",
+    "note": "verbatim text pulled from the fetched SVG",
+    "title": "codeblast · mutation-tested recall",
+    "subtitle": "weekly · 2026-09-07",
+    "recall_pct": "100%",
+    "mutants": "10/10 mutants recalled",
+    "precision_all": "0.33",
+    "precision_call": "0.92"
+  },
+  "mutation_run": {
+    "url": "https://raw.githubusercontent.com/alloevil/codeblast/main/eval/mutation-2026-09-07-graphql-tools-n10.json",
+    "file": "mutation-2026-09-07-graphql-tools-n10.json",
+    "note": "verbatim excerpt: node + recall_hit + precision + precision_call for every scored row",
+    "rows": [
+      {
+        "node": "packages/loaders/url/src/index.ts#UrlLoader.getExecutorAsync",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.214,
+        "precision_call": 0.667
+      },
+      {
+        "node": "packages/schema/src/makeExecutableSchema.ts#makeExecutableSchema",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.875,
+        "precision_call": 0.941
+      },
+      {
+        "node": "packages/utils/src/get-arguments-with-directives.ts#getArgumentsWithDirectives",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.013,
+        "precision_call": 1.0
+      },
+      {
+        "node": "packages/utils/src/filterSchema.ts#filterSchema",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.949,
+        "precision_call": 1.0
+      },
+      {
+        "node": "packages/loaders/github/src/index.ts#GithubLoader.load",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.091,
+        "precision_call": 1.0
+      },
+      {
+        "node": "packages/loaders/git/src/load-git.ts#parseGitTreeOutput",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.1,
+        "precision_call": 1.0
+      },
+      {
+        "node": "packages/load/src/schema.ts#loadSchema",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.6,
+        "precision_call": 1.0
+      },
+      {
+        "node": "packages/mock/src/MockStore.ts#MockStore.find",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.167,
+        "precision_call": 1.0
+      },
+      {
+        "node": "packages/utils/src/errors.ts#locatedError",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.138,
+        "precision_call": 0.571
+      },
+      {
+        "node": "packages/mock/src/mockServer.ts#mockServer",
+        "scored": true,
+        "recall_hit": true,
+        "precision": 0.167,
+        "precision_call": 1.0
+      }
+    ]
+  },
+  "eval_listing": {
+    "url": "https://github.com/alloevil/codeblast/tree/main/eval",
+    "note": "verbatim excerpt: the dated mutation batches committed in codeblast/eval (name order)",
+    "mutation_files": [
+      "mutation-2026-08-28-trpc-n15-channel.json",
+      "mutation-2026-08-28-trpc-n30.json",
+      "mutation-2026-08-31-trpc-n15.json",
+      "mutation-2026-09-07-graphql-tools-n10.json"
+    ]
+  }
+}

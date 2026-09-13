@@ -1,0 +1,34 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of the ledger card published on this repository's output branch: its columns and the four step rows. The rows are what AgentXRay's buildTurnLedger produces from the synthetic claude-code demo fixture (frontend/src/demo/fixtures.json), which cards.yml clones on the runner; the fixture and re-split are not re-run here, so freshness is not checked.",
+  "target": "alloevil/AgentXRay",
+  "url": "https://raw.githubusercontent.com/alloevil/alloevil/output/ledger-card.svg",
+  "fetched": "2026-09-14",
+  "columns": [
+    "step",
+    "time",
+    "tokens"
+  ],
+  "rows": [
+    {
+      "label": "I'll check how theming is …",
+      "time": "2s",
+      "tokens": "1,898"
+    },
+    {
+      "label": "There's a theme helper alr…",
+      "time": "1s",
+      "tokens": "2,340"
+    },
+    {
+      "label": "Now the toggle in Settings…",
+      "time": "1s",
+      "tokens": "2,540"
+    },
+    {
+      "label": "Building and running the t…",
+      "time": "37s",
+      "tokens": "2,668"
+    }
+  ],
+  "footer": "claude-code demo session · one row per step · same numbers as the dashboard"
+}

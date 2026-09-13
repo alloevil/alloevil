@@ -26,8 +26,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4  # No install step: every check is a stdlib-only python3 one-liner over the committed
-      # README, workflows, scripts/ and assets/ — no node, no npm, no network — and the action
-      # brings its own Python, running the tool from its own checkout.
-      # The card and snake generators themselves are not run here: they need codeblast and
-      # AgentXRay checkouts, which is why the numbers they compute are manual in claims.json.
+      # README, workflows, scripts/, assets/ and docs/snapshots/ — no node, no npm, no network —
+      # and the action brings its own Python, running the tool from its own checkout.
+      # The card, waka and snake generators themselves are not run here: they need codeblast,
+      # AgentXRay or a WakaTime key. The numbers they compute are either checked against the dated
+      # captures in docs/snapshots/ (point-in-time, freshness not checked) or stay manual with the
+      # reason written down in claims.json.
       - uses: alloevil/verify-claims@v0.1.1

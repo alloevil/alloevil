@@ -1,0 +1,34 @@
+{
+  "_comment": "Point-in-time capture (2026-09-14) of alloevil/coding-agent-internals' page inventory: the agent pages and dimension pages that repository counts in its own claims.json. Pages added or removed there after the fetch date are not seen here; freshness is not checked.",
+  "target": "alloevil/coding-agent-internals",
+  "fetched": "2026-09-14",
+  "agents": {
+    "url": "https://api.github.com/repos/alloevil/coding-agent-internals/contents/agents",
+    "note": "verbatim excerpt: the names in agents/ (one page per coding agent)",
+    "names": [
+      "aider.md",
+      "claude-code.md",
+      "cline.md",
+      "codex.md",
+      "copilot-cli.md",
+      "cursor.md",
+      "devin.md",
+      "gemini-cli.md",
+      "hermes.md",
+      "omp.md",
+      "opencode.md",
+      "windsurf.md"
+    ]
+  },
+  "dimensions": {
+    "url": "https://api.github.com/repos/alloevil/coding-agent-internals/contents/dimensions",
+    "note": "verbatim excerpt: the names in dimensions/",
+    "names": [
+      "editing.md",
+      "memory.md",
+      "search.md",
+      "security.md",
+      "subagents.md"
+    ]
+  }
+}
