@@ -1,0 +1,317 @@
+{
+  "$comment": "The executable half of the 2026-09 profile audit: this repository publishes numbers in exactly two ways - prose in README.md (the featured-project cards, the projects-index count, the badge set, the waka statistics) and pictures generated on a schedule (three cards from scripts/render-cards.mjs, the contribution snake from main.yml, the waka block from wakatime.yml, the reading list from blog-post-workflow.yml). Every figure this repository can recompute offline from its own files has a command here, run by .github/workflows/claims.yml through alloevil/verify-claims: the cards' daily cron and the generator that produces them, the star count the generator must keep reading from the environment rather than hardcoding (the defect fixed on 2026-09-12), the two SVG variants of the snake against the filenames main.yml publishes, which assets exist and which the README actually embeds, that the README's language badges agree with the waka block it displays, that the waka block is machine-written between the action's markers, and that the hero has no generator. Figures that need another repository's checkout or the network are marked manual with the receipt they do need instead - twelve of them: the codeblast, coding-agent-internals and deepresearch-arms-lab cards (each recounted by that repository's own claims.json), the archmap graph figures and the live Tabby star count, the recall card's newest batch, the ledger card's synthetic demo fixture, the WakaTime statistics, the projects-index count, the reading feed, the profile-view counter and the contribution grid. A README edit that contradicts a figure now fails the gate; a figure that cannot be recomputed here says so and names where it lives.",
+  "project": "alloevil (GitHub profile repository)",
+  "repository": "https://github.com/alloevil/alloevil",
+  "updated": "2026-09-13",
+  "claims": [
+    {
+      "id": "cards-rendered-daily",
+      "claim": "The three profile cards are rendered daily: cards.yml runs on a cron whose day, month and weekday fields are all wildcards (30 3 * * *, 03:30 UTC every day), and the README's card section says they are rendered daily.",
+      "value": "daily (30 3 * * *)",
+      "metric": "the schedule in .github/workflows/cards.yml versus the phrase rendered daily in README.md's Evidence, Not Widgets section",
+      "method": "A cron is daily exactly when its day-of-month, month and day-of-week fields are *, so the schedule itself is the figure. The check is here because this repository has already published a cadence its cron did not have (blog-post-workflow.yml read every hour against 0 */2 * * * until 2026-09-12), and because a card job that stops firing looks exactly like a card that is up to date.",
+      "repro": "python3 -c 'import re, pathlib\ny = pathlib.Path(\".github/workflows/cards.yml\").read_text(encoding=\"utf-8\")\ncron = re.search(r\"cron:\\s*[^0-9]*([0-9*/,\\- ]+)\", y, re.M).group(1).strip()\nf = cron.split()\ndaily = len(f) == 5 and f[2:] == [\"*\", \"*\", \"*\"]\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nsays = \"rendered daily\" in readme\nif not (daily and says):\n    print(cron + \" daily=\" + str(daily) + \" README-rendered-daily=\" + str(says))\n    raise SystemExit(1)\nprint(cron + \" -> daily=\" + str(daily) + \" | README states rendered daily=\" + str(says))'",
+      "evidence": ".github/workflows/cards.yml + README.md",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\ny = pathlib.Path(\".github/workflows/cards.yml\").read_text(encoding=\"utf-8\")\ncron = re.search(r\"cron:\\s*[^0-9]*([0-9*/,\\- ]+)\", y, re.M).group(1).strip()\nf = cron.split()\ndaily = len(f) == 5 and f[2:] == [\"*\", \"*\", \"*\"]\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nsays = \"rendered daily\" in readme\nif not (daily and says):\n    print(cron + \" daily=\" + str(daily) + \" README-rendered-daily=\" + str(says))\n    raise SystemExit(1)\nprint(cron + \" -> daily=\" + str(daily) + \" | README states rendered daily=\" + str(says))'",
+        "expect": {
+          "equals": "30 3 * * * -> daily=True | README states rendered daily=True"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "cards-are-generator-output-only",
+      "claim": "The three cards the README embeds are the generator's output and nothing else: scripts/render-cards.mjs names exactly archmap-card.svg, recall-card.svg and ledger-card.svg, the README embeds exactly those three from the output branch, and no copy of any card is committed to the default branch.",
+      "value": "3 generator names = 3 README embeds, 0 committed copies",
+      "metric": "the card names in scripts/render-cards.mjs versus the /output/ card URLs in README.md versus any *-card.svg in the working tree",
+      "method": "cards.yml writes the cards to the output branch and re-carries them there on every run; a card committed on the default branch would shadow the generated one and never be refreshed. Reading all three surfaces at once means renaming a card in the generator without the README fails here instead of rendering a 404.",
+      "repro": "python3 -c 'import re, pathlib\nscript = pathlib.Path(\"scripts/render-cards.mjs\").read_text(encoding=\"utf-8\")\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nmade = sorted(set(re.findall(r\"\\b([a-z]+-card)\\.svg\", script)))\nshown = sorted(set(re.findall(r\"/output/([a-z]+-card)\\.svg\", readme)))\ncommitted = sorted(str(p) for p in pathlib.Path(\".\").rglob(\"*-card.svg\") if \".git\" not in p.parts)\nif not (len(made) == 3 and made == shown and not committed):\n    print(\"generator=\" + str(made) + \" README=\" + str(shown) + \" committed=\" + str(committed))\n    raise SystemExit(1)\nprint(\"generator card names=\" + str(len(made)) + \" README output-branch embeds=\" + str(len(shown)) + \" identical=\" + str(made == shown) + \" committed copies here=\" + str(len(committed)))'",
+      "evidence": "scripts/render-cards.mjs + README.md + .github/workflows/cards.yml",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\nscript = pathlib.Path(\"scripts/render-cards.mjs\").read_text(encoding=\"utf-8\")\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nmade = sorted(set(re.findall(r\"\\b([a-z]+-card)\\.svg\", script)))\nshown = sorted(set(re.findall(r\"/output/([a-z]+-card)\\.svg\", readme)))\ncommitted = sorted(str(p) for p in pathlib.Path(\".\").rglob(\"*-card.svg\") if \".git\" not in p.parts)\nif not (len(made) == 3 and made == shown and not committed):\n    print(\"generator=\" + str(made) + \" README=\" + str(shown) + \" committed=\" + str(committed))\n    raise SystemExit(1)\nprint(\"generator card names=\" + str(len(made)) + \" README output-branch embeds=\" + str(len(shown)) + \" identical=\" + str(made == shown) + \" committed copies here=\" + str(len(committed)))'",
+        "expect": {
+          "equals": "generator card names=3 README output-branch embeds=3 identical=True committed copies here=0"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "star-count-not-hardcoded",
+      "claim": "The archmap legend's star count is measured at render time, not written into the generator: render-cards.mjs reads process.env.TABBY_STARS, omits the whole segment when the variable is unset or zero, and contains no NNk-star literal; cards.yml fills the variable with gh api repos/Eugeny/tabby --jq .stargazers_count.",
+      "value": "env-driven, 0 hardcoded star literals",
+      "metric": "process.env.TABBY_STARS and the nk-star template in scripts/render-cards.mjs, plus the TABBY_STARS assignment in .github/workflows/cards.yml",
+      "method": "This is the defect the 2026-09-12 audit fixed and the reason this claims file exists: the legend carried a hardcoded 60k-star literal inside the script that re-renders the card daily, so the daily job could never correct it (upstream was 74,442 stars that day). The check pins all three parts of the mechanism - env read, unset-guard, live query - because dropping any one of them silently restores a hand-written number. Verified by running the generator here on 2026-09-13: with TABBY_STARS=74442 the legend prints Eugeny/tabby (~74k*), with no variable set the star segment is absent.",
+      "repro": "python3 -c 'import re, pathlib\nscript = pathlib.Path(\"scripts/render-cards.mjs\").read_text(encoding=\"utf-8\")\ny = pathlib.Path(\".github/workflows/cards.yml\").read_text(encoding=\"utf-8\")\nenvd = \"process.env.TABBY_STARS\" in script\nguarded = \"TABBY_STARS > 0\" in script\nhard = re.findall(r\"[0-9]+\\s*k\\u2605\", script)\nfetched = \"gh api repos/Eugeny/tabby\" in y and \"TABBY_STARS=\" in y\nif not (envd and guarded and not hard and fetched):\n    print(\"env=\" + str(envd) + \" guarded=\" + str(guarded) + \" literals=\" + str(hard) + \" fetched=\" + str(fetched))\n    raise SystemExit(1)\nprint(\"legend stars from TABBY_STARS env=\" + str(envd) + \" omitted when unset=\" + str(guarded) + \" hardcoded star literals=\" + str(len(hard)) + \" cards.yml queries stargazers_count=\" + str(fetched))'",
+      "evidence": "scripts/render-cards.mjs + .github/workflows/cards.yml",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\nscript = pathlib.Path(\"scripts/render-cards.mjs\").read_text(encoding=\"utf-8\")\ny = pathlib.Path(\".github/workflows/cards.yml\").read_text(encoding=\"utf-8\")\nenvd = \"process.env.TABBY_STARS\" in script\nguarded = \"TABBY_STARS > 0\" in script\nhard = re.findall(r\"[0-9]+\\s*k\\u2605\", script)\nfetched = \"gh api repos/Eugeny/tabby\" in y and \"TABBY_STARS=\" in y\nif not (envd and guarded and not hard and fetched):\n    print(\"env=\" + str(envd) + \" guarded=\" + str(guarded) + \" literals=\" + str(hard) + \" fetched=\" + str(fetched))\n    raise SystemExit(1)\nprint(\"legend stars from TABBY_STARS env=\" + str(envd) + \" omitted when unset=\" + str(guarded) + \" hardcoded star literals=\" + str(len(hard)) + \" cards.yml queries stargazers_count=\" + str(fetched))'",
+        "expect": {
+          "equals": "legend stars from TABBY_STARS env=True omitted when unset=True hardcoded star literals=0 cards.yml queries stargazers_count=True"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "readme-local-assets-exist",
+      "claim": "Both assets the README embeds from this repository exist at the path it names: ./assets/readme/hero.svg (the hero) and ./assets/readme/made-with-beautify.svg (the signature).",
+      "value": "2 local refs, 0 missing",
+      "metric": "every src= / srcset= in README.md that starts with ./ resolved on disk",
+      "method": "These two are the only images this repository serves from itself; a rename or a case change turns the README's first screen into a broken icon with nothing in CI to notice. Every other image in the README is a remote URL (the output branch, shields.io, komarev) and is deliberately out of scope.",
+      "repro": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nrefs = sorted(set(re.findall(r\"(?:src|srcset)=\\\"(\\./[^\\\"]+)\\\"\", readme)))\nmissing = [r for r in refs if not pathlib.Path(r).is_file()]\nif not refs or missing:\n    print(\"refs=\" + str(refs) + \" missing=\" + str(missing))\n    raise SystemExit(1)\nprint(str(len(refs)) + \" local asset refs, all committed: \" + \" \".join(r[2:] for r in refs))'",
+      "evidence": "README.md + assets/readme/",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nrefs = sorted(set(re.findall(r\"(?:src|srcset)=\\\"(\\./[^\\\"]+)\\\"\", readme)))\nmissing = [r for r in refs if not pathlib.Path(r).is_file()]\nif not refs or missing:\n    print(\"refs=\" + str(refs) + \" missing=\" + str(missing))\n    raise SystemExit(1)\nprint(str(len(refs)) + \" local asset refs, all committed: \" + \" \".join(r[2:] for r in refs))'",
+        "expect": {
+          "equals": "2 local asset refs, all committed: assets/readme/hero.svg assets/readme/made-with-beautify.svg"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "badges-match-waka-languages",
+      "claim": "The language badges agree with the waka block the same README displays: Primary Python and Secondary JavaScript are the top two languages by repo count in the I Mostly Code in block, and each badge's link filters the same language it names.",
+      "value": "Primary Python / Secondary JavaScript = waka top-2 Python JavaScript",
+      "metric": "the language= parameter and badge label of the two language badges in README.md versus the repo counts in the generated waka block",
+      "method": "The badge read Secondary TypeScript until 2026-09-12 while the block two screens below listed JavaScript 10 repos 23.81% above TypeScript 9 repos 21.43% - a badge contradicting the statistics it sits above. The check recomputes the order from the block rather than trusting the badge text.",
+      "repro": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nbadges = re.findall(r\"language=([a-z]+)\\\"><img alt=\\\"[^\\\"]*\\\" src=\\\"[^\\\"]*badge/[^\\\"]*?-([A-Za-z+#.]+)-[0-9A-Fa-f]{6}\", readme)\nlabels = [b[1] for b in badges]\nhrefs = [b[0] for b in badges]\nwaka = readme[readme.index(\"START_SECTION:waka\"):readme.index(\"END_SECTION:waka\")]\nrows = re.findall(r\"^([A-Za-z+#]+)\\s+([0-9]+) repos\", waka, re.M)\ntop = [r[0] for r in sorted(rows, key=lambda r: -int(r[1]))[:2]]\nif not (len(badges) == 2 and labels == top and hrefs == [x.lower() for x in labels]):\n    print(\"badges=\" + str(badges) + \" waka-top2=\" + str(top))\n    raise SystemExit(1)\nprint(\"language badges \" + labels[0] + \"/\" + labels[1] + \" = the waka block top-2 by repos (\" + \" \".join(top) + \"), and each badge href filters the same language\")'",
+      "evidence": "README.md (badges + the waka section)",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nbadges = re.findall(r\"language=([a-z]+)\\\"><img alt=\\\"[^\\\"]*\\\" src=\\\"[^\\\"]*badge/[^\\\"]*?-([A-Za-z+#.]+)-[0-9A-Fa-f]{6}\", readme)\nlabels = [b[1] for b in badges]\nhrefs = [b[0] for b in badges]\nwaka = readme[readme.index(\"START_SECTION:waka\"):readme.index(\"END_SECTION:waka\")]\nrows = re.findall(r\"^([A-Za-z+#]+)\\s+([0-9]+) repos\", waka, re.M)\ntop = [r[0] for r in sorted(rows, key=lambda r: -int(r[1]))[:2]]\nif not (len(badges) == 2 and labels == top and hrefs == [x.lower() for x in labels]):\n    print(\"badges=\" + str(badges) + \" waka-top2=\" + str(top))\n    raise SystemExit(1)\nprint(\"language badges \" + labels[0] + \"/\" + labels[1] + \" = the waka block top-2 by repos (\" + \" \".join(top) + \"), and each badge href filters the same language\")'",
+        "expect": {
+          "equals": "language badges Python/JavaScript = the waka block top-2 by repos (Python JavaScript), and each badge href filters the same language"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "snake-both-variants-published",
+      "claim": "The snake is published in both colour variants main.yml generates: the dark source points at github-contribution-grid-snake-dark.svg, the light source and the fallback img at github-contribution-grid-snake.svg, and the workflow's snk step declares exactly those two outputs (the dark one with palette=github-dark).",
+      "value": "dark/light pair matches the two declared snk outputs",
+      "metric": "the two prefers-color-scheme srcsets and the fallback img in README.md versus the outputs block of the Platane/snk step in .github/workflows/main.yml",
+      "method": "Until 2026-09-12 the dark source pointed at the light SVG, so the dark file was generated every two hours and never displayed. Pairing the README's srcsets with the filenames the snk step writes makes a rename on either side fail instead of silently rendering the wrong palette.",
+      "repro": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\ny = pathlib.Path(\".github/workflows/main.yml\").read_text(encoding=\"utf-8\")\nsrcs = dict(re.findall(r\"<source media=\\\"\\(prefers-color-scheme: ([a-z]+)\\)\\\" srcset=\\\"[^\\\"]*?/([^\\\"/]+)\\\"\", readme))\nimg = re.search(r\"<img alt=\\\"github contribution grid snake animation\\\" src=\\\"[^\\\"]*?/([^\\\"/]+)\\\"\", readme).group(1)\npublished = sorted(set(re.findall(r\"dist/(github-contribution-grid-snake[a-z-]*\\.svg)\", y)))\nwant = {\"dark\": \"github-contribution-grid-snake-dark.svg\", \"light\": \"github-contribution-grid-snake.svg\"}\nif not (srcs == want and img == want[\"light\"] and published == sorted(want.values())):\n    print(\"sources=\" + str(srcs) + \" fallback=\" + img + \" main.yml outputs=\" + str(published))\n    raise SystemExit(1)\nprint(\"dark=\" + srcs[\"dark\"] + \" light=\" + srcs[\"light\"] + \" fallback=\" + img + \" | snk publishes both variants=\" + str(len(published) == 2))'",
+      "evidence": "README.md + .github/workflows/main.yml",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\ny = pathlib.Path(\".github/workflows/main.yml\").read_text(encoding=\"utf-8\")\nsrcs = dict(re.findall(r\"<source media=\\\"\\(prefers-color-scheme: ([a-z]+)\\)\\\" srcset=\\\"[^\\\"]*?/([^\\\"/]+)\\\"\", readme))\nimg = re.search(r\"<img alt=\\\"github contribution grid snake animation\\\" src=\\\"[^\\\"]*?/([^\\\"/]+)\\\"\", readme).group(1)\npublished = sorted(set(re.findall(r\"dist/(github-contribution-grid-snake[a-z-]*\\.svg)\", y)))\nwant = {\"dark\": \"github-contribution-grid-snake-dark.svg\", \"light\": \"github-contribution-grid-snake.svg\"}\nif not (srcs == want and img == want[\"light\"] and published == sorted(want.values())):\n    print(\"sources=\" + str(srcs) + \" fallback=\" + img + \" main.yml outputs=\" + str(published))\n    raise SystemExit(1)\nprint(\"dark=\" + srcs[\"dark\"] + \" light=\" + srcs[\"light\"] + \" fallback=\" + img + \" | snk publishes both variants=\" + str(len(published) == 2))'",
+        "expect": {
+          "equals": "dark=github-contribution-grid-snake-dark.svg light=github-contribution-grid-snake.svg fallback=github-contribution-grid-snake.svg | snk publishes both variants=True"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "assets-inventory",
+      "claim": "assets/ holds three files - assets/readme/hero.svg, assets/readme/made-with-beautify.svg and assets/bar_graph.png - of which the README embeds two; bar_graph.png is committed only by the readme-bot's Updated with Dev Metrics commits and is referenced by no page.",
+      "value": "3 files, 2 embedded",
+      "metric": "the files under assets/ versus the references in README.md, with git log -- assets/bar_graph.png for that file's provenance",
+      "method": "bar_graph.png is the one committed asset nothing displays: the metrics bot rewrites it on every run (last touched 2026-07-18) and the README stopped embedding it, so it is weight with no view. The count is the claim, so adding or dropping an asset has to be a deliberate edit to this file rather than silent drift.",
+      "repro": "python3 -c 'import pathlib\nassets = sorted(str(p) for p in pathlib.Path(\"assets\").rglob(\"*\") if p.is_file())\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nshown = [a for a in assets if a in readme]\nif len(assets) != 3 or len(shown) != 2 or \"assets/bar_graph.png\" in readme:\n    print(\"assets=\" + str(assets) + \" referenced=\" + str(shown))\n    raise SystemExit(1)\nprint(\"assets/ holds \" + str(len(assets)) + \" files: \" + \" \".join(assets) + \" | embedded by README: \" + str(len(shown)) + \" | assets/bar_graph.png is a bot artifact no page references\")'",
+      "evidence": "assets/ + README.md",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import pathlib\nassets = sorted(str(p) for p in pathlib.Path(\"assets\").rglob(\"*\") if p.is_file())\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nshown = [a for a in assets if a in readme]\nif len(assets) != 3 or len(shown) != 2 or \"assets/bar_graph.png\" in readme:\n    print(\"assets=\" + str(assets) + \" referenced=\" + str(shown))\n    raise SystemExit(1)\nprint(\"assets/ holds \" + str(len(assets)) + \" files: \" + \" \".join(assets) + \" | embedded by README: \" + str(len(shown)) + \" | assets/bar_graph.png is a bot artifact no page references\")'",
+        "expect": {
+          "equals": "assets/ holds 3 files: assets/bar_graph.png assets/readme/hero.svg assets/readme/made-with-beautify.svg | embedded by README: 2 | assets/bar_graph.png is a bot artifact no page references"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "waka-block-is-generated",
+      "claim": "The waka block in the README - including its Last Updated on MM/DD/YYYY HH:MM:SS UTC stamp - is written by the scheduled workflow and not by hand: the block sits between exactly one paired set of the action's markers and carries a well-formed stamp, wakatime.yml runs anmol098/waka-readme-stats against README.md with no README_FILE override, and its cron 30 18 * * * is 18:30 UTC = 00:00 IST, which is what that file's own comment (Runs at 12am IST) says.",
+      "value": "markers paired, action owns README.md, 30 18 * * * = 00:00 IST",
+      "metric": "the START/END markers and the stamp format inside README.md's waka section, the action and its inputs in .github/workflows/wakatime.yml, and the cron arithmetic against that file's comment",
+      "method": "The stamp is the only date on the page telling a reader when these statistics were true. If a marker is lost the action appends a second block or stops replacing the first while the frozen stamp keeps looking authoritative; the IST arithmetic is checked because the comment and the cron are two statements of one schedule and only the cron is executed.",
+      "repro": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\ny = pathlib.Path(\".github/workflows/wakatime.yml\").read_text(encoding=\"utf-8\")\ns = readme.count(\"<!--START_SECTION:waka-->\")\ne = readme.count(\"<!--END_SECTION:waka-->\")\npaired = s == 1 and e == 1 and readme.index(\"<!--START_SECTION:waka-->\") < readme.index(\"<!--END_SECTION:waka-->\")\nwaka = readme[readme.index(\"<!--START_SECTION:waka-->\"):readme.index(\"<!--END_SECTION:waka-->\")]\nstamp = bool(re.search(r\"Last Updated on [0-9]{2}/[0-9]{2}/[0-9]{4} [0-9]{2}:[0-9]{2}:[0-9]{2} UTC\", waka))\nuses = \"anmol098/waka-readme-stats\" in y and \"README_FILE\" not in y\ncron = re.search(r\"cron:\\s*[^0-9]*([0-9*/,\\- ]+)\", y, re.M).group(1).strip()\nmins, hours = [int(x) for x in cron.split()[:2]]\nist = (hours * 60 + mins + 330) % 1440\nmidnight = ist == 0 and \"12am IST\" in y\nif not (paired and stamp and uses and midnight):\n    print(\"markers=\" + str(s) + \"/\" + str(e) + \" paired=\" + str(paired) + \" stamp=\" + str(stamp) + \" action-edits-README=\" + str(uses) + \" ist-minute=\" + str(ist) + \" comment-matches=\" + str(midnight))\n    raise SystemExit(1)\nprint(\"waka markers paired=\" + str(paired) + \" stamp well-formed=\" + str(stamp) + \" | anmol098/waka-readme-stats edits README.md (no README_FILE override)=\" + str(uses) + \" | cron \" + cron + \" = 00:00 IST, matching the comment=\" + str(midnight))'",
+      "evidence": "README.md + .github/workflows/wakatime.yml",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\ny = pathlib.Path(\".github/workflows/wakatime.yml\").read_text(encoding=\"utf-8\")\ns = readme.count(\"<!--START_SECTION:waka-->\")\ne = readme.count(\"<!--END_SECTION:waka-->\")\npaired = s == 1 and e == 1 and readme.index(\"<!--START_SECTION:waka-->\") < readme.index(\"<!--END_SECTION:waka-->\")\nwaka = readme[readme.index(\"<!--START_SECTION:waka-->\"):readme.index(\"<!--END_SECTION:waka-->\")]\nstamp = bool(re.search(r\"Last Updated on [0-9]{2}/[0-9]{2}/[0-9]{4} [0-9]{2}:[0-9]{2}:[0-9]{2} UTC\", waka))\nuses = \"anmol098/waka-readme-stats\" in y and \"README_FILE\" not in y\ncron = re.search(r\"cron:\\s*[^0-9]*([0-9*/,\\- ]+)\", y, re.M).group(1).strip()\nmins, hours = [int(x) for x in cron.split()[:2]]\nist = (hours * 60 + mins + 330) % 1440\nmidnight = ist == 0 and \"12am IST\" in y\nif not (paired and stamp and uses and midnight):\n    print(\"markers=\" + str(s) + \"/\" + str(e) + \" paired=\" + str(paired) + \" stamp=\" + str(stamp) + \" action-edits-README=\" + str(uses) + \" ist-minute=\" + str(ist) + \" comment-matches=\" + str(midnight))\n    raise SystemExit(1)\nprint(\"waka markers paired=\" + str(paired) + \" stamp well-formed=\" + str(stamp) + \" | anmol098/waka-readme-stats edits README.md (no README_FILE override)=\" + str(uses) + \" | cron \" + cron + \" = 00:00 IST, matching the comment=\" + str(midnight))'",
+        "expect": {
+          "equals": "waka markers paired=True stamp well-formed=True | anmol098/waka-readme-stats edits README.md (no README_FILE override)=True | cron 30 18 * * * = 00:00 IST, matching the comment=True"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "hero-has-no-generator",
+      "claim": "The hero is hand-authored: assets/readme/hero.svg says so in its own header comment, and no generator in this repository writes it - render-cards.mjs emits the three cards only.",
+      "value": "hand-authored header, 0 generators",
+      "metric": "the header comment of assets/readme/hero.svg versus the card names scripts/render-cards.mjs writes",
+      "method": "After a hand-written figure was found inside the daily generator, every generated-looking asset should state where it comes from. The hero is the figure on the first screen with no reproducible source; this claim keeps that a stated fact rather than a guess, and it is the reason a reader can tell the hero from the three cards.",
+      "repro": "python3 -c 'import pathlib\nhero = pathlib.Path(\"assets/readme/hero.svg\").read_text(encoding=\"utf-8\")\nscript = pathlib.Path(\"scripts/render-cards.mjs\").read_text(encoding=\"utf-8\")\ndeclared = \"Hand-authored header\" in hero\ngenerated = \"hero.svg\" in script\nif not (declared and not generated):\n    print(\"declares-hand-authored=\" + str(declared) + \" a-generator-writes-it=\" + str(generated))\n    raise SystemExit(1)\nprint(\"hero.svg declares a hand-authored header=\" + str(declared) + \" | card generator writes it=\" + str(generated))'",
+      "evidence": "assets/readme/hero.svg + scripts/render-cards.mjs",
+      "as_of": "2026-09-13",
+      "check": {
+        "cmd": "python3 -c 'import pathlib\nhero = pathlib.Path(\"assets/readme/hero.svg\").read_text(encoding=\"utf-8\")\nscript = pathlib.Path(\"scripts/render-cards.mjs\").read_text(encoding=\"utf-8\")\ndeclared = \"Hand-authored header\" in hero\ngenerated = \"hero.svg\" in script\nif not (declared and not generated):\n    print(\"declares-hand-authored=\" + str(declared) + \" a-generator-writes-it=\" + str(generated))\n    raise SystemExit(1)\nprint(\"hero.svg declares a hand-authored header=\" + str(declared) + \" | card generator writes it=\" + str(generated))'",
+        "expect": {
+          "equals": "hero.svg declares a hand-authored header=True | card generator writes it=False"
+        },
+        "timeout": 60
+      }
+    },
+    {
+      "id": "codeblast-card-figures",
+      "claim": "The codeblast card in the featured-projects table publishes the corpus size and the mutation-testing result of a named batch: tRPC, 957 files; n=30 run 2026-08-28, 28/28 killed mutants.",
+      "value": "957 files, n=30, 28/28, 2026-08-28",
+      "metric": "codeblast's README, its docs/claims.json and eval/mutation-2026-08-28-trpc-n30.json",
+      "method": "The card restates a sibling repository's measurement. That repository already carries the receipts for both halves - docs/claims.json has trpc-mutation-impact-recall = 28/28 and trpc-graph-scale-measured = 957 files, 6248 nodes, 17072 edges - so the number is recomputed there, by that repository's own gate, from the eval file the run produced.",
+      "repro": "git clone https://github.com/alloevil/codeblast && PYTHONPATH=<verify-claims> python3 -m verify_claims --root codeblast run --only trpc-mutation-impact-recall,trpc-graph-scale-measured",
+      "evidence": "https://github.com/alloevil/codeblast/blob/main/docs/claims.json",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the 957-file corpus and the n=30 batch live in codeblast, not in this profile repository: neither the benchmark checkout nor eval/mutation-2026-08-28-trpc-n30.json is committed here, and cards.yml clones codeblast on the runner only. A command over README.md would check the prose, not the number."
+      }
+    },
+    {
+      "id": "coding-agent-internals-figures",
+      "claim": "The coding-agent-internals card publishes the size of that repository's comparison: 12 coding agents, across search, edit, LSP, DAP and sub-agents.",
+      "value": "12 agents, 5 dimensions",
+      "metric": "the agent and dimension tables in the coding-agent-internals repository",
+      "method": "The count is the length of that repository's own agent pages, and its claims.json already checks it (agents-page-count = 12, dimensions-page-count = 5, agent-page-tables = 12 / 12 / 10). The profile only links to it.",
+      "repro": "git clone https://github.com/alloevil/coding-agent-internals && PYTHONPATH=<verify-claims> python3 -m verify_claims --root coding-agent-internals run --only agents-page-count,dimensions-page-count",
+      "evidence": "https://github.com/alloevil/coding-agent-internals/blob/main/claims.json",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the 12 agents and 5 dimensions are counted from that repository's pages; no artifact in this profile repository contains the agent list, so there is nothing offline here to recompute."
+      }
+    },
+    {
+      "id": "deepresearch-arms-figures",
+      "claim": "The deepresearch-arms-lab card publishes the study's shape and its outcome: a 14-arm ablation on a weak base model, re-validated at n=15 and then n=24, with the n=15 advantage not surviving.",
+      "value": "14 arms, n=15 and n=24",
+      "metric": "EXPERIMENTS.md and the run results in the deepresearch-arms-lab repository",
+      "method": "The arm count and the two question-set sizes are that repository's own experiment log, where its claims.json carries the receipts; the profile's card exists to state the negative result, not to hold the data.",
+      "repro": "git clone https://github.com/alloevil/deepresearch-arms-lab && PYTHONPATH=<verify-claims> python3 -m verify_claims --root deepresearch-arms-lab run",
+      "evidence": "https://github.com/alloevil/deepresearch-arms-lab/blob/main/EXPERIMENTS.md",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the arms and both question sets are committed in deepresearch-arms-lab; this profile repository holds no part of the experiment, and the naive string check over README.md would only prove the prose still says what it says."
+      }
+    },
+    {
+      "id": "archmap-card-graph-figures",
+      "claim": "The archmap card publishes the Tabby module graph it draws: 16 packages, 32 import edges, plus each node's file count and fan-in.",
+      "value": "16 packages, 32 import edges",
+      "metric": "codeblast's committed docs/tabby-arch.html (the DATA graph of modules and modEdges) re-laid out with codeblast's node_modules/@dagrejs/dagre",
+      "method": "The graph is codeblast's committed artifact and the layout needs codeblast's installed dagre, so the card is recomputable only from a codeblast checkout - which is what cards.yml does on the runner. Re-running the generator here on 2026-09-13 rendered 16 packages and 32 import edges, matching the card on the output branch, and the two SVGs differed only in the legend's star segment (the stale hardcoded one, see archmap-star-count-is-live).",
+      "repro": "node scripts/render-cards.mjs <codeblast> <AgentXRay> /tmp/out && grep -o 'Eugeny/tabby[^<]*' /tmp/out/archmap-card.svg",
+      "evidence": "https://github.com/alloevil/codeblast/blob/main/docs/tabby-arch.html",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the graph lives in codeblast (docs/tabby-arch.html) and the card's layout needs codeblast's @dagrejs/dagre; a clean checkout of this profile repository has neither, and cards.yml clones codeblast for exactly this step."
+      }
+    },
+    {
+      "id": "archmap-star-count-is-live",
+      "claim": "The archmap legend's star count is a live count of Eugeny/tabby taken when the card is rendered - no pinned figure - and the card omits the segment when no count is supplied. The card currently deployed on the output branch still shows 60k*, the hardcoded literal removed on 2026-09-12; it will refresh on the next cards.yml run, which its own path filter triggers when the generator changes.",
+      "value": "live star count at render time (unpinned; deployed card still carries the old 60k*)",
+      "metric": "gh api repos/Eugeny/tabby --jq .stargazers_count in .github/workflows/cards.yml, read by the generator as process.env.TABBY_STARS",
+      "method": "The figure is a network call at render time and changes with the upstream project's traffic, so pinning it would make the gate red because someone else's repository got more stars. What can be pinned is the mechanism, and that is machine-checked by star-count-not-hardcoded; the deployed card on the output branch was rendered 2026-09-11 08:30 UTC, before the fix landed locally, which is why it still reads 60k*.",
+      "repro": "gh api repos/Eugeny/tabby --jq .stargazers_count",
+      "evidence": "https://raw.githubusercontent.com/alloevil/alloevil/output/archmap-card.svg",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the count is fetched from the network at render time (gh api repos/Eugeny/tabby) and moves without this repository changing; the check that the generator never hardcodes it again is machine-checked, and the deployed card can only be re-read with network access."
+      }
+    },
+    {
+      "id": "recall-card-figures",
+      "claim": "The published recall card shows codeblast's newest committed mutation run - as of filing the 2026-09-07 graphql-tools n=10 batch: 100% recall, 10/10 mutants, precision 0.33 across all channels and 0.92 on the call channel. It is a different batch from the tRPC n=30 run the README's codeblast card quotes (28/28, 2026-08-28).",
+      "value": "2026-09-07 graphql-tools n=10: 10/10 recall, 0.33 / 0.92 precision",
+      "metric": "the newest eval/mutation-YYYY-MM-DD*.json in codeblast, filtered to rows carrying recall_hit: recall = hits / rows, precision = mean of the rows' precision, call precision = mean over rows with precision_call > 0",
+      "method": "render-cards.mjs sorts codeblast/eval for names matching mutation-<date>*.json and takes the last one, so the ring tracks whichever batch landed last rather than the batch the prose quotes. Re-running the generator here on 2026-09-13 reproduced the published card byte for byte, which is how the three figures above were read.",
+      "repro": "node scripts/render-cards.mjs <codeblast> <AgentXRay> /tmp/out && grep -oE '>[^<>]{2,40}<' /tmp/out/recall-card.svg",
+      "evidence": "https://github.com/alloevil/codeblast/tree/main/eval",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the eval JSONs are codeblast's (its docs/claims.json checks the same rows: trpc-mutation-impact-recall 28/28, graphql-tools-mutation-impact-recall 10/10, call-channel-precision 0.744 for the n=15 run), and the two precision means are computed from them at render time on the runner. Worth reading next to the prose: a new batch landing in codeblast changes the ring without this repository changing."
+      }
+    },
+    {
+      "id": "ledger-card-figures",
+      "claim": "The published ledger card draws four synthetic demo steps - 2s / 1s / 1s / 37s and 1,898 / 2,340 / 2,540 / 2,668 tokens, no cost column - from the claude-code demo fixture, and says so in its footer (claude-code demo session, one row per step, same numbers as the dashboard).",
+      "value": "4 steps; 2s/1s/1s/37s; 1,898/2,340/2,540/2,668 tokens",
+      "metric": "AgentXRay's frontend/src/demo/fixtures.json through its public/js/pure.js buildTurnLedger, the same code the dashboard runs",
+      "method": "The generator picks the fixture with the highest ledger score and, because the fixtures are single-turn, splits it at assistant-message boundaries into steps. AgentXRay documents that data as synthetic (frontend/demo/sample-logs, generated by scripts/build-demo-fixtures.mjs; the live demo is labelled synthetic sample data and the README says it contains no real user sessions), which is why the profile's description of this card was corrected from a real session to a synthetic demo session on 2026-09-13.",
+      "repro": "node scripts/render-cards.mjs <codeblast> <AgentXRay> /tmp/out && grep -oE '>[^<>]{2,40}<' /tmp/out/ledger-card.svg",
+      "evidence": "https://github.com/alloevil/AgentXRay/tree/main/frontend/src/demo",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the rows come from AgentXRay's committed fixture and its buildTurnLedger, neither of which is in this repository - cards.yml clones AgentXRay for this step. Re-running the generator here reproduced the published card byte for byte; the per-step split is recomputed from the fixture, so the claim is checkable only where that fixture lives."
+      }
+    },
+    {
+      "id": "waka-figures",
+      "claim": "The waka block publishes the account's WakaTime statistics: Code Time 2,701 hrs 3 mins, the commit-time split (Morning 1,860 / Daytime 1,380 / Evening 275 / Night 12), the weekly language, editor, project and OS tables, the time zone (Asia/Shanghai), and the repo counts by language (Python 14, JavaScript 10, TypeScript 9, HTML 4, SCSS 1).",
+      "value": "2,701 hrs 3 mins; 1,860/1,380/275/12 commits; 14/10/9/4/1 repos",
+      "metric": "the WakaTime API as read by the anmol098/waka-readme-stats action in .github/workflows/wakatime.yml",
+      "method": "Every figure in the block is an account statistic: the action queries the API with a repository secret and rewrites the section between its markers. Only the block's clock is checkable from this repository (waka-block-is-generated checks the markers, the stamp format and the cron); the statistics themselves exist behind the API.",
+      "repro": "curl -s -H \"Authorization: Basic $(printf %s <WAKATIME_API_KEY> | base64)\" https://wakatime.com/api/v1/users/current/stats/last_7_days",
+      "evidence": "https://wakatime.com/@alloevil",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the numbers are fetched from the WakaTime API by wakatime.yml using the WAKATIME_API_KEY secret: no committed file holds them, the API needs the network and a key, and they move with the author's editor usage rather than with this repository."
+      }
+    },
+    {
+      "id": "projects-index-count",
+      "claim": "The featured-projects section says the index it links to covers 16 published projects so far.",
+      "value": "16 projects",
+      "metric": "the project count on alloevil.github.io/projects",
+      "method": "The 16 is a count on the projects site, which lives in another repository and is generated there; the README words it as a snapshot (so far) because the account has more public repositories than the index lists - proxy-evolution and deepseek-v41-architecture-explorer among the missing ones, which is what the 2026-09-12 audit found behind the previous wording 'every project'.",
+      "repro": "curl -s https://alloevil.github.io/projects/ | grep -oE 'class=\"project\"' | wc -l",
+      "evidence": "https://alloevil.github.io/projects/",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the count is rendered by the projects site in another repository (the GitHub Pages deployment of the portfolio), so recomputing it needs that checkout or the network; this repository publishes only the sentence."
+      }
+    },
+    {
+      "id": "reading-feed-count",
+      "claim": "The Recently Reading list publishes the five newest items of the baoyu.io feed.",
+      "value": "5 feed items",
+      "metric": "the items between the BLOG-POST-LIST markers in README.md, injected from https://baoyu.io/feed.xml",
+      "method": "blog-post-workflow.yml pulls the feed on a two-hourly cron and rewrites everything between its markers, so the list is a cache of a live feed: the count is 5 because the action is configured to keep the newest five, and the items change without this repository changing.",
+      "repro": "curl -s https://baoyu.io/feed.xml | grep -c '<item>'",
+      "evidence": "https://github.com/alloevil/alloevil/blob/main/.github/workflows/blog-post-workflow.yml",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the items come from a remote feed fetched by the blog-post-workflow action, so counting them needs the network and the entries themselves are not committed; the README holds only the injected copy."
+      }
+    },
+    {
+      "id": "profile-views-badge",
+      "claim": "The profile-views badge publishes a live view tally served by komarev.com for the alloevil profile.",
+      "value": "live counter (third-party)",
+      "metric": "the image the komarev.com/ghpvc badge URL returns",
+      "method": "The badge is an <img> pointing at a third-party counter that increments on every profile view, so its value is neither committed nor reproducible - it is by construction different at every read. The badge's presence is part of the README's first screen; its number belongs to that service.",
+      "repro": "curl -sI 'https://komarev.com/ghpvc/?username=alloevil&style=flat-square&color=blue' | head -1",
+      "evidence": "https://komarev.com/ghpvc/?username=alloevil",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "a third-party counter rendered on demand by komarev.com; the value changes with each view of the profile page and no committed artifact or offline command can reproduce it."
+      }
+    },
+    {
+      "id": "snake-contribution-grid",
+      "claim": "The snake picture publishes the account's contribution graph: every square in it is one day of GitHub contribution history, re-rendered every two hours by .github/workflows/main.yml.",
+      "value": "live contribution grid (rendered)",
+      "metric": "the github_user_name input of the Platane/snk step in main.yml against the account's contribution data",
+      "method": "The grid is GitHub's own contribution data, drawn on the runner by Platane/snk into two SVGs (light and dark) that are pushed to the output branch; the profiles README displays them by URL. The colours and layout are the action's, the days are the platform's, and nothing in this repository holds the counts.",
+      "repro": "gh api graphql -f query='{user(login:\"alloevil\"){contributionsCollection{contributionCalendar{totalContributions}}}}'",
+      "evidence": "https://github.com/alloevil/alloevil/actions/workflows/main.yml",
+      "as_of": "2026-09-13",
+      "check": {
+        "manual": "the grid is generated from GitHub's contribution data by Platane/snk on the runner and published to the output branch; the per-day counts exist only in the platform's API, and the picture changes with every commit."
+      }
+    }
+  ]
+}

@@ -133,7 +133,7 @@
 
 ## 📊 Evidence, Not Widgets
 
-> These cards are rendered daily from the tools' own outputs — codeblast's committed Tabby dependency graph (re-laid out for the card), the latest mutation-testing run, and a real session's per-step time/token ledger. Same numbers as the tools print.
+> These cards are rendered daily from the tools' own outputs — codeblast's committed Tabby dependency graph (re-laid out for the card), the latest mutation-testing run, and a synthetic demo session's per-step time/token ledger. Same numbers as the tools print.
 
 <table align="center"><tr>
 <td valign="top" width="420">

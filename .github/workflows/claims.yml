@@ -1,0 +1,34 @@
+name: claims
+
+# Runs the receipts behind claims.json. This repository publishes numbers two ways — prose in
+# README.md (the project cards, the projects-index count, the badge set, the waka block) and
+# pictures rewritten on a schedule (three cards from scripts/render-cards.mjs, the contribution
+# snake from main.yml, the waka block from wakatime.yml, the reading list from
+# blog-post-workflow.yml) — so the checks cover both: the cards' daily cron and the generator
+# that produces them, the star count the generator must keep reading from TABBY_STARS instead of
+# hardcoding (the defect fixed on 2026-09-12), the snake's two published colour variants, which
+# assets exist and which the README embeds, the language badges against the waka block they sit
+# above, and that the waka block is machine-written between the action's markers. A weekly run as
+# well as on push, because two of the jobs that rewrite this page fire on their own schedules:
+# a card or a stamp can go stale without anyone committing anything.
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "17 6 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: published numbers still reproduce
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # No install step: every check is a stdlib-only python3 one-liner over the committed
+      # README, workflows, scripts/ and assets/ — no node, no npm, no network — and the action
+      # brings its own Python, running the tool from its own checkout.
+      # The card and snake generators themselves are not run here: they need codeblast and
+      # AgentXRay checkouts, which is why the numbers they compute are manual in claims.json.
+      - uses: alloevil/verify-claims@v0.1.1
