@@ -1,0 +1,29 @@
+// Cloudflare Workers configuration for this repository.
+//
+// The Worker serves one thing: the static site staged into dist/ by `npm run build`. index.html,
+// 404.html, styles.css, script.js, assets/site/, projects/ and blog/ are committed where they are
+// authored; the build copies exactly those into dist/, so the repository's workflows, snapshots,
+// README and this file are never candidates for publication. claims.json is staged too, on purpose
+// — the homepage reads it at load time and shows the entry itself rather than a copy.
+//
+// Deployment: Workers Builds (the dashboard's GitHub integration) runs
+//     build command:  npm run build
+//     deploy command: npx wrangler deploy     (the default)
+// on every push to main, so a push to main is a deploy.
+//
+// `name` must match the Worker's name in the Cloudflare dashboard, or the build fails
+// (https://developers.cloudflare.com/workers/ci-cd/builds/#connect-an-existing-worker).
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "alloevil",
+  "compatibility_date": "2026-09-15",
+  "assets": {
+    "directory": "./dist",
+    // Unknown paths get the site's own 404 page instead of a bare Cloudflare response, and
+    // /projects resolves to /projects/ the way it does on the blog.
+    "not_found_handling": "404-page"
+  }
+  // To serve this from a domain you already run on Cloudflare, add:
+  //   "routes": [{ "pattern": "example.com", "custom_domain": true }]
+  // Without it the Worker answers on its workers.dev address.
+}

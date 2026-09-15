@@ -1,0 +1,52 @@
+{
+  "_comment": "The writing index: blog/index.html renders this list, newest first, and nothing else on the site holds a post. Every url is a published page of the Jekyll blog at alloevil.github.io and is checked against the committed capture docs/snapshots/alloevil-blog-sitemap-2026-09-15.xml; titles, dates and tags are copied from that repository's _posts/ front matter (https://github.com/alloevil/alloevil.github.io/tree/main/_posts). To publish: write the post in the blog repository and add one entry here, or drop the entry's file in this repository and point url at it - the page does not care which side serves the text.",
+  "source": "https://github.com/alloevil/alloevil.github.io/tree/main/_posts",
+  "feed": "https://alloevil.github.io/feed.xml",
+  "updated": "2026-09-15",
+  "posts": [
+    {
+      "id": "python-logging-rich-vscode",
+      "title": "使用 logging + rich 美化 VSCode/Cursor 调试输出",
+      "lang": "zh",
+      "date": "2025-10-11",
+      "tags": [
+        "Python",
+        "logging",
+        "rich",
+        "调试"
+      ],
+      "url": "https://alloevil.github.io/python-logging-rich-vscode/"
+    },
+    {
+      "id": "elevit-vs-doctors-best-d3-k2",
+      "title": "哺乳期营养补充策略的循证分析：Elevit 与 Doctor's Best D3 + K2 配方评估报告",
+      "lang": "zh",
+      "date": "2025-10-09",
+      "tags": [
+        "健康",
+        "营养"
+      ],
+      "url": "https://alloevil.github.io/breastfeeding-nutrition-elevit-vs-doctors-best-d3-k2/"
+    },
+    {
+      "id": "gpt5-ccr",
+      "title": "使用 GPT5 接管 CCR",
+      "lang": "zh",
+      "date": "2025-09-26",
+      "tags": [
+        "essay"
+      ],
+      "url": "https://alloevil.github.io/2025/09/26/gpt5-ccr.html"
+    },
+    {
+      "id": "hello-world",
+      "title": "Hello, world",
+      "lang": "en",
+      "date": "2025-09-25",
+      "tags": [
+        "essay"
+      ],
+      "url": "https://alloevil.github.io/2025/09/25/hello-world.html"
+    }
+  ]
+}

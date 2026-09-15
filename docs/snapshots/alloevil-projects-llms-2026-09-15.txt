@@ -1,0 +1,49 @@
+# Point-in-time capture (2026-09-15) of https://alloevil.github.io/llms.txt - the project index behind this
+# profile's featured-projects link, and the source of projects/projects.json (names, summaries, links).
+# URL:     https://alloevil.github.io/llms.txt
+# Fetched: 2026-09-15
+# Note:    verbatim, byte-for-byte after this header. Point-in-time: the index lives in another repository
+#          and gains entries without this one changing, so freshness is not checked here.
+#
+# allo (alloevil)
+
+> allo builds evidence-first tooling for AI coding agents: tools that replace a model's self-report with a check you can run yourself.
+
+Every project here exists because an LLM asserted something that turned out to be false — a diagram that was
+the model's opinion, a judge score that could be bluffed, a "refactor" that dropped a symbol, a benchmark
+number with no source. Each project replaces one such claim with a mechanical check. Tools ship on npm and
+PyPI; research repos publish their data and keep negative results in.
+
+Site: https://alloevil.github.io/ · GitHub: https://github.com/alloevil · Project index: https://alloevil.github.io/projects/
+
+## Tools
+
+- [codeblast](https://alloevil.github.io/codeblast/): Deterministic code graph producing architecture, change and impact maps with `file:line` evidence on every edge; impact recall is verified by mutation testing rather than asserted. Install `npx codeblast demo`. Source: https://github.com/alloevil/codeblast
+- [paired-eval](https://alloevil.github.io/paired-eval/): Evaluates models, agents and harnesses with program checks first, rubrics only for the remainder, and paired statistics for the verdict — including what the verdict cannot rule out. Zero dependencies, Python 3.9+. Install `pip install paired-eval`. Source: https://github.com/alloevil/paired-eval
+- [AgentXRay](https://alloevil.github.io/AgentXRay/): Web dashboard for AI agent session logs across Claude Code, Codex, OpenClaw, Hermes, OMP and Gemini CLI, with a per-turn time/token/cost ledger. Install `npx @alloevil/agent-xray`. Source: https://github.com/alloevil/AgentXRay
+
+## Evaluation data
+
+- [agent-harness-evals](https://alloevil.github.io/agent-harness-evals/): The model x agent-harness matrix that model leaderboards omit — one schema over live leaderboard sources. Source: https://github.com/alloevil/agent-harness-evals
+- [llm-benchmarks-tracker](https://alloevil.github.io/llm-benchmarks-tracker/): Sourced, schema-validated catalogue of LLM and agent benchmarks: what each tests, saturation and contamination status, and top scores tagged official / independent / self-reported. Ships a JSON API. Source: https://github.com/alloevil/llm-benchmarks-tracker
+- [AI-Paper-Daily](https://alloevil.github.io/AI-Paper-Daily/): Automated daily and weekly paper digests for AI agents, RAG and knowledge graphs, aggregated from arXiv and HuggingFace Daily Papers and LLM-filtered. Source: https://github.com/alloevil/AI-Paper-Daily
+
+## Research
+
+- [coding-agent-internals](https://alloevil.github.io/coding-agent-internals/): How coding agents actually implement search, edit, LSP, DAP and sub-agents — shell-fork vs in-process, `str_replace` vs hash-anchored — framed as capability ceilings rather than feature checklists. Source: https://github.com/alloevil/coding-agent-internals
+- [agents-with-receipts](https://alloevil.github.io/agents-with-receipts/): Cell-by-cell verified cross-tool comparison table, a sourced practices map, and an `AGENTS.md` linter. Source: https://github.com/alloevil/agents-with-receipts
+- [deepresearch-arms-lab](https://alloevil.github.io/deepresearch-arms-lab/): A 14-arm ablation of deep research pipelines on a weak base model, with negative results retained and re-validation runs. Source: https://github.com/alloevil/deepresearch-arms-lab
+
+## Optional
+
+- [agent-changelog](https://alloevil.github.io/agent-changelog/): Unofficial changelog tracker synced from upstream AI agent framework releases (OpenClaw, Hermes).
+- [github-discovery](https://alloevil.github.io/github-discovery/): Finds trending GitHub repositories early from six data sources with scoring and anti-spam, delivered as a daily digest.
+- [foodmap](https://alloevil.github.io/foodmap/): Visualises restaurants recommended by food bloggers on a map, extracting and geocoding venues from posts.
+
+## Apps and tools (no standalone site)
+
+- [weibo-chat-auto](https://github.com/alloevil/weibo-chat-auto): Native desktop app (Tauri + Rust + Node.js) plus a local viewer that archives Weibo group-chat messages, with AI daily summaries and agentic Q&A; self-hosted, data stays local.
+- [dsh-xray](https://github.com/alloevil/dsh-xray): Diagnostics for a DeepSeek Harness setup — context-tax attribution, entry inspection, dependency cascades. Install `npx dsh-xray`, npm package `dsh-xray`.
+- [agent-tool-benchmark](https://github.com/alloevil/agent-tool-benchmark): Hands-on, reproducible benchmarks of AI agent tooling — same machine, same tasks, scripts published in full.
+- [TabCraft](https://github.com/alloevil/TabCraft): AI-powered Chrome tab organizer that auto-groups by topic, hibernates inactive tabs and removes duplicates, using on-device Gemini Nano; no data leaves the browser.
+- [llms-full.txt](https://alloevil.github.io/llms-full.txt): Expanded version of this file with install commands, verifiable claims and FAQ.

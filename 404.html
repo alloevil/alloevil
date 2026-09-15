@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Not found — allo</title>
+    <meta name="robots" content="noindex" />
+    <link rel="icon" href="/assets/site/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/assets/site/theme.js"></script>
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap site-header__inner">
+        <a class="brand" href="/">
+          <svg class="brand__mark" viewBox="0 0 30 30" fill="none" aria-hidden="true">
+            <path d="M20 14A8 8 0 1 1 12.5 24.7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+            <path d="M20 8.5A13.5 13.5 0 1 1 7.3 26.6" stroke="currentColor" stroke-width="2.2" stroke-opacity=".55" stroke-linecap="round" />
+            <circle cx="20" cy="22" r="3.6" fill="var(--accent)" />
+          </svg>
+          <span>allo<span class="brand__path">@alloevil</span></span>
+        </a>
+
+        <button class="icon-btn nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="site-nav" aria-label="Toggle navigation">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+            <path d="M2 4h12M2 8h12M2 12h12" />
+          </svg>
+        </button>
+
+        <nav class="site-nav" id="site-nav" data-nav>
+          <a href="/#work">Work</a>
+          <a href="/projects/">Projects</a>
+          <a href="/#evidence">Evidence</a>
+          <a href="/blog/">Writing</a>
+          <a href="https://github.com/alloevil" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </nav>
+
+        <button class="icon-btn" type="button" data-theme-toggle aria-pressed="false" aria-label="Switch colour theme">
+          <svg class="icon-btn__sun" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <circle cx="8" cy="8" r="3.1" />
+            <path d="M8 1v1.6M8 13.4V15M1 8h1.6M13.4 8H15M3.05 3.05l1.13 1.13M11.82 11.82l1.13 1.13M12.95 3.05l-1.13 1.13M4.18 11.82l-1.13 1.13" />
+          </svg>
+          <svg class="icon-btn__moon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M13.5 9.6A5.8 5.8 0 0 1 6.4 2.5 5.9 5.9 0 1 0 13.5 9.6Z" />
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <main id="main" class="stage">
+      <div class="wrap">
+        <p class="prompt" style="margin-bottom: 8px">allo@alloevil:~<span class="prompt__caret">$</span> cat <span data-path>/this/page</span></p>
+        <h1>404</h1>
+        <p>
+          Nothing is published at that path. Everything this site serves is either one of its pages or one of the files
+          next to them.
+        </p>
+        <div class="hero__actions">
+          <a class="btn btn--primary" href="/">Home</a>
+          <a class="btn" href="/projects/">Projects</a>
+          <a class="btn" href="/blog/">Writing</a>
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap site-footer__grid">
+        <a href="https://github.com/alloevil" target="_blank" rel="noopener noreferrer">github.com/alloevil</a>
+        <a href="/claims.json">claims.json</a>
+        <a href="https://github.com/alloevil/alloevil" target="_blank" rel="noopener noreferrer">source</a>
+        <span class="site-footer__meta">© <span data-year>2026</span> allo · built from main by Cloudflare Workers Builds</span>
+      </div>
+    </footer>
+  </body>
+</html>

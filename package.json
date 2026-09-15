@@ -1,0 +1,20 @@
+{
+  "name": "alloevil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "allo's personal site: static pages, the data files they render, and the claims.json that recomputes what they publish. Deployed by Cloudflare Workers Builds on push to main.",
+  "homepage": "https://github.com/alloevil/alloevil",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "preview": "npm run build && wrangler versions upload"
+  },
+  "devDependencies": {
+    "wrangler": "^4.131.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

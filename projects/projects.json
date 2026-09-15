@@ -1,0 +1,227 @@
+{
+  "_comment": "Single source for every project card on this site: the homepage renders the entries flagged featured, projects/index.html renders all of them, and both read this file at runtime. Fields come from committed captures, not from hand-typed prose - name, summary, install command and links are verbatim from docs/snapshots/alloevil-projects-llms-2026-09-15.txt (the project index's own llms.txt), and tagline_zh is the heading text captured in docs/snapshots/alloevil-projects-2026-09-14.json. Three entries in the index link their own site instead of a repository (agent-changelog, github-discovery, foodmap), so their github link is derived from the name; every links.github is checked to be https://github.com/alloevil/<name> against the repository the name resolves to. claims.json checks the bijection in both directions, so an entry added to the index upstream or a link edited here fails the gate instead of drifting.",
+  "source": "https://alloevil.github.io/llms.txt",
+  "index": "https://alloevil.github.io/projects/",
+  "updated": "2026-09-15",
+  "groups": [
+    {
+      "id": "tools",
+      "label": "Tools",
+      "blurb": "Shipped on npm and PyPI."
+    },
+    {
+      "id": "evaluation",
+      "label": "Evaluation data",
+      "blurb": "The model × harness matrix leaderboards omit."
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "blurb": "Cross-tool studies and ablations, negative results kept."
+    },
+    {
+      "id": "optional",
+      "label": "Optional",
+      "blurb": "Trackers, digests and side tools."
+    },
+    {
+      "id": "apps",
+      "label": "Apps and tools (no standalone site)",
+      "blurb": "Installable software, source only."
+    }
+  ],
+  "projects": [
+    {
+      "id": "codeblast",
+      "name": "codeblast",
+      "group": "tools",
+      "tagline_zh": "合并前就知道会坏在哪",
+      "summary": "Deterministic code graph producing architecture, change and impact maps with `file:line` evidence on every edge; impact recall is verified by mutation testing rather than asserted.",
+      "install": "npx codeblast demo",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/alloevil/codeblast",
+        "site": "https://alloevil.github.io/codeblast/"
+      }
+    },
+    {
+      "id": "paired-eval",
+      "name": "paired-eval",
+      "group": "tools",
+      "tagline_zh": "先跑程序检查，再谈评分",
+      "summary": "Evaluates models, agents and harnesses with program checks first, rubrics only for the remainder, and paired statistics for the verdict — including what the verdict cannot rule out. Zero dependencies, Python 3.9+.",
+      "install": "pip install paired-eval",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/alloevil/paired-eval",
+        "site": "https://alloevil.github.io/paired-eval/"
+      }
+    },
+    {
+      "id": "agentxray",
+      "name": "AgentXRay",
+      "group": "tools",
+      "tagline_zh": "读 agent 真正做了什么",
+      "summary": "Web dashboard for AI agent session logs across Claude Code, Codex, OpenClaw, Hermes, OMP and Gemini CLI, with a per-turn time/token/cost ledger.",
+      "install": "npx @alloevil/agent-xray",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/alloevil/AgentXRay",
+        "site": "https://alloevil.github.io/AgentXRay/"
+      }
+    },
+    {
+      "id": "agent-harness-evals",
+      "name": "agent-harness-evals",
+      "group": "evaluation",
+      "tagline_zh": "同一个模型，换个 harness 会怎样",
+      "summary": "The model x agent-harness matrix that model leaderboards omit — one schema over live leaderboard sources.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/agent-harness-evals",
+        "site": "https://alloevil.github.io/agent-harness-evals/"
+      }
+    },
+    {
+      "id": "llm-benchmarks-tracker",
+      "name": "llm-benchmarks-tracker",
+      "group": "evaluation",
+      "tagline_zh": "带出处的 benchmark 目录",
+      "summary": "Sourced, schema-validated catalogue of LLM and agent benchmarks: what each tests, saturation and contamination status, and top scores tagged official / independent / self-reported. Ships a JSON API.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/llm-benchmarks-tracker",
+        "site": "https://alloevil.github.io/llm-benchmarks-tracker/"
+      }
+    },
+    {
+      "id": "ai-paper-daily",
+      "name": "AI-Paper-Daily",
+      "group": "evaluation",
+      "tagline_zh": "每日论文发现",
+      "summary": "Automated daily and weekly paper digests for AI agents, RAG and knowledge graphs, aggregated from arXiv and HuggingFace Daily Papers and LLM-filtered.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/AI-Paper-Daily",
+        "site": "https://alloevil.github.io/AI-Paper-Daily/"
+      }
+    },
+    {
+      "id": "coding-agent-internals",
+      "name": "coding-agent-internals",
+      "group": "research",
+      "tagline_zh": "12 个 coding agent 是怎么实现的",
+      "summary": "How coding agents actually implement search, edit, LSP, DAP and sub-agents — shell-fork vs in-process, `str_replace` vs hash-anchored — framed as capability ceilings rather than feature checklists.",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/alloevil/coding-agent-internals",
+        "site": "https://alloevil.github.io/coding-agent-internals/"
+      }
+    },
+    {
+      "id": "agents-with-receipts",
+      "name": "agents-with-receipts",
+      "group": "research",
+      "tagline_zh": "有据可查的 agentic coding 实践",
+      "summary": "Cell-by-cell verified cross-tool comparison table, a sourced practices map, and an `AGENTS.md` linter.",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/alloevil/agents-with-receipts",
+        "site": "https://alloevil.github.io/agents-with-receipts/"
+      }
+    },
+    {
+      "id": "deepresearch-arms-lab",
+      "name": "deepresearch-arms-lab",
+      "group": "research",
+      "tagline_zh": "14 组消融，负结果照样留着",
+      "summary": "A 14-arm ablation of deep research pipelines on a weak base model, with negative results retained and re-validation runs.",
+      "featured": true,
+      "links": {
+        "github": "https://github.com/alloevil/deepresearch-arms-lab",
+        "site": "https://alloevil.github.io/deepresearch-arms-lab/"
+      }
+    },
+    {
+      "id": "agent-changelog",
+      "name": "agent-changelog",
+      "group": "optional",
+      "tagline_zh": "主流 AI Agent 框架版本追踪",
+      "summary": "Unofficial changelog tracker synced from upstream AI agent framework releases (OpenClaw, Hermes).",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/agent-changelog",
+        "site": "https://alloevil.github.io/agent-changelog/"
+      }
+    },
+    {
+      "id": "github-discovery",
+      "name": "github-discovery",
+      "group": "optional",
+      "tagline_zh": "在项目火之前发现它",
+      "summary": "Finds trending GitHub repositories early from six data sources with scoring and anti-spam, delivered as a daily digest.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/github-discovery",
+        "site": "https://alloevil.github.io/github-discovery/"
+      }
+    },
+    {
+      "id": "foodmap",
+      "name": "foodmap",
+      "group": "optional",
+      "tagline_zh": "美食地图",
+      "summary": "Visualises restaurants recommended by food bloggers on a map, extracting and geocoding venues from posts.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/foodmap",
+        "site": "https://alloevil.github.io/foodmap/"
+      }
+    },
+    {
+      "id": "weibo-chat-auto",
+      "name": "weibo-chat-auto",
+      "group": "apps",
+      "tagline_zh": "微博群聊自动归档",
+      "summary": "Native desktop app (Tauri + Rust + Node.js) plus a local viewer that archives Weibo group-chat messages, with AI daily summaries and agentic Q&A; self-hosted, data stays local.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/weibo-chat-auto"
+      }
+    },
+    {
+      "id": "dsh-xray",
+      "name": "dsh-xray",
+      "group": "apps",
+      "tagline_zh": "DeepSeek Harness 的透视工具",
+      "summary": "Diagnostics for a DeepSeek Harness setup — context-tax attribution, entry inspection, dependency cascades.",
+      "install": "npx dsh-xray",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/dsh-xray"
+      }
+    },
+    {
+      "id": "agent-tool-benchmark",
+      "name": "agent-tool-benchmark",
+      "group": "apps",
+      "tagline_zh": "AI agent 工具的实测基准",
+      "summary": "Hands-on, reproducible benchmarks of AI agent tooling — same machine, same tasks, scripts published in full.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/agent-tool-benchmark"
+      }
+    },
+    {
+      "id": "tabcraft",
+      "name": "TabCraft",
+      "group": "apps",
+      "tagline_zh": "Chrome 标签页 AI 整理插件",
+      "summary": "AI-powered Chrome tab organizer that auto-groups by topic, hibernates inactive tabs and removes duplicates, using on-device Gemini Nano; no data leaves the browser.",
+      "featured": false,
+      "links": {
+        "github": "https://github.com/alloevil/TabCraft"
+      }
+    }
+  ]
+}

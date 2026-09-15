@@ -105,6 +105,44 @@
 
 <br/>
 
+## 🌐 The Site
+
+This repository is the GitHub profile *and* the personal site: the pages are committed next to this README, and `main` is what gets deployed.
+
+| Path | What it is |
+|---|---|
+| [`index.html`](index.html) · [`styles.css`](styles.css) · [`script.js`](script.js) | the homepage — hero, focus areas, featured projects, the evidence figures, writing |
+| [`projects/`](projects/) | the project index, rendered from [`projects/projects.json`](projects/projects.json): the one list every project card on the site comes from |
+| [`blog/`](blog/) | the writing index, rendered from [`blog/posts.json`](blog/posts.json) |
+| [`claims.json`](claims.json) | the receipts — the homepage reads this file when it loads and prints its entries, so the page and the gate below cannot drift apart |
+| [`wrangler.jsonc`](wrangler.jsonc) · [`scripts/build-site.mjs`](scripts/build-site.mjs) · [`package.json`](package.json) | what gets published, and the staging step that decides it |
+
+```bash
+npm install
+npm run build   # stage the published surface into dist/, and fail on a broken link
+npm run dev     # serve that build at http://localhost:8787
+npm run deploy  # build + wrangler deploy
+```
+
+`npm run build` copies the published paths — the four pages, their three data files, `claims.json` and `assets/site/` — into `dist/`, then refuses to finish if any page points at a file that is not in there, so a dead link fails the deploy instead of shipping. Profile images stay profile images: `assets/readme/` and `assets/bar_graph.png` are never part of the site.
+
+### Push to `main`, deploy
+
+Cloudflare [Workers Builds](https://developers.cloudflare.com/workers/ci-cd/builds/) watches `main`: every push builds and deploys, and a pull request only gets a preview version.
+
+<details>
+<summary>One-time setup in the Cloudflare dashboard</summary>
+
+1. **Workers & Pages → Create application → Import a repository**, pick `alloevil/alloevil`, and create a Worker named **`alloevil`** — the name must equal `name` in [`wrangler.jsonc`](wrangler.jsonc) or the build fails.
+2. In **Settings → Build**, set the **build command** to `npm run build` and leave the **deploy command** at `npx wrangler deploy` (the default), watching the `main` branch.
+3. **Save and Deploy.** The first build publishes the site to the `*.workers.dev` address shown on the Worker's dashboard page.
+4. Every later `git push` to `main` rebuilds and redeploys. Nothing here runs on a timer: the deploy is the push.
+5. Optional — to serve the site from a domain you already run on Cloudflare, uncomment the `routes` block in [`wrangler.jsonc`](wrangler.jsonc) and push.
+
+</details>
+
+<br/>
+
 ## 📚 Recently Reading
 
 <!-- BLOG-POST-LIST:START -->

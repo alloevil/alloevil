@@ -1,0 +1,5 @@
+# Dependencies, local wrangler state, and the staged site the build produces.
+node_modules/
+.wrangler/
+dist/
+.dev.vars*

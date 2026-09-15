@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>allo — evidence-first tooling for AI coding agents</title>
+    <meta
+      name="description"
+      content="allo (alloevil) builds tooling for AI coding agents that replaces a model's self-report with a check you can run yourself: codeblast impact analysis, paired-eval honest evaluation, AgentXRay agent observability."
+    />
+    <link rel="canonical" href="/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="allo — evidence-first tooling for AI coding agents" />
+    <meta
+      property="og:description"
+      content="Every tool here exists because an LLM told me something that turned out to be false. Each one replaces a claim with a check."
+    />
+    <meta property="og:url" content="/" />
+    <link rel="icon" href="/assets/site/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+    <script src="/assets/site/theme.js"></script>
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="wrap site-header__inner">
+        <a class="brand" href="/">
+          <svg class="brand__mark" viewBox="0 0 30 30" fill="none" aria-hidden="true">
+            <path d="M20 14A8 8 0 1 1 12.5 24.7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+            <path d="M20 8.5A13.5 13.5 0 1 1 7.3 26.6" stroke="currentColor" stroke-width="2.2" stroke-opacity=".55" stroke-linecap="round" />
+            <circle cx="20" cy="22" r="3.6" fill="var(--accent)" />
+          </svg>
+          <span>allo<span class="brand__path">@alloevil</span></span>
+        </a>
+
+        <button class="icon-btn nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="site-nav" aria-label="Toggle navigation">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+            <path d="M2 4h12M2 8h12M2 12h12" />
+          </svg>
+        </button>
+
+        <nav class="site-nav" id="site-nav" data-nav>
+          <a href="#work">Work</a>
+          <a href="/projects/">Projects</a>
+          <a href="#evidence">Evidence</a>
+          <a href="/blog/">Writing</a>
+          <a href="https://github.com/alloevil" target="_blank" rel="noopener noreferrer">GitHub</a>
+        </nav>
+
+        <button class="icon-btn" type="button" data-theme-toggle aria-pressed="false" aria-label="Switch colour theme">
+          <svg class="icon-btn__sun" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <circle cx="8" cy="8" r="3.1" />
+            <path d="M8 1v1.6M8 13.4V15M1 8h1.6M13.4 8H15M3.05 3.05l1.13 1.13M11.82 11.82l1.13 1.13M12.95 3.05l-1.13 1.13M4.18 11.82l-1.13 1.13" />
+          </svg>
+          <svg class="icon-btn__moon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M13.5 9.6A5.8 5.8 0 0 1 6.4 2.5 5.9 5.9 0 1 0 13.5 9.6Z" />
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="wrap hero__grid">
+          <div>
+            <p class="prompt">allo@alloevil:~<span class="prompt__caret">$</span> whoami<span class="prompt__cursor"></span></p>
+            <h1>allo</h1>
+            <p class="hero__lead">Evidence-first tooling for AI coding agents.</p>
+            <p class="hero__sub">
+              Don't trust the model's self-report — check it. Every project here exists because an LLM asserted
+              something that turned out to be false: a diagram that was an opinion, a judge score that could be
+              bluffed, a benchmark number with no source.
+            </p>
+            <div class="hero__actions">
+              <a class="btn btn--primary" href="/projects/">
+                Explore the project index
+                <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" /></svg>
+              </a>
+              <a class="btn" href="https://github.com/alloevil" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a class="btn" href="/blog/">Writing</a>
+            </div>
+            <div class="hero__facts">
+              <span><i class="dot"></i>shipped on npm and PyPI</span>
+              <span>python · typescript</span>
+              <span>source and receipts in the open</span>
+            </div>
+          </div>
+
+          <div class="receipt" data-receipt>
+            <div class="receipt__bar">
+              <span class="receipt__light"></span>
+              <span class="receipt__light"></span>
+              <span class="receipt__light"></span>
+              <span class="receipt__title">claims.json</span>
+              <span class="receipt__count" data-receipt-count>reading…</span>
+            </div>
+            <div class="receipt__foot">
+              <span>read live from the file this site deploys with</span>
+              <a href="/claims.json">open it</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="work">
+        <div class="wrap">
+          <div class="section__head reveal">
+            <p class="eyebrow">What I do</p>
+            <h2>Three problems, one rule: replace the claim with a check.</h2>
+            <p class="section__note">
+              Every tool in this profile came out of the same failure mode — a plausible statement nobody could
+              reproduce. The fix is mechanical: print the evidence, or don't publish the number.
+            </p>
+          </div>
+
+          <div class="focus">
+            <article class="focus__card reveal">
+              <svg class="focus__icon" viewBox="0 0 30 30" fill="none" aria-hidden="true">
+                <path d="M20 14A8 8 0 1 1 12.5 24.7" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+                <path d="M20 8.5A13.5 13.5 0 1 1 7.3 26.6" stroke="currentColor" stroke-width="2.2" stroke-opacity=".55" stroke-linecap="round" />
+                <path d="M20 22h7" stroke="currentColor" stroke-opacity=".45" stroke-width="1.6" />
+                <circle cx="28" cy="22" r="2.6" fill="none" stroke="currentColor" stroke-width="1.8" />
+                <circle cx="20" cy="22" r="3.6" fill="var(--accent)" />
+              </svg>
+              <h3>Impact analysis</h3>
+              <p>Deterministic code graphs — architecture, change and impact maps — with <code>file:line</code> on every edge, and recall verified by mutation testing instead of asserted.</p>
+            </article>
+
+            <article class="focus__card reveal">
+              <svg class="focus__icon" viewBox="0 0 30 30" fill="none" aria-hidden="true">
+                <path d="M2 16h26" stroke="currentColor" stroke-opacity=".35" stroke-width="1.4" />
+                <path d="M7 9h10M7 6v6M17 6v6" stroke="currentColor" stroke-width="1.6" />
+                <path d="M13 23h13M13 20v6M26 20v6" stroke="currentColor" stroke-width="1.6" />
+                <circle cx="9" cy="9" r="2.8" fill="currentColor" />
+                <circle cx="15" cy="9" r="2.8" fill="var(--accent)" />
+                <circle cx="15" cy="23" r="2.8" fill="currentColor" />
+                <circle cx="24" cy="23" r="2.8" fill="var(--accent)" />
+              </svg>
+              <h3>Honest evaluation</h3>
+              <p>Program gates before rubrics, paired statistics for the verdict, and a written statement of what the verdict cannot rule out. Zero dependencies.</p>
+            </article>
+
+            <article class="focus__card reveal">
+              <svg class="focus__icon" viewBox="0 0 30 30" fill="none" aria-hidden="true">
+                <path d="M3 4v22" stroke="currentColor" stroke-opacity=".35" stroke-width="1.4" />
+                <rect x="6" y="6" width="7" height="4" rx="2" fill="currentColor" opacity=".85" />
+                <rect x="6" y="13" width="16" height="4" rx="2" fill="var(--accent)" />
+                <rect x="6" y="20" width="11" height="4" rx="2" fill="currentColor" opacity=".85" />
+                <path d="M26 8v16" stroke="currentColor" stroke-opacity=".25" stroke-width="1.4" stroke-dasharray="2 3" />
+              </svg>
+              <h3>Agent observability</h3>
+              <p>Read what the agent actually did — turn by turn, token by token, with the cost column when the session reports one.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="projects">
+        <div class="wrap">
+          <div class="section__head reveal">
+            <p class="eyebrow">Featured work</p>
+            <h2>Six of them, rendered from the index's own data file.</h2>
+            <p class="section__note">
+              The cards below are read from <a href="/projects/projects.json"><code>projects/projects.json</code></a> at
+              load time — the same file the project index and <code>claims.json</code> check against, so a card cannot
+              describe a project the index does not list.
+            </p>
+          </div>
+
+          <div class="grid" id="featured"></div>
+          <noscript>
+            <p class="empty">
+              This list is rendered from
+              <a href="/projects/projects.json">/projects/projects.json</a> in the browser. Enable JavaScript, or open
+              that file for the same entries.
+            </p>
+          </noscript>
+
+          <div class="section__more">
+            <a class="btn" href="/projects/">
+              All projects, grouped by area
+              <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" /></svg>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="evidence">
+        <div class="wrap">
+          <div class="section__head reveal">
+            <p class="eyebrow">Evidence, not widgets</p>
+            <h2>These are outputs, not badges.</h2>
+            <p class="section__note">
+              Rendered on a schedule from the tools' own results, and served from the image branch this repository
+              publishes: codeblast's dependency graph, its mutation-tested recall, an AgentXRay per-turn ledger, and the
+              contribution grid.
+            </p>
+          </div>
+
+          <div class="evidence">
+            <figure class="reveal">
+              <a href="https://alloevil.github.io/codeblast/tabby-arch.html" target="_blank" rel="noopener noreferrer">
+                <img
+                  src="https://raw.githubusercontent.com/alloevil/alloevil/output/archmap-card.svg"
+                  alt="codeblast architecture map of Tabby: module dependencies with circular dependencies in red"
+                  width="420"
+                  height="240"
+                  loading="lazy"
+                />
+              </a>
+              <figcaption>
+                codeblast architecture map — module dependencies, circular edges in red.
+                <a href="https://github.com/alloevil/codeblast">codeblast</a>
+              </figcaption>
+            </figure>
+
+            <figure class="reveal">
+              <a href="https://github.com/alloevil/codeblast/tree/main/eval" target="_blank" rel="noopener noreferrer">
+                <img
+                  src="https://raw.githubusercontent.com/alloevil/alloevil/output/recall-card.svg"
+                  alt="codeblast mutation-tested recall"
+                  width="480"
+                  height="240"
+                  loading="lazy"
+                />
+              </a>
+              <figcaption>
+                Mutation-tested recall — killed mutants over the newest batch, from
+                <a href="https://github.com/alloevil/codeblast/tree/main/eval">codeblast/eval</a>.
+              </figcaption>
+            </figure>
+
+            <figure class="reveal">
+              <a href="https://github.com/alloevil/AgentXRay" target="_blank" rel="noopener noreferrer">
+                <img
+                  src="https://raw.githubusercontent.com/alloevil/alloevil/output/ledger-card.svg"
+                  alt="AgentXRay per-turn ledger: time and tokens per step"
+                  width="480"
+                  height="240"
+                  loading="lazy"
+                />
+              </a>
+              <figcaption>
+                Per-turn time and token ledger from
+                <a href="https://github.com/alloevil/AgentXRay">AgentXRay</a>.
+              </figcaption>
+            </figure>
+          </div>
+
+          <div class="snake">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake-dark.svg" />
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg" />
+              <img
+                src="https://raw.githubusercontent.com/alloevil/alloevil/output/github-contribution-grid-snake.svg"
+                alt="GitHub contribution grid snake animation"
+                loading="lazy"
+              />
+            </picture>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="writing">
+        <div class="wrap">
+          <div class="section__head reveal">
+            <p class="eyebrow">Writing</p>
+            <h2>The newest things I published.</h2>
+            <p class="section__note">
+              Post titles and dates come from the blog's front matter, listed in
+              <a href="/blog/posts.json"><code>blog/posts.json</code></a>.
+            </p>
+          </div>
+
+          <div class="posts" id="posts" data-limit="3"></div>
+          <div class="section__more">
+            <a class="btn" href="/blog/">
+              All writing
+              <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" /></svg>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="wrap">
+          <div class="cta reveal">
+            <div>
+              <h2>Everything here is source, and every number is a command.</h2>
+              <p>
+                This site is one repository: the pages, the data files they render, and the
+                <code>claims.json</code> that recomputes what the pages say. Push to <code>main</code> and Cloudflare
+                Workers Builds rebuilds and deploys it.
+              </p>
+            </div>
+            <a class="btn btn--primary" href="https://github.com/alloevil/alloevil" target="_blank" rel="noopener noreferrer">
+              Read the source
+              <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" /></svg>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap site-footer__grid">
+        <a href="https://github.com/alloevil" target="_blank" rel="noopener noreferrer">github.com/alloevil</a>
+        <a href="https://alloevil.github.io/">blog</a>
+        <a href="https://alloevil.github.io/projects/">project index</a>
+        <a href="/claims.json">claims.json</a>
+        <a href="https://github.com/alloevil/alloevil" target="_blank" rel="noopener noreferrer">source</a>
+        <span class="site-footer__meta">© <span data-year>2026</span> allo · built from main by Cloudflare Workers Builds</span>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,35 @@
+<!-- Point-in-time capture (2026-09-15) of https://alloevil.github.io/sitemap.xml - the published blog and
+     page URLs that blog/posts.json holds. URL: https://alloevil.github.io/sitemap.xml
+     Fetched: 2026-09-15. Verbatim, byte-for-byte after this header. Point-in-time: posts are published in
+     another repository, so freshness is not checked here. -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://alloevil.github.io/2025/09/25/hello-world.html</loc>
+<lastmod>2025-09-25T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://alloevil.github.io/2025/09/26/gpt5-ccr.html</loc>
+<lastmod>2025-09-26T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://alloevil.github.io/breastfeeding-nutrition-elevit-vs-doctors-best-d3-k2/</loc>
+<lastmod>2025-10-08T16:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://alloevil.github.io/python-logging-rich-vscode/</loc>
+<lastmod>2025-10-10T16:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://alloevil.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://alloevil.github.io/</loc>
+</url>
+<url>
+<loc>https://alloevil.github.io/projects/</loc>
+</url>
+<url>
+<loc>https://alloevil.github.io/workout/</loc>
+</url>
+</urlset>
