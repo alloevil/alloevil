@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The three pages this site publishes, at the origin in site.json. 404.html is deliberately absent:
+     not_found_handling serves it for unknown paths, and a 404 is not a URL to offer a crawler. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alloevil.alloevil1.workers.dev/</loc>
+  </url>
+  <url>
+    <loc>https://alloevil.alloevil1.workers.dev/projects/</loc>
+  </url>
+  <url>
+    <loc>https://alloevil.alloevil1.workers.dev/blog/</loc>
+  </url>
+</urlset>

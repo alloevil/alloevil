@@ -109,6 +109,8 @@
 
 This repository is the GitHub profile *and* the personal site: the pages are committed next to this README, and `main` is what gets deployed.
 
+**Live: [alloevil.alloevil1.workers.dev](https://alloevil.alloevil1.workers.dev)** — served by a Worker with no script behind it, only the staged files below.
+
 | Path | What it is |
 |---|---|
 | [`index.html`](index.html) · [`styles.css`](styles.css) · [`script.js`](script.js) | the homepage — hero, focus areas, featured projects, the evidence figures, writing |
@@ -116,6 +118,7 @@ This repository is the GitHub profile *and* the personal site: the pages are com
 | [`blog/`](blog/) | the writing index, rendered from [`blog/posts.json`](blog/posts.json) |
 | [`claims.json`](claims.json) | the receipts — the homepage reads this file when it loads and prints its entries, so the page and the gate below cannot drift apart |
 | [`wrangler.jsonc`](wrangler.jsonc) · [`scripts/build-site.mjs`](scripts/build-site.mjs) · [`package.json`](package.json) | what gets published, and the staging step that decides it |
+| [`site.json`](site.json) · [`sitemap.xml`](sitemap.xml) · [`robots.txt`](robots.txt) | the origin the site answers on, and the crawler files that name it — one edit moves all three, and `claims.json` fails if they disagree |
 
 ```bash
 npm install
@@ -124,7 +127,7 @@ npm run dev     # serve that build at http://localhost:8787
 npm run deploy  # build + wrangler deploy
 ```
 
-`npm run build` copies the published paths — the four pages, their three data files, `claims.json` and `assets/site/` — into `dist/`, then refuses to finish if any page points at a file that is not in there, so a dead link fails the deploy instead of shipping. Profile images stay profile images: `assets/readme/` and `assets/bar_graph.png` are never part of the site.
+`npm run build` copies the published paths — the four pages, their three data files, `claims.json`, the crawler files and `assets/site/` — into `dist/`, then refuses to finish if any page points at a file that is not in there, so a dead link fails the deploy instead of shipping. It also stamps the deployed origin from `site.json` into each page's `canonical`, `og:url` and `og:image`: those tags are read by crawlers and link previews that never run `script.js`, so they are written absolute into the build rather than filled in by it. Profile images stay profile images: `assets/readme/` and `assets/bar_graph.png` are never part of the site.
 
 ### Push to `main`, deploy
 
@@ -135,8 +138,8 @@ Cloudflare [Workers Builds](https://developers.cloudflare.com/workers/ci-cd/buil
 
 1. **Workers & Pages → Create application → Import a repository**, pick `alloevil/alloevil`, and create a Worker named **`alloevil`** — the name must equal `name` in [`wrangler.jsonc`](wrangler.jsonc) or the build fails.
 2. In **Settings → Build**, set the **build command** to `npm run build` and leave the **deploy command** at `npx wrangler deploy` (the default), watching the `main` branch.
-3. **Save and Deploy.** The first build publishes the site to the `*.workers.dev` address shown on the Worker's dashboard page.
-4. Every later `git push` to `main` rebuilds and redeploys. Nothing here runs on a timer: the deploy is the push.
+3. **Save and Deploy.** The first build published the site to [alloevil.alloevil1.workers.dev](https://alloevil.alloevil1.workers.dev); a later Worker gets its own address, which is also where `site.json`, `sitemap.xml` and `robots.txt` have to agree.
+4. Every later `git push` to `main` rebuilds and redeploys the same Worker. Nothing here runs on a timer: the deploy is the push.
 5. Optional — to serve the site from a domain you already run on Cloudflare, uncomment the `routes` block in [`wrangler.jsonc`](wrangler.jsonc) and push.
 
 </details>

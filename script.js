@@ -125,14 +125,6 @@
     var pathEcho = document.querySelector("[data-path]");
     if (pathEcho) pathEcho.textContent = location.pathname;
 
-    // Deployed origin, so the canonical URL is the address the page is actually served from.
-    if (location.protocol.indexOf("http") === 0) {
-      var canonical = document.querySelector('link[rel="canonical"]');
-      if (canonical) canonical.setAttribute("href", location.origin + location.pathname);
-      var ogUrl = document.querySelector('meta[property="og:url"]');
-      if (ogUrl) ogUrl.setAttribute("content", location.origin + location.pathname);
-    }
-
     reveal(document.querySelectorAll(".reveal"));
   }
 

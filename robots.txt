@@ -1,0 +1,8 @@
+# allo — https://alloevil.alloevil1.workers.dev
+# The pages, the project index and the writing index are all meant to be indexed. The posts
+# themselves are served by the blog at alloevil.github.io, which has its own robots.txt.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://alloevil.alloevil1.workers.dev/sitemap.xml

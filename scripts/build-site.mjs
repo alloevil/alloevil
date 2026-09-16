@@ -11,7 +11,7 @@
 //
 // Run: npm run build   (Cloudflare Workers Builds runs exactly this before `npx wrangler deploy`)
 
-import { cp, mkdir, readFile, rm, readdir, stat } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, readdir, stat, writeFile } from "node:fs/promises";
 import { dirname, join, posix, relative, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -21,7 +21,18 @@ const DIST = join(ROOT, "dist");
 // Everything the site serves, relative to the repository root. Pages and their data are listed
 // individually so that adding a top-level file to the repository is never the same thing as
 // publishing it.
-const PUBLISHED = ["index.html", "404.html", "styles.css", "script.js", "claims.json", "assets/site", "projects", "blog"];
+const PUBLISHED = [
+  "index.html",
+  "404.html",
+  "styles.css",
+  "script.js",
+  "claims.json",
+  "robots.txt",
+  "sitemap.xml",
+  "assets/site",
+  "projects",
+  "blog",
+];
 
 async function walk(dir, base = dir) {
   const out = [];
@@ -59,6 +70,33 @@ for (const entry of PUBLISHED) {
 const problems = [];
 const pages = (await walk(DIST)).filter((f) => f.endsWith(".html")).sort();
 
+// The address the site answers on lives in site.json. The source pages carry canonical, og:url and
+// og:image as root-relative paths - correct for local previews and for any origin - and the build
+// writes them absolute, because the crawlers and chat clients that read these tags do not run
+// script.js. One edit to site.json moves all of them, robots.txt and sitemap.xml included.
+const site = JSON.parse(await readFile(join(ROOT, "site.json"), "utf8"));
+if (!/^https:\/\/[^/]+$/.test(site.origin)) {
+  console.error(`build: site.json origin "${site.origin}" is not a bare https origin`);
+  process.exit(1);
+}
+
+const absolute = (html) =>
+  html
+    .replace(/(<link rel="canonical" href=")(\/[^"]*)/g, (_, open, path) => open + site.origin + path)
+    .replace(/(<meta property="og:url" content=")(\/[^"]*)/g, (_, open, path) => open + site.origin + path)
+    .replace(/(<meta property="og:image" content=")(\/[^"]*)/g, (_, open, path) => open + site.origin + path);
+
+let stamped = 0;
+for (const page of pages) {
+  const file = join(DIST, page);
+  const source = await readFile(file, "utf8");
+  const deployed = absolute(source);
+  if (deployed !== source) {
+    await writeFile(file, deployed);
+    stamped++;
+  }
+}
+
 for (const page of pages) {
   const html = await readFile(join(DIST, page), "utf8");
   const refs = [...html.matchAll(/\b(?:href|src|srcset)="([^"]+)"/g)].map((m) => m[1]);
@@ -89,3 +127,4 @@ const byExt = files.reduce((acc, f) => {
 
 console.log(`build: staged ${files.length} files into dist/ — ${pages.length} pages, ${Object.entries(byExt).sort().map(([e, n]) => `${n}${e}`).join(", ")}`);
 console.log(`build: ${pages.length} pages checked, 0 broken root-relative references`);
+console.log(`build: ${stamped} pages stamped with the deployed origin ${site.origin} (canonical, og:url, og:image)`);

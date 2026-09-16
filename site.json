@@ -1,0 +1,8 @@
+{
+  "_comment": "The origin this site is served from, plus the wording its metadata uses. scripts/build-site.mjs reads this file and stamps absolute URLs into the staged pages - canonical, og:url and og:image are written relative in the source and absolute in dist - because crawlers read those tags without running script.js. Moving to a custom domain is therefore one edit here, one in sitemap.xml and one in robots.txt; claims.json checks the three against each other so they cannot drift.",
+  "origin": "https://alloevil.alloevil1.workers.dev",
+  "name": "allo",
+  "title": "allo — evidence-first tooling for AI coding agents",
+  "description": "Evidence-first tooling for AI coding agents: codeblast impact analysis, paired-eval honest evaluation, AgentXRay agent observability. Every published number carries the command that recomputes it.",
+  "image": "/assets/site/og.png"
+}
