@@ -198,26 +198,26 @@ Cloudflare [Workers Builds](https://developers.cloudflare.com/workers/ci-cd/buil
 <img align="right" alt="coding cat" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C705%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C707%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2089 commits        ██████████████░░░░░░░░░░░   55.59 % 
-🌆 Daytime                1366 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
-🌃 Evening                287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+🌞 Morning                2101 commits        █████████████░░░░░░░░░░░░   53.52 % 
+🌆 Daytime                1521 commits        ██████████░░░░░░░░░░░░░░░   38.74 % 
+🌃 Evening                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1877 commits        ████████████░░░░░░░░░░░░░   49.95 % 
-Tuesday                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Wednesday                194 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Thursday                 539 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Friday                   201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Saturday                 65 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Sunday                   652 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Monday                   1888 commits        ████████████░░░░░░░░░░░░░   48.09 % 
+Tuesday                  234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Wednesday                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Thursday                 539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Friday                   201 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Saturday                 63 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Sunday                   794 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
 
@@ -227,26 +227,26 @@ Sunday                   652 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.93 % 
-Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Python                   2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-JavaScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Markdown                 6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Python                   5 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+HTML                     4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Other                    3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 19 mins       █████████████░░░░░░░░░░░░   53.29 % 
-OMP                      4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-Agent                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Cursor                   26 hrs 19 mins      ███████████████████████░░   92.35 % 
+OMP                      2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Agent                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-wca                      2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-chainsentry-ai           2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-dsv41-3d                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-isc-world-model          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+isc-world-model          7 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+dsv41-3d                 4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Unknown Project          3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+github                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+weibo-chat-auto          2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 💻 Operating System: 
-Linux                    9 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    28 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -262,7 +262,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 03:35:41 UTC
+ Last Updated on 17/09/2026 02:34:47 UTC
 <!--END_SECTION:waka-->
 
 <br/>
