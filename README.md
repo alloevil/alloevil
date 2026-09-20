@@ -198,26 +198,26 @@ Cloudflare [Workers Builds](https://developers.cloudflare.com/workers/ci-cd/buil
 <img align="right" alt="coding cat" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C710%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C711%20hrs%2022%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2278 commits        ██████████████░░░░░░░░░░░   57.25 % 
-🌆 Daytime                1397 commits        █████████░░░░░░░░░░░░░░░░   35.11 % 
-🌃 Evening                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌞 Morning                2327 commits        ██████████████░░░░░░░░░░░   57.53 % 
+🌆 Daytime                1414 commits        █████████░░░░░░░░░░░░░░░░   34.96 % 
+🌃 Evening                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2065 commits        █████████████░░░░░░░░░░░░   51.90 % 
-Tuesday                  234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Wednesday                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Thursday                 540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Friday                   202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Saturday                 63 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Sunday                   668 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Monday                   2114 commits        █████████████░░░░░░░░░░░░   52.26 % 
+Tuesday                  234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Wednesday                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Thursday                 540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Friday                   202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Saturday                 64 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Sunday                   684 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 ```
 
 
@@ -227,26 +227,26 @@ Sunday                   668 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Markdown                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-JavaScript               1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Python                   3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Markdown                 3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+JavaScript               1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 3 mins       █████████████████████████   99.69 % 
-OMP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Cursor                   14 hrs 43 mins      █████████████████████████   99.66 % 
+OMP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-isc-world-model          5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-github                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-dsv41-3d                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-agent-harness-evals      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-alloevil                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+isc-world-model          4 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+github                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+dsv41-3d                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+agent-harness-evals      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+alloevil                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Linux                    16 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -262,7 +262,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 02:25:55 UTC
+ Last Updated on 20/09/2026 02:18:47 UTC
 <!--END_SECTION:waka-->
 
 <br/>
