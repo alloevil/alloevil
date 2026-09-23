@@ -203,21 +203,21 @@ Cloudflare [Workers Builds](https://developers.cloudflare.com/workers/ci-cd/buil
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2714 commits        ███████████████░░░░░░░░░░   60.63 % 
-🌆 Daytime                1457 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌃 Evening                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+🌞 Morning                2954 commits        ████████████████░░░░░░░░░   62.49 % 
+🌆 Daytime                1468 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌃 Evening                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌙 Night                  16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2502 commits        ██████████████░░░░░░░░░░░   55.90 % 
-Tuesday                  234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Wednesday                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Thursday                 540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Friday                   202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Saturday                 64 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Sunday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Monday                   2742 commits        ███████████████░░░░░░░░░░   58.01 % 
+Tuesday                  235 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Wednesday                207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Thursday                 540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Friday                   202 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Saturday                 64 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Sunday                   737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 ```
 
 
@@ -227,25 +227,24 @@ Sunday                   727 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
-Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-JavaScript               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Docker                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Other                    1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Python                   1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+JavaScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 22 mins       █████████████████████████   100.00 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   5 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-isc-world-model          2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.38 % 
-github                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-agent-harness-evals      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-alloevil                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Unknown Project          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+isc-world-model          1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+github                   1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+agent-harness-evals      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+alloevil                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+dsh-xray                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -261,7 +260,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 03:56:42 UTC
+ Last Updated on 23/09/2026 03:28:12 UTC
 <!--END_SECTION:waka-->
 
 <br/>
