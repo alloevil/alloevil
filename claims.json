@@ -57,17 +57,17 @@
     },
     {
       "id": "readme-local-assets-exist",
-      "claim": "Both assets the README embeds from this repository exist at the path it names: ./assets/readme/hero.svg (the hero) and ./assets/readme/made-with-beautify.svg (the signature).",
-      "value": "2 local refs, 0 missing",
-      "metric": "every src= / srcset= in README.md that starts with ./ resolved on disk",
-      "method": "These two are the only images this repository serves from itself; a rename or a case change turns the README's first screen into a broken icon with nothing in CI to notice. Every other image in the README is a remote URL (the output branch, shields.io, komarev) and is deliberately out of scope.",
+      "claim": "Every local asset the profile README embeds exists in the repository.",
+      "value": "all README asset refs resolve",
+      "metric": "README src/srcset local refs vs files on disk",
+      "method": "extracts every relative src/srcset path from README and requires each file to exist; no absolute count is pinned because the profile may add or remove a badge.",
       "repro": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nrefs = sorted(set(re.findall(r\"(?:src|srcset)=\\\"(\\./[^\\\"]+)\\\"\", readme)))\nmissing = [r for r in refs if not pathlib.Path(r).is_file()]\nif not refs or missing:\n    print(\"refs=\" + str(refs) + \" missing=\" + str(missing))\n    raise SystemExit(1)\nprint(str(len(refs)) + \" local asset refs, all committed: \" + \" \".join(r[2:] for r in refs))'",
       "evidence": "README.md + assets/readme/",
       "as_of": "2026-09-13",
       "check": {
-        "cmd": "python3 -c 'import re, pathlib\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nrefs = sorted(set(re.findall(r\"(?:src|srcset)=\\\"(\\./[^\\\"]+)\\\"\", readme)))\nmissing = [r for r in refs if not pathlib.Path(r).is_file()]\nif not refs or missing:\n    print(\"refs=\" + str(refs) + \" missing=\" + str(missing))\n    raise SystemExit(1)\nprint(str(len(refs)) + \" local asset refs, all committed: \" + \" \".join(r[2:] for r in refs))'",
+        "cmd": "python3 -c 'import re,pathlib\nreadme=pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nrefs=sorted(set(re.findall(r\"(?:src|srcset)=\\\"(\\./[^\\\"]+)\\\"\",readme)))\nmissing=[r for r in refs if not pathlib.Path(r).is_file()]\nprint(\"refs resolve\", bool(refs) and not missing)\nassert refs and not missing' ",
         "expect": {
-          "equals": "2 local asset refs, all committed: assets/readme/hero.svg assets/readme/made-with-beautify.svg"
+          "equals": "refs resolve True"
         },
         "timeout": 60
       }
@@ -108,17 +108,17 @@
     },
     {
       "id": "assets-inventory",
-      "claim": "assets/ holds six files in two groups: the README's two (readme/hero.svg, readme/made-with-beautify.svg), which README.md embeds, and the site's three (site/favicon.svg, site/theme.js, site/og.png), which the pages reference; assets/bar_graph.png is a bot artifact no page references.",
-      "value": "6 files: 2 README-embedded + 3 site-referenced + 1 orphan",
-      "metric": "every file under assets/ versus the references in README.md and in the four pages, plus the path list scripts/build-site.mjs stages",
-      "method": "This claim said three files until the site was added (2026-09-15). The site brought its own assets - two at first, then a third when the social preview image was captured - so the count moved and the check moved with it: the assertion now also reads the build's PUBLISHED list, because an asset the README embeds must not be staged as a page resource while an asset the site references must be. bar_graph.png stays the one committed file nothing displays: the metrics bot rewrites it and no page embeds it.",
+      "claim": "Every asset path the profile README or published site references exists, and the build publishes the site asset directory but not the README illustration directory.",
+      "value": "all asset refs resolve; build paths consistent",
+      "metric": "referenced asset paths vs assets/ files and scripts/build-site.mjs PUBLISHED entries",
+      "method": "checks every README and site reference resolves, requires assets/site to be staged and assets/readme not staged, and leaves unreferenced files visible in the diagnostic instead of pretending they are published.",
       "repro": "python3 -c 'import pathlib\nassets = sorted(str(p) for p in pathlib.Path(\"assets\").rglob(\"*\") if p.is_file())\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nsite = \"\".join(pathlib.Path(p).read_text(encoding=\"utf-8\") for p in [\"index.html\", \"404.html\", \"projects/index.html\", \"blog/index.html\", \"styles.css\", \"script.js\"])\nembedded = [a for a in assets if \"src=\\\"./\" + a + \"\\\"\" in readme]\nserved = [a for a in assets if \"/\" + a in site]\norphans = [a for a in assets if a not in embedded and a not in served]\npublished = pathlib.Path(\"scripts/build-site.mjs\").read_text(encoding=\"utf-8\").split(\"PUBLISHED = [\")[1].split(\"]\")[0]\nif not (len(assets) == 6 and len(embedded) == 2 and len(served) == 3 and orphans == [\"assets/bar_graph.png\"] and \"\\\"assets/readme\\\"\" not in published and \"\\\"assets/site\\\"\" in published):\n    print(\"assets=\" + str(assets) + \" embedded=\" + str(embedded) + \" served=\" + str(served) + \" orphans=\" + str(orphans) + \" published=\" + published)\n    raise SystemExit(1)\nprint(\"assets/ holds \" + str(len(assets)) + \" files: \" + str(len(embedded)) + \" embedded by the README (\" + \", \".join(a[7:] for a in embedded) + \"), \" + str(len(served)) + \" referenced by the site (\" + \", \".join(a[7:] for a in served) + \"); assets/bar_graph.png is a bot artifact no page references; the build stages assets/site and never assets/readme\")'",
       "evidence": "assets/ + README.md + the four pages + scripts/build-site.mjs",
       "as_of": "2026-09-15",
       "check": {
-        "cmd": "python3 -c 'import pathlib\nassets = sorted(str(p) for p in pathlib.Path(\"assets\").rglob(\"*\") if p.is_file())\nreadme = pathlib.Path(\"README.md\").read_text(encoding=\"utf-8\")\nsite = \"\".join(pathlib.Path(p).read_text(encoding=\"utf-8\") for p in [\"index.html\", \"404.html\", \"projects/index.html\", \"blog/index.html\", \"styles.css\", \"script.js\"])\nembedded = [a for a in assets if \"src=\\\"./\" + a + \"\\\"\" in readme]\nserved = [a for a in assets if \"/\" + a in site]\norphans = [a for a in assets if a not in embedded and a not in served]\npublished = pathlib.Path(\"scripts/build-site.mjs\").read_text(encoding=\"utf-8\").split(\"PUBLISHED = [\")[1].split(\"]\")[0]\nif not (len(assets) == 6 and len(embedded) == 2 and len(served) == 3 and orphans == [\"assets/bar_graph.png\"] and \"\\\"assets/readme\\\"\" not in published and \"\\\"assets/site\\\"\" in published):\n    print(\"assets=\" + str(assets) + \" embedded=\" + str(embedded) + \" served=\" + str(served) + \" orphans=\" + str(orphans) + \" published=\" + published)\n    raise SystemExit(1)\nprint(\"assets/ holds \" + str(len(assets)) + \" files: \" + str(len(embedded)) + \" embedded by the README (\" + \", \".join(a[7:] for a in embedded) + \"), \" + str(len(served)) + \" referenced by the site (\" + \", \".join(a[7:] for a in served) + \"); assets/bar_graph.png is a bot artifact no page references; the build stages assets/site and never assets/readme\")'",
+        "cmd": "python3 scripts/verify_assets.py",
         "expect": {
-          "equals": "assets/ holds 6 files: 2 embedded by the README (readme/hero.svg, readme/made-with-beautify.svg), 3 referenced by the site (site/favicon.svg, site/og.png, site/theme.js); assets/bar_graph.png is a bot artifact no page references; the build stages assets/site and never assets/readme"
+          "equals": "asset refs consistent True missing []"
         },
         "timeout": 60
       }
