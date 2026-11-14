@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>
+  text { fill: #c9d1d9; }
+  .muted { fill: #8b949e; }
+  .title { font-size: 14px; font-weight: 600; }
+  .sub { font-size: 11px; }
+  .ring { stroke-dashoffset: 289.0; animation: ring 1.4s ease-out forwards; } @keyframes ring { to { stroke-dashoffset: 0.0; } } .bar { transform-origin: 150px 0; animation: grow 1.2s ease-out both; } @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="199" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="16" y="24" class="title">codeblast · mutation-tested recall</text>
+<text x="464" y="24" class="sub muted" text-anchor="end">weekly · 2026-09-07</text>
+<line x1="16" y1="36" x2="464" y2="36" stroke="#30363d"/>
+<circle cx="80" cy="118" r="46" fill="none" stroke="#30363d" stroke-width="10"/>
+<circle cx="80" cy="118" r="46" fill="none" stroke="#3fb950" stroke-width="10" stroke-linecap="round" stroke-dasharray="289.0" stroke-dashoffset="0.0" transform="rotate(-90 80 118)" class="ring"/>
+<text x="80" y="116" text-anchor="middle" font-size="22" font-weight="700">100%</text>
+<text x="80" y="132" text-anchor="middle" font-size="10" class="muted">recall</text><text x="150" y="62" font-size="12" font-weight="600">10/10 mutants recalled</text><text x="150" y="78" font-size="10" class="muted">tools · inject a fault → run the real tests → compare</text><text x="150" y="104" font-size="11">precision, all channels</text><rect x="150" y="110" width="220" height="6" rx="3" fill="#30363d"/><rect x="150" y="110" width="72.9" height="6" rx="3" fill="#e3b341" class="bar"/><text x="464" y="104" text-anchor="end" font-size="11" class="muted">0.33</text><text x="150" y="138" font-size="11">precision, call channel</text><rect x="150" y="144" width="220" height="6" rx="3" fill="#30363d"/><rect x="150" y="144" width="201.9" height="6" rx="3" fill="#58a6ff" class="bar"/><text x="464" y="138" text-anchor="end" font-size="11" class="muted">0.92</text><text x="150" y="186" font-size="10" class="muted">false positives over false negatives — by design</text>
+</svg>
